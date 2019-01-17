@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2307725,,2307725,,232022,,,0
+H1,2001,2001,2001,6,1,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,69366285,,69366285,,9427109,,,0
+H1,2001,2001,2001,6,1,1,Import,268,Georgia,GEO,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,29200,,29200,,2336,,,0
+H1,2001,2001,2001,6,1,2,Export,268,Georgia,GEO,51,Armenia,ARM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,505644,,505644,,76433,,,0
+H1,2001,2001,2001,6,1,1,Import,268,Georgia,GEO,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,513280,,513280,,37274,,,0
+H1,2001,2001,2001,6,1,2,Export,268,Georgia,GEO,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,26831512,,26831512,,3768011,,,0
+H1,2001,2001,2001,6,1,2,Export,268,Georgia,GEO,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,37992775,,37992775,,5007307,,,0
+H1,2001,2001,2001,6,1,1,Import,268,Georgia,GEO,795,Turkmenistan,TKM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1765245,,1765245,,192412,,,0
+H1,2001,2001,2001,6,1,2,Export,268,Georgia,GEO,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4036354,,4036354,,575358,,,0

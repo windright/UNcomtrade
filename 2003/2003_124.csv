@@ -1,0 +1,40 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,9877194451,,,0
+H2,2003,2003,2003,6,1,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,14605779394,,,0
+H2,2003,2003,2003,6,1,4,Re-Import,124,Canada,CAN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,94,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,1680173461,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,18688167,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,11904493,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,94,,,0
+H2,2003,2003,2003,6,1,4,Re-Import,124,Canada,CAN,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,94,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,58,,,0
+H2,2003,2003,2003,6,1,2,Export,124,Canada,CAN,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,19733822,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,178,Congo,COG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,31,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,228357791,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,47,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,329279867,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,4793488,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,41,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,805429136,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,376,Israel,ISR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,6697865,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,10766286,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,2667,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,272459756,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,294849746,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,2772038190,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,14803086,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,338883003,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,574808092,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,6869790,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,639,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,52415520,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,760,Syria,SYR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,65577080,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,7509,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,58,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,35747294,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,31460321,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,1900125321,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,155462747,,,0
+H2,2003,2003,2003,6,1,2,Export,124,Canada,CAN,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,14586045572,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,265592047,,,0
+H2,2003,2003,2003,6,1,1,Import,124,Canada,CAN,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,761,,,0

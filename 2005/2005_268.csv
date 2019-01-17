@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,6,1,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,89045,,89045,,16090,,,0
+H2,2005,2005,2005,6,1,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,64033026,,64033026,,23125439,,,0
+H2,2005,2005,2005,6,1,1,Import,268,Georgia,GEO,100,Bulgaria,BGR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,45,,45,,50,,,0
+H2,2005,2005,2005,6,1,2,Export,268,Georgia,GEO,100,Bulgaria,BGR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,46271072,,46271072,,17067041,,,0
+H2,2005,2005,2005,6,1,2,Export,268,Georgia,GEO,292,Gibraltar,GIB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1022875,,1022875,,336084,,,0
+H2,2005,2005,2005,6,1,1,Import,268,Georgia,GEO,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1000,,1000,,200,,,0
+H2,2005,2005,2005,6,1,2,Export,268,Georgia,GEO,642,Romania,ROU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,11553449,,11553449,,3942629,,,0
+H2,2005,2005,2005,6,1,1,Import,268,Georgia,GEO,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,88000,,88000,,15840,,,0
+H2,2005,2005,2005,6,1,2,Export,268,Georgia,GEO,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5185630,,5185630,,1779685,,,0

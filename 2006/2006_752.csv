@@ -1,0 +1,23 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2006,2006,2006,6,1,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,19170213000,,19170213000,,8861439758,,,0
+H2,2006,2006,2006,6,1,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,29650,,29650,,68173,,,6
+H2,2006,2006,2006,6,1,2,Export,752,Sweden,SWE,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5000,,5000,,12222,,,0
+H2,2006,2006,2006,6,1,1,Import,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5191898000,,5191898000,,2482504371,,,0
+H2,2006,2006,2006,6,1,2,Export,752,Sweden,SWE,246,Finland,FIN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,59,,59,,136,,,6
+H2,2006,2006,2006,6,1,2,Export,752,Sweden,SWE,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,177,,177,,407,,,6
+H2,2006,2006,2006,6,1,1,Import,752,Sweden,SWE,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,17405000,,17405000,,9182810,,,0
+H2,2006,2006,2006,6,1,2,Export,752,Sweden,SWE,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1000,,1000,,2037,,,0
+H2,2006,2006,2006,6,1,1,Import,752,Sweden,SWE,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,288465000,,288465000,,133968487,,,0
+H2,2006,2006,2006,6,1,1,Import,752,Sweden,SWE,428,Latvia,LVA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,71158000,,71158000,,35579822,,,0
+H2,2006,2006,2006,6,1,1,Import,752,Sweden,SWE,440,Lithuania,LTU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,528922000,,528922000,,249847559,,,0
+H2,2006,2006,2006,6,1,2,Export,752,Sweden,SWE,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,413,,413,,951,,,6
+H2,2006,2006,2006,6,1,1,Import,752,Sweden,SWE,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,20595000,,20595000,,10787458,,,0
+H2,2006,2006,2006,6,1,1,Import,752,Sweden,SWE,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4394056000,,4394056000,,2209538522,,,0
+H2,2006,2006,2006,6,1,2,Export,752,Sweden,SWE,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1000,,1000,,15617,,,0
+H2,2006,2006,2006,6,1,1,Import,752,Sweden,SWE,616,Poland,POL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,100021000,,100021000,,46329646,,,0
+H2,2006,2006,2006,6,1,1,Import,752,Sweden,SWE,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6569375000,,6569375000,,2946695477,,,0
+H2,2006,2006,2006,6,1,2,Export,752,Sweden,SWE,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1000,,1000,,1222,,,0
+H2,2006,2006,2006,6,1,1,Import,752,Sweden,SWE,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,722120000,,722120000,,368509732,,,0
+H2,2006,2006,2006,6,1,2,Export,752,Sweden,SWE,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,21000,,21000,,35580,,,0
+H2,2006,2006,2006,6,1,1,Import,752,Sweden,SWE,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1000,,1000,,4212,,,0
+H2,2006,2006,2006,6,1,1,Import,752,Sweden,SWE,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1266197000,,1266197000,,368491663,,,0

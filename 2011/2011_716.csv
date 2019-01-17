@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,6,1,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,70983,,70983,,178774,,,0
+H3,2011,2011,2011,6,1,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,545,,545,,538,,,0
+H3,2011,2011,2011,6,1,1,Import,716,Zimbabwe,ZWE,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,86,,86,,2690,,,0
+H3,2011,2011,2011,6,1,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,40,,40,,40,,,0
+H3,2011,2011,2011,6,1,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,19479,,19479,,75816,,,0
+H3,2011,2011,2011,6,1,1,Import,716,Zimbabwe,ZWE,764,Thailand,THA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,368,,368,,5882,,,0
+H3,2011,2011,2011,6,1,1,Import,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,50970,,50970,,94046,,,0
+H3,2011,2011,2011,6,1,1,Import,716,Zimbabwe,ZWE,834,United Rep. of Tanzania,TZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,40,,40,,300,,,0
+H3,2011,2011,2011,6,1,2,Export,716,Zimbabwe,ZWE,834,United Rep. of Tanzania,TZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,545,,545,,538,,,0

@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2005,2005,2005,6,1,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2273000000,,2273000000,,797453704,,,0
+H0,2005,2005,2005,6,1,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2173634007,,2173634007,,514713544,,,0
+H0,2005,2005,2005,6,1,2,Export,818,Egypt,EGY,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,857000000,,857000000,,203479132,,,0
+H0,2005,2005,2005,6,1,2,Export,818,Egypt,EGY,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,81000000,,81000000,,26257601,,,0
+H0,2005,2005,2005,6,1,2,Export,818,Egypt,EGY,404,Kenya,KEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,81600,,81600,,39620,,,0
+H0,2005,2005,2005,6,1,1,Import,818,Egypt,EGY,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2273000000,,2273000000,,797453704,,,0
+H0,2005,2005,2005,6,1,2,Export,818,Egypt,EGY,422,Lebanon,LBN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,238807,,238807,,208279,,,0
+H0,2005,2005,2005,6,1,2,Export,818,Egypt,EGY,699,India,IND,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1155300000,,1155300000,,260934909,,,0
+H0,2005,2005,2005,6,1,2,Export,818,Egypt,EGY,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,80000000,,80000000,,23787313,,,0
+H0,2005,2005,2005,6,1,2,Export,818,Egypt,EGY,834,United Rep. of Tanzania,TZA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,13600,,13600,,6690,,,0

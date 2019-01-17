@@ -1,0 +1,26 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,22871985282,,22871985282,,17986017552,,,0
+H3,2011,2011,2011,6,1,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,186729748,,186729748,,152389562,,,6
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,8,Albania,ALB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,23720,,23720,,15590,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,40,Austria,AUT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,160,,160,,2208,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,41,,41,,391,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,112,Belarus,BLR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,160083090,,160083090,,125177407,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,196,Cyprus,CYP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1465531,,1465531,,1567336,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,203,Czechia,CZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1105243,,1105243,,742642,,,0
+H3,2011,2011,2011,6,1,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,28,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1050176,,1050176,,2984854,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,613304,,613304,,1749280,,,0
+H3,2011,2011,2011,6,1,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,186729421,,186729421,,152388644,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,123524242,,123524242,,100543769,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,372,Ireland,IRL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,17100,,17100,,78601,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,912,,912,,16266,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2000,,2000,,2370,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,440,Lithuania,LTU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3986978,,3986978,,2535060,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,9478,,9478,,34179,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1335672000,,1335672000,,1152785838,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,642,Romania,ROU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,24130,,24130,,17902,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,21086313991,,21086313991,,16468127255,,,0
+H3,2011,2011,2011,6,1,2,Export,616,Poland,POL,703,Slovakia,SVK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,164,,164,,720,,,0
+H3,2011,2011,2011,6,1,2,Export,616,Poland,POL,804,Ukraine,UKR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,159,,159,,170,,,6
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,158093176,,158093176,,129636465,,,0
+H3,2011,2011,2011,6,1,1,Import,616,Poland,POL,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10,,10,,139,,,0

@@ -1,0 +1,16 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,6,1,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7730113606,,7730113606,,2837236304,,,0
+H2,2005,2005,2005,6,1,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,57621482,,57621482,,21477129,,,0
+H2,2005,2005,2005,6,1,1,Import,203,Czechia,CZE,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,177595000,,177595000,,61248774,,,0
+H2,2005,2005,2005,6,1,1,Import,203,Czechia,CZE,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1454833000,,1454833000,,581732050,,,0
+H2,2005,2005,2005,6,1,2,Export,203,Czechia,CZE,40,Austria,AUT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,40658050,,40658050,,15010270,,,0
+H2,2005,2005,2005,6,1,1,Import,203,Czechia,CZE,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2654,,2654,,7672,,,0
+H2,2005,2005,2005,6,1,1,Import,203,Czechia,CZE,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,249414000,,249414000,,104168640,,,0
+H2,2005,2005,2005,6,1,1,Import,203,Czechia,CZE,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,270068000,,270068000,,110553478,,,0
+H2,2005,2005,2005,6,1,2,Export,203,Czechia,CZE,616,Poland,POL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16833770,,16833770,,6466785,,,0
+H2,2005,2005,2005,6,1,1,Import,203,Czechia,CZE,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5458404000,,5458404000,,1936626188,,,0
+H2,2005,2005,2005,6,1,1,Import,203,Czechia,CZE,703,Slovakia,SVK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1951,,1951,,2205,,,0
+H2,2005,2005,2005,6,1,2,Export,203,Czechia,CZE,703,Slovakia,SVK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,129662,,129662,,74,,,0
+H2,2005,2005,2005,6,1,1,Import,203,Czechia,CZE,760,Syria,SYR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,48760000,,48760000,,13840506,,,0
+H2,2005,2005,2005,6,1,1,Import,203,Czechia,CZE,795,Turkmenistan,TKM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,71035000,,71035000,,29056775,,,0
+H2,2005,2005,2005,6,1,1,Import,203,Czechia,CZE,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,16,,,0

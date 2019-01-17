@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,6,1,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1617227996,,1617227996,,318501634,,,0
+H2,2002,2002,2002,6,1,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,300,,300,,1379,,,0
+H2,2002,2002,2002,6,1,1,Import,404,Kenya,KEN,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,748,,748,,7085,,,0
+H2,2002,2002,2002,6,1,1,Import,404,Kenya,KEN,512,Oman,OMN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,33407132,,33407132,,5838781,,,0
+H2,2002,2002,2002,6,1,1,Import,404,Kenya,KEN,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,222808160,,222808160,,43540954,,,0
+H2,2002,2002,2002,6,1,1,Import,404,Kenya,KEN,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,78629384,,78629384,,12699822,,,0
+H2,2002,2002,2002,6,1,1,Import,404,Kenya,KEN,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,14,,14,,62,,,0
+H2,2002,2002,2002,6,1,2,Export,404,Kenya,KEN,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,300,,300,,1379,,,0
+H2,2002,2002,2002,6,1,1,Import,404,Kenya,KEN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1282382558,,1282382558,,256414930,,,0

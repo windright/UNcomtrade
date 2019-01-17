@@ -1,0 +1,17 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,6,1,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2806659972,,,,2401148351,,,6
+H3,2011,2011,2011,6,1,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,46629010,,46629010,,38973885,,,0
+H3,2011,2011,2011,6,1,1,Import,372,Ireland,IRL,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,42324100,,42324100,,37836407,,,0
+H3,2011,2011,2011,6,1,1,Import,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,85778415,,,,73384985,,,6
+H3,2011,2011,2011,6,1,1,Import,372,Ireland,IRL,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,83758,,83758,,47207,,,0
+H3,2011,2011,2011,6,1,1,Import,372,Ireland,IRL,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,14000,,14000,,41561,,,0
+H3,2011,2011,2011,6,1,1,Import,372,Ireland,IRL,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,885,,885,,3926,,,0
+H3,2011,2011,2011,6,1,2,Export,372,Ireland,IRL,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,644,,644,,5358,,,0
+H3,2011,2011,2011,6,1,1,Import,372,Ireland,IRL,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,160580000,,160580000,,129502537,,,0
+H3,2011,2011,2011,6,1,1,Import,372,Ireland,IRL,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,545671000,,545671000,,469291097,,,0
+H3,2011,2011,2011,6,1,1,Import,372,Ireland,IRL,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,415111000,,415111000,,350791988,,,0
+H3,2011,2011,2011,6,1,1,Import,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1556610000,,1556610000,,1339266604,,,0
+H3,2011,2011,2011,6,1,2,Export,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,46627500,,46627500,,38961319,,,0
+H3,2011,2011,2011,6,1,1,Import,372,Ireland,IRL,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,715,,715,,1149,,,0
+H3,2011,2011,2011,6,1,2,Export,372,Ireland,IRL,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,866,,866,,7207,,,0
+H3,2011,2011,2011,6,1,1,Import,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,486099,,486099,,980887,,,0

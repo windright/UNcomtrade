@@ -1,0 +1,8 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2006,2006,2006,6,1,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,98288072,,98288072,,44385150,,,0
+H2,2006,2006,2006,6,1,2,Export,84,Belize,BLZ,188,Costa Rica,CRI,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,46559061,,46559061,,21295252,,,0
+H2,2006,2006,2006,6,1,2,Export,84,Belize,BLZ,222,El Salvador,SLV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4056795,,4056795,,2112919,,,0
+H2,2006,2006,2006,6,1,2,Export,84,Belize,BLZ,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,768,,768,,291,,,0
+H2,2006,2006,2006,6,1,2,Export,84,Belize,BLZ,320,Guatemala,GTM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1510999,,1510999,,686226,,,0
+H2,2006,2006,2006,6,1,2,Export,84,Belize,BLZ,591,Panama,PAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,20055281,,20055281,,7689841,,,0
+H2,2006,2006,2006,6,1,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,26105170,,26105170,,12600622,,,0

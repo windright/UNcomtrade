@@ -1,0 +1,20 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7425055700,,7425055700,,3406917299,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,157864000,,157864000,,59832059,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,103932000,,103932000,,49790723,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,203,Czechia,CZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,19813900,,19813900,,8459589,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,87200,,87200,,1034281,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2989500,,2989500,,1027689,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,157897000,,157897000,,64231748,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1224488000,,1224488000,,580901831,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2777835000,,2777835000,,1283353662,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1107027000,,1107027000,,491464675,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,465068000,,465068000,,237292090,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,294586000,,294586000,,136894897,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,283072000,,283072000,,129779056,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,703,Slovakia,SVK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,13767100,,13767100,,5976475,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,760,Syria,SYR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,307025000,,307025000,,126925530,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,788,Tunisia,TUN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,92564000,,92564000,,41960907,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,795,Turkmenistan,TKM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,174731000,,174731000,,81170658,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,75561000,,75561000,,37747199,,,0
+H3,2009,2009,2009,6,1,1,Import,40,Austria,AUT,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,166748000,,166748000,,69074232,,,0

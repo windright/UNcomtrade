@@ -1,0 +1,9 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2004,2004,2004,6,1,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1200305,,1200305,,325000,,,6
+H2,2004,2004,2004,6,1,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8000,,8000,,10000,,,0
+H2,2004,2004,2004,6,1,1,Import,422,Lebanon,LBN,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,882686,,882686,,239000,,,6
+H2,2004,2004,2004,6,1,2,Export,422,Lebanon,LBN,430,Liberia,LBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2000,,2000,,5000,,,0
+H2,2004,2004,2004,6,1,2,Export,422,Lebanon,LBN,678,Sao Tome and Principe,STP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6000,,6000,,5000,,,0
+H2,2004,2004,2004,6,1,1,Import,422,Lebanon,LBN,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,88638,,88638,,24000,,,6
+H2,2004,2004,2004,6,1,1,Import,422,Lebanon,LBN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,155116,,155116,,42000,,,6
+H2,2004,2004,2004,6,1,1,Import,422,Lebanon,LBN,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,73865,,73865,,20000,,,6

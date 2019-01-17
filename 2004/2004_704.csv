@@ -1,0 +1,15 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2004,2004,2004,6,1,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,69438570,,69438570,,18801507,,,6
+H2,2004,2004,2004,6,1,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,5670598080,,,0
+H2,2004,2004,2004,6,1,2,Export,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,1533372460,,,0
+H2,2004,2004,2004,6,1,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,1482149880,,,0
+H2,2004,2004,2004,6,1,2,Export,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,346349120,,,0
+H2,2004,2004,2004,6,1,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8121,,8121,,2199,,,6
+H2,2004,2004,2004,6,1,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,361814670,,,0
+H2,2004,2004,2004,6,1,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,38616080,,,0
+H2,2004,2004,2004,6,1,2,Export,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,268979630,,,0
+H2,2004,2004,2004,6,1,1,Import,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,69419524,,69419524,,18796350,,,6
+H2,2004,2004,2004,6,1,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,1121319550,,,0
+H2,2004,2004,2004,6,1,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,110894540,,,0
+H2,2004,2004,2004,6,1,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10925,,10925,,2958,,,6
+H2,2004,2004,2004,6,1,2,Export,704,Viet Nam,VNM,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,407102150,,,0

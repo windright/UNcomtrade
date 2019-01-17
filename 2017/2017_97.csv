@@ -1,0 +1,189 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,544677749772,,544677749772,,215097418581,,,6
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,17990731752,,17990731752,,7547194880,,,6
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,8,Albania,ALB,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,477518528,,477518528,,125874562,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,12,Algeria,DZA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,17243754000,,17243754000,,7601786270,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,12,Algeria,DZA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,4113,,4113,,6962,,,6
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,20,Andorra,AND,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,4,,4,,3,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,24,Angola,AGO,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,5171052317,,5171052317,,2059708785,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,24,Angola,AGO,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,220,,220,,5493,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,31,Azerbaijan,AZE,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,24423527028,,24423527028,,10368203591,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,31,Azerbaijan,AZE,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,8,,8,,2,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,32,Argentina,ARG,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,5641,,5641,,4065,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,36,Australia,AUS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,6491,,6491,,4506,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,36,Australia,AUS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,564,,564,,4890,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,44,Bahamas,BHS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,13,,13,,10,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,48,Bahrain,BHR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,2159,,2159,,903,,,6
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,50,Bangladesh,BGD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,8692,,8692,,6211,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,51,Armenia,ARM,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3,,3,,2,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,52,Barbados,BRB,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,5,,5,,13,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,68,Bolivia (Plurinational State of),BOL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,277,,277,,194,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,70,Bosnia Herzegovina,BIH,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,315,,315,,291,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,70,Bosnia Herzegovina,BIH,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,190358,,190358,,126137,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,72,Botswana,BWA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,9,,9,,6,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,76,Brazil,BRA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,6060282534,,6060282534,,2030000903,,,6
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,76,Brazil,BRA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,12482601,,12482601,,5927240,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,84,Belize,BLZ,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,4,,4,,4,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,92,Br. Virgin Isds,VGB,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,256,,256,,182,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,96,Brunei Darussalam,BRN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,365,,365,,259,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,96,Brunei Darussalam,BRN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,2,,2,,1,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,104,Myanmar,MMR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,596,,596,,424,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,112,Belarus,BLR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3257,,3257,,2330,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,116,Cambodia,KHM,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,769,,769,,551,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,120,Cameroon,CMR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,2361912540,,2361912540,,916676622,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,120,Cameroon,CMR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,406,,406,,7625,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,124,Canada,CAN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,2104544211,,2104544211,,838222817,,,6
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,124,Canada,CAN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,394066273,,394066273,,159862898,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,144,Sri Lanka,LKA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1343,,1343,,957,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,148,Chad,TCD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,496988000,,496988000,,204384014,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,152,Chile,CHL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,6186,,6186,,4420,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,152,Chile,CHL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,137282000,,137282000,,52097000,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,156,China,CHN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,230218,,230218,,164385,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,156,China,CHN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,8667870001,,8667870001,,3689463264,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,170,Colombia,COL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1225171311,,1225171311,,403397156,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,170,Colombia,COL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,4600,,4600,,11414,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,178,Congo,COG,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,731572624,,731572624,,307964031,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,180,Dem. Rep. of the Congo,COD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1,,1,,1,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,188,Costa Rica,CRI,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,4890,,4890,,3503,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,192,Cuba,CUB,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1390,,1390,,993,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,214,Dominican Rep.,DOM,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1930,,1930,,1370,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,218,Ecuador,ECU,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,6755,,6755,,4974,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,218,Ecuador,ECU,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,400,,400,,1334,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,222,El Salvador,SLV,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,113,,113,,81,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,2781133158,,2781133158,,1095876942,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,231,Ethiopia,ETH,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,4476,,4476,,3184,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,231,Ethiopia,ETH,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,5711,,5711,,77762,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,234,Faeroe Isds,FRO,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,287,,287,,205,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,242,Fiji,FJI,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,20,,20,,13,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,258,French Polynesia,PYF,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,6,,6,,4,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,262,Djibouti,DJI,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,4,,4,,2,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,266,Gabon,GAB,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,971600004,,971600004,,362693741,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,268,Georgia,GEO,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,60866301,,60866301,,22889355,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,288,Ghana,GHA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1319673148,,1319673148,,518790214,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,288,Ghana,GHA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,185,,185,,642,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,292,Gibraltar,GIB,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,128090200,,128090200,,40388020,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,308,Grenada,GRD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,9,,9,,6,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,320,Guatemala,GTM,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,41810642,,41810642,,14425675,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,328,Guyana,GUY,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,354,,354,,249,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,340,Honduras,HND,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,311,,311,,221,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,340,Honduras,HND,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3745,,3745,,20422,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,344,"China, Hong Kong SAR",HKG,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,21519,,21519,,15362,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,352,Iceland,ISL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,7420,,7420,,5068,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,360,Indonesia,IDN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,16922,,16922,,12140,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,364,Iran,IRN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,27580922000,,27580922000,,10095421915,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,364,Iran,IRN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,212,,212,,3,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,368,Iraq,IRQ,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,41008295711,,41008295711,,14726922227,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,376,Israel,ISR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,13035,,13035,,9291,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,376,Israel,ISR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,531,,531,,3762,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1251598507,,1251598507,,466031701,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,272,,272,,149,,,6
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,388,Jamaica,JAM,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,28,,28,,19,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,392,Japan,JPN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,50853,,50853,,35815,,,6
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,392,Japan,JPN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,15739,,15739,,6602,,,6
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,398,Kazakhstan,KAZ,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,39922174348,,39922174348,,16909484605,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,400,Jordan,JOR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,973,,973,,451,,,6
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,400,Jordan,JOR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,6,,6,,2,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,404,Kenya,KEN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,7846,,7846,,5609,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,404,Kenya,KEN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,2560,,2560,,3717,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,410,Rep. of Korea,KOR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,12831,,12831,,9067,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,410,Rep. of Korea,KOR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,6043226091,,6043226091,,2565297419,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,414,Kuwait,KWT,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,8227024006,,8227024006,,2978613881,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,422,Lebanon,LBN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,774,,774,,683,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,434,Libya,LBY,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,28250264700,,28250264700,,11595463153,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,446,"China, Macao SAR",MAC,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,245,,245,,177,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,450,Madagascar,MDG,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1135,,1135,,498,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,454,Malawi,MWI,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,183,,183,,130,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,458,Malaysia,MYS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,13743,,13743,,9401,,,6
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,462,Maldives,MDV,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,5,,5,,2,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,466,Mali,MLI,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,10,,10,,5,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,478,Mauritania,MRT,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,36830110,,36830110,,15351474,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,480,Mauritius,MUS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,633,,633,,453,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,484,Mexico,MEX,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,11594739187,,11594739187,,3815392394,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,484,Mexico,MEX,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1000712,,1000712,,564004,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,490,"Other Asia, nes",,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,30758,,30758,,21818,,,6
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,496,Mongolia,MNG,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,39,,39,,28,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,498,Rep. of Moldova,MDA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,186,,186,,131,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,498,Rep. of Moldova,MDA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1175922,,1175922,,403222,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,499,Montenegro,MNE,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,53,,53,,33,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,504,Morocco,MAR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,2755,,2755,,1969,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,504,Morocco,MAR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,66118435,,66118435,,34144043,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,508,Mozambique,MOZ,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,432,,432,,309,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,512,Oman,OMN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,4751,,4751,,1997,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,516,Namibia,NAM,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1049,,1049,,788,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,524,Nepal,NPL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,31,,31,,21,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,531,Curaçao,CUW,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,23,,23,,14,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,533,Aruba,ABW,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,15,,15,,7,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,534,Saint Maarten,SXM,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,32,,32,,12,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,535,Bonaire,BES,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,22,,22,,15,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,540,New Caledonia,NCL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1,,1,,1,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,554,New Zealand,NZL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3204,,3204,,2286,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,558,Nicaragua,NIC,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,144,,144,,104,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,562,Niger,NER,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3507,,3507,,15172,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,566,Nigeria,NGA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,33884093725,,33884093725,,13961226838,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,566,Nigeria,NGA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3000,,3000,,12441,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,577,"Other Africa, nes",,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,780,,780,,2095,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,579,Norway,NOR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,67183045800,,67183045800,,28001439881,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,579,Norway,NOR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,394612222,,394612222,,182319042,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,581,United States Minor Outlying Islands,UMI,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,35,,35,,25,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,586,Pakistan,PAK,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,4718,,4718,,3439,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,591,Panama,PAN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1331,,1331,,952,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,598,Papua New Guinea,PNG,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,12,,12,,7,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,600,Paraguay,PRY,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,374,,374,,265,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,604,Peru,PER,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3782,,3782,,5917,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,604,Peru,PER,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,203,,203,,413,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,608,Philippines,PHL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,4089,,4089,,2915,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,624,Guinea-Bissau,GNB,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,11,,11,,6,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,634,Qatar,QAT,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3639,,3639,,12080,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,643,Russian Federation,RUS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,166208165950,,166208165950,,64356673598,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,643,Russian Federation,RUS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,40,,40,,229,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,659,Saint Kitts and Nevis,KNA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,15,,15,,11,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,678,Sao Tome and Principe,STP,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,78,,78,,56,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,682,Saudi Arabia,SAU,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,31610480814,,31610480814,,12361121842,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,686,Senegal,SEN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,744,,744,,526,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,686,Senegal,SEN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,21,,21,,27,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,688,Serbia,SRB,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,2509,,2509,,1792,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,688,Serbia,SRB,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,25681634,,25681634,,10446842,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,690,Seychelles,SYC,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1,,1,,1,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,694,Sierra Leone,SLE,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,8,,8,,5,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,699,India,IND,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,34343,,34343,,24814,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,699,India,IND,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,560,,560,,3839,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,702,Singapore,SGP,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,5681,,5681,,3971,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,702,Singapore,SGP,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,288728710,,288728710,,126912331,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,704,Viet Nam,VNM,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,13207,,13207,,9446,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,704,Viet Nam,VNM,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,7,,7,,1,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,710,South Africa,ZAF,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,14323,,14323,,10858,,,6
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,710,South Africa,ZAF,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,4622,,4622,,7797,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,716,Zimbabwe,ZWE,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,203,,203,,143,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,729,Sudan,SDN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,59,,59,,25,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,740,Suriname,SUR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,113,,113,,77,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,748,Swaziland,SWZ,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,197,,197,,143,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,757,Switzerland,CHE,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,27805,,27805,,20830,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,757,Switzerland,CHE,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,306490,,306490,,131667,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,764,Thailand,THA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,24183,,24183,,14489,,,6
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,764,Thailand,THA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,4,,4,,199,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,768,Togo,TGO,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,20,,20,,14,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,296022508,,296022508,,136001628,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,784,United Arab Emirates,ARE,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,351339168,,351339168,,154813392,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,784,United Arab Emirates,ARE,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,58534714,,58534714,,15824929,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,788,Tunisia,TUN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,941398040,,941398040,,392471789,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,788,Tunisia,TUN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,5253,,5253,,13467,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,792,Turkey,TUR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,204062654,,204062654,,85550889,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,792,Turkey,TUR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,380746252,,380746252,,139074168,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,795,Turkmenistan,TKM,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,298412991,,298412991,,126600086,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,800,Uganda,UGA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1213,,1213,,867,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,804,Ukraine,UKR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,6132,,6132,,4327,,,6
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,804,Ukraine,UKR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3381293,,3381293,,1305168,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,807,TFYR of Macedonia,MKD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,80,,80,,57,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,807,TFYR of Macedonia,MKD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,23590,,23590,,13047,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,818,Egypt,EGY,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,6349632506,,6349632506,,2555177210,,,6
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,818,Egypt,EGY,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,33250000,,33250000,,10979956,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,834,United Rep. of Tanzania,TZA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,385,,385,,274,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,842,USA,USA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,9957240822,,9957240822,,4222475233,,,6
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,842,USA,USA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1274553562,,1274553562,,482476995,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,858,Uruguay,URY,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1937,,1937,,1379,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,858,Uruguay,URY,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,79353000,,79353000,,29225980,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,860,Uzbekistan,UZB,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,6,,6,,5,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,862,Venezuela,VEN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3312412928,,3312412928,,986893896,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,894,Zambia,ZMB,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,394,,394,,305,,,0
+H5,2017,2017,2017,6,1,1,Import,97,EU-28,EU2,899,"Areas, nes",,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,737556518,,737556518,,282937957,,,0
+H5,2017,2017,2017,6,1,2,Export,97,EU-28,EU2,899,"Areas, nes",,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,420,,420,,5026,,,0

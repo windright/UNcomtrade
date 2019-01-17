@@ -1,0 +1,9 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2004,2004,2004,6,1,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,496338680,,496338680,,134408514,,,6
+H2,2004,2004,2004,6,1,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,2,,,0
+H2,2004,2004,2004,6,1,1,Import,894,Zambia,ZMB,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,110161996,,110161996,,29831869,,,6
+H2,2004,2004,2004,6,1,2,Export,894,Zambia,ZMB,404,Kenya,KEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,2,,,0
+H2,2004,2004,2004,6,1,1,Import,894,Zambia,ZMB,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1697,,1697,,460,,,6
+H2,2004,2004,2004,6,1,1,Import,894,Zambia,ZMB,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,176139,,176139,,47699,,,6
+H2,2004,2004,2004,6,1,1,Import,894,Zambia,ZMB,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,385998603,,385998603,,104528422,,,6
+H2,2004,2004,2004,6,1,1,Import,894,Zambia,ZMB,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,243,,243,,66,,,6

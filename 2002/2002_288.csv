@@ -1,0 +1,7 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2002,2002,2002,6,1,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,321137918,,321137918,,150454243,,,0
+H0,2002,2002,2002,6,1,1,Import,288,Ghana,GHA,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,24,,24,,297,,,0
+H0,2002,2002,2002,6,1,1,Import,288,Ghana,GHA,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,40,,40,,259,,,0
+H0,2002,2002,2002,6,1,1,Import,288,Ghana,GHA,466,Mali,MLI,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4000,,4000,,2017,,,0
+H0,2002,2002,2002,6,1,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,321098654,,321098654,,150435438,,,0
+H0,2002,2002,2002,6,1,1,Import,288,Ghana,GHA,854,Burkina Faso,BFA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,35200,,35200,,16233,,,0

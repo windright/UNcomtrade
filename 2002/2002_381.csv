@@ -1,0 +1,45 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,81031804080,,81031804080,,14338023869,,,0
+H2,2002,2002,2002,6,1,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,892850230,,892850230,,138091039,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2625148995,,2625148995,,525237955,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,24,Angola,AGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1479623108,,1479623108,,279935303,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2126531456,,2126531456,,404622891,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,40,Austria,AUT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,505,,505,,103,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2106,,2106,,430,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,83288155,,83288155,,13987946,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,120,Cameroon,CMR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1169260730,,1169260730,,188048639,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,178,Congo,COG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,160685003,,160685003,,29995066,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,192,Cuba,CUB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3653147,,3653147,,660614,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,222,El Salvador,SLV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,9307360,,9307360,,1713928,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,128934695,,128934695,,22618963,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1829,,1829,,373,,,0
+H2,2002,2002,2002,6,1,2,Export,381,Italy,ITA,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,211799347,,211799347,,35217821,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,56910,,56910,,39855,,,0
+H2,2002,2002,2002,6,1,2,Export,381,Italy,ITA,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,115842027,,115842027,,11667285,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,324,Guinea,GIN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,130007194,,130007194,,20190689,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,9270758608,,9270758608,,1576441693,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2790866022,,2790866022,,473814314,,,0
+H2,2002,2002,2002,6,1,2,Export,381,Italy,ITA,372,Ireland,IRL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2038,,2038,,256,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2621312581,,2621312581,,469821624,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,20278043626,,20278043626,,3717433394,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,80635193,,80635193,,14030386,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,11986,,11986,,2935,,,0
+H2,2002,2002,2002,6,1,2,Export,381,Italy,ITA,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,858,,858,,108,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1699399373,,1699399373,,290592191,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4795861999,,4795861999,,857315627,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,642,Romania,ROU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,11776428,,11776428,,1819704,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,13534060911,,13534060911,,2337981853,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8383807049,,8383807049,,1467118470,,,0
+H2,2002,2002,2002,6,1,2,Export,381,Italy,ITA,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,84755149,,84755149,,8918541,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,306986787,,306986787,,51732241,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,760,Syria,SYR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4895871355,,4895871355,,858812831,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,788,Tunisia,TUN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,310389453,,310389453,,51471977,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,17935064,,17935064,,3382490,,,0
+H2,2002,2002,2002,6,1,2,Export,381,Italy,ITA,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,480448089,,480448089,,82286686,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,795,Turkmenistan,TKM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,57592,,57592,,8627,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,804,Ukraine,UKR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,134765323,,134765323,,24265095,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3133683179,,3133683179,,513987614,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,810261229,,810261229,,134706366,,,0
+H2,2002,2002,2002,6,1,2,Export,381,Italy,ITA,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2722,,2722,,342,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,30970510,,30970510,,4991811,,,0
+H2,2002,2002,2002,6,1,1,Import,381,Italy,ITA,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7848619,,7848619,,1239871,,,0

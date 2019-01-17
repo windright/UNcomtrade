@@ -1,0 +1,7 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,6,1,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3691,,3691,,25230,,,0
+H3,2010,2010,2010,6,1,1,Import,231,Ethiopia,ETH,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2907,,2907,,7809,,,0
+H3,2010,2010,2010,6,1,1,Import,231,Ethiopia,ETH,376,Israel,ISR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,65,,65,,480,,,0
+H3,2010,2010,2010,6,1,1,Import,231,Ethiopia,ETH,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,500,,500,,16737,,,0
+H3,2010,2010,2010,6,1,1,Import,231,Ethiopia,ETH,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,39,,39,,201,,,0
+H3,2010,2010,2010,6,1,1,Import,231,Ethiopia,ETH,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,180,,180,,3,,,0

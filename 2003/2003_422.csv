@@ -1,0 +1,17 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,6,1,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,136614,,136614,,180836,,,0
+H2,2003,2003,2003,6,1,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,47391,,47391,,32075,,,0
+H2,2003,2003,2003,6,1,2,Export,422,Lebanon,LBN,24,Angola,AGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4988,,4988,,6101,,,0
+H2,2003,2003,2003,6,1,2,Export,422,Lebanon,LBN,178,Congo,COG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,35000,,35000,,17241,,,0
+H2,2003,2003,2003,6,1,1,Import,422,Lebanon,LBN,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,230,,230,,1879,,,0
+H2,2003,2003,2003,6,1,2,Export,422,Lebanon,LBN,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,19,,,0
+H2,2003,2003,2003,6,1,1,Import,422,Lebanon,LBN,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,80386,,80386,,117048,,,0
+H2,2003,2003,2003,6,1,2,Export,422,Lebanon,LBN,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1560,,1560,,1442,,,0
+H2,2003,2003,2003,6,1,1,Import,422,Lebanon,LBN,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5,,5,,85,,,0
+H2,2003,2003,2003,6,1,2,Export,422,Lebanon,LBN,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5464,,5464,,6936,,,0
+H2,2003,2003,2003,6,1,2,Export,422,Lebanon,LBN,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,125,,125,,55,,,0
+H2,2003,2003,2003,6,1,1,Import,422,Lebanon,LBN,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,34013,,34013,,38263,,,0
+H2,2003,2003,2003,6,1,2,Export,422,Lebanon,LBN,768,Togo,TGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,100,,100,,132,,,0
+H2,2003,2003,2003,6,1,2,Export,422,Lebanon,LBN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,150,,150,,149,,,0
+H2,2003,2003,2003,6,1,1,Import,422,Lebanon,LBN,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5400,,5400,,5826,,,0
+H2,2003,2003,2003,6,1,1,Import,422,Lebanon,LBN,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16580,,16580,,17735,,,0

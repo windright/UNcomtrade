@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,6,1,1,Import,192,Cuba,CUB,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2200445434,,2200445434,,490652546,,,0
+H2,2003,2003,2003,6,1,1,Import,192,Cuba,CUB,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,301090984,,301090984,,70710018,,,0
+H2,2003,2003,2003,6,1,1,Import,192,Cuba,CUB,44,Bahamas,BHS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,71965980,,71965980,,17544083,,,0
+H2,2003,2003,2003,6,1,1,Import,192,Cuba,CUB,170,Colombia,COL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,46530740,,46530740,,10237656,,,0
+H2,2003,2003,2003,6,1,1,Import,192,Cuba,CUB,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,79,,,0
+H2,2003,2003,2003,6,1,1,Import,192,Cuba,CUB,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,34,,34,,195,,,0
+H2,2003,2003,2003,6,1,1,Import,192,Cuba,CUB,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,176,,176,,336,,,0
+H2,2003,2003,2003,6,1,1,Import,192,Cuba,CUB,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,20,,20,,1299,,,0
+H2,2003,2003,2003,6,1,1,Import,192,Cuba,CUB,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1780857496,,1780857496,,392158880,,,0

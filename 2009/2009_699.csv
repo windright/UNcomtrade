@@ -1,0 +1,58 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,148583255823,,148583255823,,64899497111,,,6
+H3,2009,2009,2009,6,1,2,Export,699,India,IND,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5488582,,5488582,,2124392,,,6
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,962771008,,962771008,,544750444,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,24,Angola,AGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7237674752,,7237674752,,3389550778,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,269765000,,269765000,,101013671,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,156768992,,156768992,,79302380,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,48,Bahrain,BHR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,101000,,101000,,31224,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2045271040,,2045271040,,933476372,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,96,Brunei Darussalam,BRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,768239976,,768239976,,386133530,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,120,Cameroon,CMR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,93011000,,93011000,,44993316,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,79962000,,79962000,,34782756,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,140390000,,140390000,,61419692,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,170,Colombia,COL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,635161984,,635161984,,286107694,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,178,Congo,COG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,717296000,,717296000,,342692763,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,271991008,,271991008,,128716154,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,402931008,,402931008,,190775925,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,93200000,,93200000,,41427300,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,289662016,,289662016,,141320092,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,224004000,,224004000,,99714359,,,0
+H3,2009,2009,2009,6,1,2,Export,699,India,IND,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,9000,,9000,,7144,,,0
+H3,2009,2009,2009,6,1,2,Export,699,India,IND,288,Ghana,GHA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1000,,1000,,391,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,300,Greece,GRC,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,132064000,,132064000,,80651178,,,0
+H3,2009,2009,2009,6,1,2,Export,699,India,IND,324,Guinea,GIN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,67,,67,,26,,,6
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,344,"China, Hong Kong SAR",HKG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,124426000,,124426000,,45742455,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,23809492480,,23809492480,,9441316551,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12799414144,,12799414144,,5753923605,,,0
+H3,2009,2009,2009,6,1,2,Export,699,India,IND,376,Israel,ISR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,9000,,9000,,3559,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,236716992,,236716992,,90292177,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1005022976,,1005022976,,531806399,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,15793954304,,15793954304,,6738822630,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1104570000,,1104570000,,524612421,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2737634944,,2737634944,,1266285785,,,0
+H3,2009,2009,2009,6,1,2,Export,699,India,IND,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,515,,515,,199,,,6
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1735387968,,1735387968,,655685636,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,504,Morocco,MAR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6890000,,6890000,,3507462,,,0
+H3,2009,2009,2009,6,1,2,Export,699,India,IND,508,Mozambique,MOZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1000,,1000,,501,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,512,Oman,OMN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3458865952,,3458865952,,1703159961,,,0
+H3,2009,2009,2009,6,1,2,Export,699,India,IND,524,Nepal,NPL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,217000,,217000,,85487,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,515543008,,515543008,,225837886,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,11273383424,,11273383424,,5534667717,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,591,Panama,PAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,775457976,,775457976,,292904866,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4579997056,,4579997056,,2062712026,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1039161984,,1039161984,,494204456,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,662,Saint Lucia,LCA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,81599000,,81599000,,25736084,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,26454180352,,26454180352,,11922128618,,,0
+H3,2009,2009,2009,6,1,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1000,,1000,,344,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,349000,,349000,,124751,,,0
+H3,2009,2009,2009,6,1,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5250000,,5250000,,2026741,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,937026992,,937026992,,358586272,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,760,Syria,SYR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,369679000,,369679000,,123225853,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,11369022208,,11369022208,,5026345727,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2154199968,,2154199968,,1043180287,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3824057984,,3824057984,,1254312497,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,94090000,,94090000,,46108946,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5389073920,,5389073920,,1784647965,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2393792992,,2393792992,,1062758269,,,0
+H3,2009,2009,2009,6,1,1,Import,699,India,IND,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,415,,415,,181,,,6

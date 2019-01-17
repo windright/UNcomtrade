@@ -1,0 +1,29 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,207277778349,,207277778349,,55993031068,,,0
+H2,2004,2004,2004,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4460693,,4460693,,1055727,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,261646253,,261646253,,91012027,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1191819647,,1191819647,,371094146,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,96,Brunei Darussalam,BRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1279879418,,1279879418,,404746228,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,504480308,,504480308,,133049586,,,0
+H2,2004,2004,2004,6,1,2,Export,392,Japan,JPN,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4457087,,4457087,,1030829,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,101237212,,101237212,,22846492,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,134383836,,134383836,,47263819,,,0
+H2,2004,2004,2004,6,1,2,Export,392,Japan,JPN,344,"China, Hong Kong SAR",HKG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3498,,3498,,20653,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6478093486,,6478093486,,1866692106,,,0
+H2,2004,2004,2004,6,1,2,Export,392,Japan,JPN,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,108,,108,,4245,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,31676704514,,31676704514,,7966560299,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4964540301,,4964540301,,1153071349,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16620144065,,16620144065,,4002846619,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1160287617,,1160287617,,354829547,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,272681625,,272681625,,54815361,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,512,Oman,OMN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4808893564,,4808893564,,1281328630,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,562,Niger,NER,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,66764928,,66764928,,24074920,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4465901419,,4465901419,,1333020044,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,138112583,,138112583,,40445227,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,19039970825,,19039970825,,5228462572,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1489698039,,1489698039,,442538731,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,55923201604,,55923201604,,14990923275,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1253338174,,1253338174,,375347860,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4216649053,,4216649053,,1276440985,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,51008951822,,51008951822,,14467783568,,,0
+H2,2004,2004,2004,6,1,1,Import,392,Japan,JPN,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,220398056,,220398056,,63837682,,,0

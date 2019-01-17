@@ -1,0 +1,37 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,39675408219,,39675408219,,29928558807,,,6
+H3,2008,2008,2008,6,1,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2622905493,,2622905493,,1717270712,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,703213434,,703213434,,565497365,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1518739756,,1518739756,,1173147107,,,6
+H3,2008,2008,2008,6,1,2,Export,764,Thailand,THA,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,151455804,,151455804,,105679253,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,96,Brunei Darussalam,BRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,126449384,,126449384,,88265776,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,270722195,,270722195,,184391510,,,6
+H3,2008,2008,2008,6,1,2,Export,764,Thailand,THA,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,826098298,,826098298,,551565129,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,595341331,,595341331,,404151720,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1306896,,1306896,,641085,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4469,,4469,,12040,,,6
+H3,2008,2008,2008,6,1,2,Export,764,Thailand,THA,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,2,,,6
+H3,2008,2008,2008,6,1,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,768380378,,768380378,,478306825,,,6
+H3,2008,2008,2008,6,1,2,Export,764,Thailand,THA,418,Lao People's Dem. Rep.,LAO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3364,,3364,,10152,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1735994517,,1735994517,,1385962187,,,6
+H3,2008,2008,2008,6,1,2,Export,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,49226184,,49226184,,37229266,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,512,Oman,OMN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3596514675,,3596514675,,2562433789,,,6
+H3,2008,2008,2008,6,1,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,94,,94,,61,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,554,New Zealand,NZL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,228698090,,228698090,,172924551,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,598,Papua New Guinea,PNG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,20020846,,20020846,,18190345,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,608,Philippines,PHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,172566485,,172566485,,132718689,,,6
+H3,2008,2008,2008,6,1,2,Export,764,Thailand,THA,608,Philippines,PHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,18,,18,,123,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3265192079,,3265192079,,2476378195,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1079240612,,1079240612,,837221685,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8558121715,,8558121715,,6265203936,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,145,,,6
+H3,2008,2008,2008,6,1,2,Export,764,Thailand,THA,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,54554827,,54554827,,42619691,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,283705812,,283705812,,216413468,,,6
+H3,2008,2008,2008,6,1,2,Export,764,Thailand,THA,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,463,,463,,1712,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,98382872,,98382872,,66627378,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,13862678556,,13862678556,,10560485268,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,87288713,,87288713,,78918880,,,6
+H3,2008,2008,2008,6,1,2,Export,764,Thailand,THA,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,35,,35,,233,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,25995,,25995,,72935,,,6
+H3,2008,2008,2008,6,1,2,Export,764,Thailand,THA,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,773186024,,773186024,,501858263,,,6
+H3,2008,2008,2008,6,1,1,Import,764,Thailand,THA,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3471199782,,3471199782,,2738900754,,,6

@@ -1,0 +1,52 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,47630670188,,47630670188,,22538781349,,,6
+H3,2007,2007,2007,6,1,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,39019837444,,,0
+H3,2007,2007,2007,6,1,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,444,,,0
+H3,2007,2007,2007,6,1,4,Re-Import,124,Canada,CAN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,259,,259,,122,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,9876083984,,9876083984,,4673352204,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,24,Angola,AGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2362056687,,2362056687,,1117722656,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,427578272,,427578272,,202329574,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,37608324,,37608324,,17796218,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,112,Belarus,BLR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,50296808,,50296808,,23800395,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,259,,259,,122,,,6
+H3,2007,2007,2007,6,1,4,Re-Import,124,Canada,CAN,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,259,,259,,122,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,160,,160,,76,,,6
+H3,2007,2007,2007,6,1,2,Export,124,Canada,CAN,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,150383265,,,0
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,57,,57,,27,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,192,Cuba,CUB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,146,,146,,69,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,985088639,,985088639,,466142873,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,145892092,,145892092,,69035979,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,459855752,,459855752,,217603242,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,21726325,,21726325,,10280873,,,6
+H3,2007,2007,2007,6,1,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,416,,,0
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,22,,22,,10,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,132,,132,,63,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2995743470,,2995743470,,1417582553,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,54462844,,54462844,,25771759,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,365541449,,365541449,,172973816,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,158,,158,,75,,,6
+H3,2007,2007,2007,6,1,2,Export,124,Canada,CAN,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,933,,,0
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,123809138,,123809138,,58586349,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,624,,624,,295,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1406111154,,1406111154,,665370270,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,512,Oman,OMN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,346,,346,,164,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,28845,,28845,,13649,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,496785097,,496785097,,235078168,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,9414616022,,9414616022,,4454986066,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,642,Romania,ROU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,47,,47,,22,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1741184344,,1741184344,,823926539,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3618850505,,3618850505,,1712436125,,,6
+H3,2007,2007,2007,6,1,2,Export,124,Canada,CAN,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,93114556,,,0
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16,,16,,7,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,69,,69,,33,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,81596154,,81596154,,38611212,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,760,Syria,SYR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,145158843,,145158843,,68689007,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,150807962,,150807962,,71362164,,,6
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2516,,2516,,1191,,,6
+H3,2007,2007,2007,6,1,2,Export,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,444,,,0
+H3,2007,2007,2007,6,1,3,Re-Export,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,444,,,0
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8626656958,,8626656958,,4082124694,,,6
+H3,2007,2007,2007,6,1,2,Export,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,6,,,0
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2138089713,,2138089713,,1011741728,,,6
+H3,2007,2007,2007,6,1,2,Export,124,Canada,CAN,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,38776337825,,,0
+H3,2007,2007,2007,6,1,1,Import,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1905036252,,1905036252,,901461084,,,6

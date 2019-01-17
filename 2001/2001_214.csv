@@ -1,0 +1,5 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,307419008,,,0
+H1,2001,2001,2001,6,1,1,Import,214,Dominican Rep.,DOM,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,218788000,,,0
+H1,2001,2001,2001,6,1,1,Import,214,Dominican Rep.,DOM,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,195000,,,0
+H1,2001,2001,2001,6,1,1,Import,214,Dominican Rep.,DOM,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,88436000,,,0

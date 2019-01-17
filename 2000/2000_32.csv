@@ -1,0 +1,30 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1498715484,,1498715484,,322950352,,,0
+H1,2000,2000,2000,6,1,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,14359427673,,14359427673,,2808667093,,,0
+H1,2000,2000,2000,6,1,1,Import,32,Argentina,ARG,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,83996000,,83996000,,13379901,,,0
+H1,2000,2000,2000,6,1,1,Import,32,Argentina,ARG,24,Angola,AGO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,85219000,,85219000,,15365512,,,0
+H1,2000,2000,2000,6,1,2,Export,32,Argentina,ARG,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,60176844,,60176844,,13133725,,,0
+H1,2000,2000,2000,6,1,2,Export,32,Argentina,ARG,44,Bahamas,BHS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,37287482,,37287482,,6625438,,,0
+H1,2000,2000,2000,6,1,1,Import,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,9900001,,9900001,,2061857,,,0
+H1,2000,2000,2000,6,1,1,Import,32,Argentina,ARG,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,58947268,,58947268,,9132080,,,0
+H1,2000,2000,2000,6,1,2,Export,32,Argentina,ARG,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4644072869,,4644072869,,985887184,,,0
+H1,2000,2000,2000,6,1,2,Export,32,Argentina,ARG,124,Canada,CAN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,19,,19,,65,,,0
+H1,2000,2000,2000,6,1,2,Export,32,Argentina,ARG,152,Chile,CHL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6103925153,,6103925153,,1141220339,,,0
+H1,2000,2000,2000,6,1,1,Import,32,Argentina,ARG,178,Congo,COG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,47654700,,47654700,,11032079,,,0
+H1,2000,2000,2000,6,1,1,Import,32,Argentina,ARG,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,51027002,,51027002,,10924560,,,0
+H1,2000,2000,2000,6,1,2,Export,32,Argentina,ARG,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,82594314,,82594314,,14046121,,,0
+H1,2000,2000,2000,6,1,1,Import,32,Argentina,ARG,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2,,2,,102,,,0
+H1,2000,2000,2000,6,1,1,Import,32,Argentina,ARG,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,89125055,,89125055,,16751260,,,0
+H1,2000,2000,2000,6,1,1,Import,32,Argentina,ARG,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,199870080,,199870080,,48688069,,,0
+H1,2000,2000,2000,6,1,1,Import,32,Argentina,ARG,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,14,,14,,1242,,,0
+H1,2000,2000,2000,6,1,2,Export,32,Argentina,ARG,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,48729016,,48729016,,8286854,,,0
+H1,2000,2000,2000,6,1,2,Export,32,Argentina,ARG,554,New Zealand,NZL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,156216636,,156216636,,35539492,,,0
+H1,2000,2000,2000,6,1,1,Import,32,Argentina,ARG,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,872976270,,872976270,,195613538,,,0
+H1,2000,2000,2000,6,1,2,Export,32,Argentina,ARG,600,Paraguay,PRY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,100321919,,100321919,,22875564,,,0
+H1,2000,2000,2000,6,1,1,Import,32,Argentina,ARG,604,Peru,PER,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2,,2,,96,,,0
+H1,2000,2000,2000,6,1,2,Export,32,Argentina,ARG,604,Peru,PER,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,58757314,,58757314,,11862276,,,0
+H1,2000,2000,2000,6,1,2,Export,32,Argentina,ARG,724,Spain,ESP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1000,,1000,,500,,,0
+H1,2000,2000,2000,6,1,2,Export,32,Argentina,ARG,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,20,,20,,20,,,0
+H1,2000,2000,2000,6,1,2,Export,32,Argentina,ARG,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3016703447,,3016703447,,559371956,,,0
+H1,2000,2000,2000,6,1,2,Export,32,Argentina,ARG,858,Uruguay,URY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,50641640,,50641640,,9817559,,,0
+H1,2000,2000,2000,6,1,1,Import,32,Argentina,ARG,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,90,,90,,56,,,0

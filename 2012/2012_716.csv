@@ -1,0 +1,7 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2012,2012,2012,6,1,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,28447,,28447,,126558,,,0
+H3,2012,2012,2012,6,1,1,Import,716,Zimbabwe,ZWE,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,305,,305,,7281,,,0
+H3,2012,2012,2012,6,1,1,Import,716,Zimbabwe,ZWE,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,163,,163,,316,,,0
+H3,2012,2012,2012,6,1,1,Import,716,Zimbabwe,ZWE,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16176,,16176,,66612,,,0
+H3,2012,2012,2012,6,1,1,Import,716,Zimbabwe,ZWE,764,Thailand,THA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,720,,720,,2878,,,0
+H3,2012,2012,2012,6,1,1,Import,716,Zimbabwe,ZWE,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,11083,,11083,,49471,,,0

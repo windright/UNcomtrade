@@ -1,0 +1,8 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2004,2004,2004,6,1,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5970480,,5970480,,1616595,,,6
+H2,2004,2004,2004,6,1,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,297961,,,0
+H2,2004,2004,2004,6,1,2,Export,516,Namibia,NAM,24,Angola,AGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,23767,,,0
+H2,2004,2004,2004,6,1,2,Export,516,Namibia,NAM,72,Botswana,BWA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,205646,,,0
+H2,2004,2004,2004,6,1,1,Import,516,Namibia,NAM,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5970480,,5970480,,1616595,,,6
+H2,2004,2004,2004,6,1,2,Export,516,Namibia,NAM,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,19901,,,0
+H2,2004,2004,2004,6,1,2,Export,516,Namibia,NAM,894,Zambia,ZMB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,48647,,,0

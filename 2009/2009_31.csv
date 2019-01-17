@@ -1,0 +1,28 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2009,2009,2009,6,1,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6,,6,,1739,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,27829459397,,27829459397,,11989737737,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,100,Bulgaria,BGR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,241718762,,241718762,,124092449,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1393446205,,1393446205,,587209428,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,261127892,,261127892,,117082770,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,191,Croatia,HRV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,417114639,,417114639,,193619102,,,0
+H3,2009,2009,2009,6,1,1,Import,31,Azerbaijan,AZE,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5,,5,,1728,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2882960218,,2882960218,,1228714361,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,164062978,,164062978,,56138435,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,300,Greece,GRC,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,381095505,,381095505,,145723861,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1466173141,,1466173141,,660651883,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,376,Israel,ISR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2766085207,,2766085207,,1215192590,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8566100608,,8566100608,,3646051708,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,382088764,,382088764,,148164236,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,801828246,,801828246,,387523076,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1508526876,,1508526876,,680392452,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,504,Morocco,MAR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,144115514,,144115514,,49305880,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,140311450,,140311450,,63055557,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,84909440,,84909440,,28075863,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,642,Romania,ROU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,158944891,,158944891,,51128179,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,685460975,,685460975,,266661334,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,727701341,,727701341,,315739569,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,266021,,266021,,126532,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,804,Ukraine,UKR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,240478632,,240478632,,126602137,,,0
+H3,2009,2009,2009,6,1,1,Import,31,Azerbaijan,AZE,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,11,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,391629543,,391629543,,163000009,,,0
+H3,2009,2009,2009,6,1,2,Export,31,Azerbaijan,AZE,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4023312549,,4023312549,,1735486326,,,0

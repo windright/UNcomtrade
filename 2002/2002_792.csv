@@ -1,0 +1,16 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,6,1,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,23707588696,,23707588696,,4087774602,,,0
+H2,2002,2002,2002,6,1,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16782920,,16782920,,3216989,,,0
+H2,2002,2002,2002,6,1,1,Import,792,Turkey,TUR,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,267498859,,267498859,,58691105,,,0
+H2,2002,2002,2002,6,1,1,Import,792,Turkey,TUR,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4538720034,,4538720034,,753498144,,,0
+H2,2002,2002,2002,6,1,1,Import,792,Turkey,TUR,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,469758128,,469758128,,82188585,,,0
+H2,2002,2002,2002,6,1,2,Export,792,Turkey,TUR,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,750,,750,,750,,,0
+H2,2002,2002,2002,6,1,1,Import,792,Turkey,TUR,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3900340823,,3900340823,,712242102,,,0
+H2,2002,2002,2002,6,1,1,Import,792,Turkey,TUR,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3944622576,,3944622576,,671799234,,,0
+H2,2002,2002,2002,6,1,1,Import,792,Turkey,TUR,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3864784818,,3864784818,,672961683,,,0
+H2,2002,2002,2002,6,1,1,Import,792,Turkey,TUR,760,Syria,SYR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2517529915,,2517529915,,429081753,,,0
+H2,2002,2002,2002,6,1,1,Import,792,Turkey,TUR,788,Tunisia,TUN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,65414271,,65414271,,10718142,,,0
+H2,2002,2002,2002,6,1,1,Import,792,Turkey,TUR,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,49521000,,49521000,,7603870,,,0
+H2,2002,2002,2002,6,1,1,Import,792,Turkey,TUR,838,Free Zones,,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4089398272,,4089398272,,688989984,,,0
+H2,2002,2002,2002,6,1,2,Export,792,Turkey,TUR,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16779560,,16779560,,3208889,,,0
+H2,2002,2002,2002,6,1,2,Export,792,Turkey,TUR,860,Uzbekistan,UZB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2610,,2610,,7350,,,0

@@ -1,0 +1,17 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,6,1,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,22088334855,,22088334855,,12274040281,,,0
+H3,2010,2010,2010,6,1,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3190,,3190,,8492,,,0
+H3,2010,2010,2010,6,1,1,Import,616,Poland,POL,112,Belarus,BLR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,380,,380,,158,,,0
+H3,2010,2010,2010,6,1,1,Import,616,Poland,POL,170,Colombia,COL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,97189980,,97189980,,50062647,,,0
+H3,2010,2010,2010,6,1,1,Import,616,Poland,POL,203,Czechia,CZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,475005,,475005,,232009,,,0
+H3,2010,2010,2010,6,1,1,Import,616,Poland,POL,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,84855617,,84855617,,49195172,,,0
+H3,2010,2010,2010,6,1,1,Import,616,Poland,POL,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1136265,,1136265,,2985834,,,0
+H3,2010,2010,2010,6,1,1,Import,616,Poland,POL,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,345435,,345435,,836972,,,0
+H3,2010,2010,2010,6,1,1,Import,616,Poland,POL,372,Ireland,IRL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,11692,,11692,,44831,,,0
+H3,2010,2010,2010,6,1,1,Import,616,Poland,POL,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,75,,75,,1175,,,0
+H3,2010,2010,2010,6,1,1,Import,616,Poland,POL,428,Latvia,LVA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,267065,,267065,,138286,,,0
+H3,2010,2010,2010,6,1,2,Export,616,Poland,POL,428,Latvia,LVA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,200,,200,,1201,,,0
+H3,2010,2010,2010,6,1,1,Import,616,Poland,POL,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1142442860,,1142442860,,703024462,,,0
+H3,2010,2010,2010,6,1,1,Import,616,Poland,POL,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,20761181022,,20761181022,,11466554267,,,0
+H3,2010,2010,2010,6,1,2,Export,616,Poland,POL,804,Ukraine,UKR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2990,,2990,,7291,,,0
+H3,2010,2010,2010,6,1,1,Import,616,Poland,POL,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,429459,,429459,,964468,,,0

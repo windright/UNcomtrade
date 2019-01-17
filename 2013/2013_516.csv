@@ -1,0 +1,25 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2013,2013,2013,6,1,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,93843,,93843,,258684,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,113945,,113945,,155767,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,24,Angola,AGO,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,10419,,10419,,72991,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,28,Antigua and Barbuda,ATG,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,40,,40,,465,,,0
+H4,2013,2013,2013,6,1,1,Import,516,Namibia,NAM,36,Australia,AUS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,250,,250,,6772,,,0
+H4,2013,2013,2013,6,1,1,Import,516,Namibia,NAM,72,Botswana,BWA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3505,,3505,,4486,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,72,Botswana,BWA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,103203,,103203,,76468,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,196,Cyprus,CYP,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,2,,2,,62,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,251,France,FRA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,4,,4,,120,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,276,Germany,DEU,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,52,,52,,685,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,292,Gibraltar,GIB,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,6,,6,,231,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,344,"China, Hong Kong SAR",HKG,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,2,,2,,59,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,392,Japan,JPN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,2,,2,,86,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,430,Liberia,LBR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,11,,11,,394,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,470,Malta,MLT,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3,,3,,116,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,579,Norway,NOR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,30,,30,,418,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,591,Panama,PAN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,21,,21,,540,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,702,Singapore,SGP,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3,,3,,72,,,0
+H4,2013,2013,2013,6,1,1,Import,516,Namibia,NAM,710,South Africa,ZAF,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,90080,,90080,,247107,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,710,South Africa,ZAF,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,17,,17,,58,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,784,United Arab Emirates,ARE,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,62,,62,,1104,,,0
+H4,2013,2013,2013,6,1,1,Import,516,Namibia,NAM,826,United Kingdom,GBR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,8,,8,,318,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,826,United Kingdom,GBR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,68,,68,,1712,,,0
+H4,2013,2013,2013,6,1,2,Export,516,Namibia,NAM,842,USA,USA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,2,,2,,186,,,0

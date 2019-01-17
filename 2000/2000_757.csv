@@ -1,0 +1,17 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4578217487,,4578217487,,991302501,,,0
+H1,2000,2000,2000,6,1,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,8705,,8705,,23656,,,0
+H1,2000,2000,2000,6,1,1,Import,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,780051229,,780051229,,165048873,,,0
+H1,2000,2000,2000,6,1,1,Import,757,Switzerland,CHE,180,Dem. Rep. of the Congo,COD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,15096000,,15096000,,2688999,,,0
+H1,2000,2000,2000,6,1,1,Import,757,Switzerland,CHE,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,12745085,,12745085,,3098585,,,0
+H1,2000,2000,2000,6,1,2,Export,757,Switzerland,CHE,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5086,,5086,,1686,,,0
+H1,2000,2000,2000,6,1,2,Export,757,Switzerland,CHE,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4,,4,,84,,,0
+H1,2000,2000,2000,6,1,1,Import,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,341371000,,341371000,,73015102,,,0
+H1,2000,2000,2000,6,1,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,9,,9,,3313,,,0
+H1,2000,2000,2000,6,1,1,Import,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1721174463,,1721174463,,390272334,,,0
+H1,2000,2000,2000,6,1,2,Export,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3000,,3000,,16358,,,0
+H1,2000,2000,2000,6,1,2,Export,757,Switzerland,CHE,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6,,6,,55,,,0
+H1,2000,2000,2000,6,1,1,Import,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1707779710,,1707779710,,357178609,,,0
+H1,2000,2000,2000,6,1,2,Export,757,Switzerland,CHE,804,Ukraine,UKR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,290,,290,,710,,,0
+H1,2000,2000,2000,6,1,2,Export,757,Switzerland,CHE,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,140,,140,,740,,,0
+H1,2000,2000,2000,6,1,2,Export,757,Switzerland,CHE,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,170,,170,,710,,,0

@@ -1,0 +1,30 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,32567723821,,32567723821,,7216187275,,,6
+H2,2003,2003,2003,6,1,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,11992458492,,11992458492,,652631532,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,221308946,,221308946,,64160400,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,351488027,,351488027,,76148178,,,6
+H2,2003,2003,2003,6,1,2,Export,764,Thailand,THA,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,381827231,,381827231,,78517428,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,96,Brunei Darussalam,BRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1389691971,,1389691971,,322543727,,,6
+H2,2003,2003,2003,6,1,2,Export,764,Thailand,THA,96,Brunei Darussalam,BRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12,,12,,162,,,6
+H2,2003,2003,2003,6,1,2,Export,764,Thailand,THA,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10574408970,,10574408970,,352450234,,,6
+H2,2003,2003,2003,6,1,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,173,,173,,301,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,800997836,,800997836,,199894145,,,6
+H2,2003,2003,2003,6,1,2,Export,764,Thailand,THA,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,673967277,,673967277,,143052743,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,52768919,,52768919,,10876338,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,137901991,,137901991,,27416695,,,6
+H2,2003,2003,2003,6,1,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,169044847,,169044847,,38739785,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,128163612,,128163612,,25071960,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1575529907,,1575529907,,364600659,,,6
+H2,2003,2003,2003,6,1,2,Export,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,22,,22,,20806,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,512,Oman,OMN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6548589629,,6548589629,,1390912731,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,137731477,,137731477,,32586286,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,586,Pakistan,PAK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,82108596,,82108596,,19119976,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1824908221,,1824908221,,386915902,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5835160709,,5835160709,,1341403618,,,6
+H2,2003,2003,2003,6,1,2,Export,764,Thailand,THA,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,90238142,,90238142,,18247093,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,82704631,,82704631,,29742630,,,6
+H2,2003,2003,2003,6,1,2,Export,764,Thailand,THA,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12122801,,12122801,,2677816,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8805693727,,8805693727,,1926222320,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,121751466,,121751466,,29462782,,,6
+H2,2003,2003,2003,6,1,2,Export,764,Thailand,THA,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,90849017,,90849017,,18925164,,,6
+H2,2003,2003,2003,6,1,1,Import,764,Thailand,THA,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4471224156,,4471224156,,969108930,,,6

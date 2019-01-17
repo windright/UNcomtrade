@@ -1,0 +1,9 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,6,1,1,Import,192,Cuba,CUB,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2324287920,,2324287920,,847073753,,,0
+H2,2005,2005,2005,6,1,2,Export,192,Cuba,CUB,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6670,,6670,,1149,,,0
+H2,2005,2005,2005,6,1,1,Import,192,Cuba,CUB,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,1,,,0
+H2,2005,2005,2005,6,1,1,Import,192,Cuba,CUB,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,134,,134,,364,,,0
+H2,2005,2005,2005,6,1,1,Import,192,Cuba,CUB,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1080,,1080,,4986,,,0
+H2,2005,2005,2005,6,1,1,Import,192,Cuba,CUB,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,155,,155,,915,,,0
+H2,2005,2005,2005,6,1,1,Import,192,Cuba,CUB,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2324286550,,2324286550,,847067487,,,0
+H2,2005,2005,2005,6,1,2,Export,192,Cuba,CUB,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6670,,6670,,1149,,,0

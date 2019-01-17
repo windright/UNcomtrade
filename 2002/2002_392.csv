@@ -1,0 +1,30 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,199595436865,,199595436865,,36487579493,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,24,Angola,AGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2097295192,,2097295192,,390555982,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2824056332,,2824056332,,552942067,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,48,Bahrain,BHR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,34066556,,34066556,,6048661,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,96,Brunei Darussalam,BRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1240888231,,1240888231,,235924951,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3226127851,,3226127851,,578808806,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,178,Congo,COG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,358431222,,358431222,,70321534,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,180,Dem. Rep. of the Congo,COD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,135249600,,135249600,,26421871,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,195238985,,195238985,,28395341,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,273639718,,273639718,,47850266,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,146139680,,146139680,,28602582,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7283344022,,7283344022,,1364709995,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,25205259435,,25205259435,,4529991999,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,634997040,,634997040,,110967559,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,85224367,,85224367,,13585674,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,17084365760,,17084365760,,2894544909,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2198903289,,2198903289,,420207593,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,465667475,,465667475,,78861692,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,512,Oman,OMN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10617829503,,10617829503,,1916127165,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3127444097,,3127444097,,594913328,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,80632453,,80632453,,12741447,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,18934399545,,18934399545,,3506020103,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,412611178,,412611178,,81476145,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,52807584975,,52807584975,,9586539942,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1067004191,,1067004191,,213167203,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1448281305,,1448281305,,280132490,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,47437877046,,47437877046,,8881887254,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,4909,,,0
+H2,2002,2002,2002,6,1,1,Import,392,Japan,JPN,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,172877816,,172877816,,35828026,,,0

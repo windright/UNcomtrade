@@ -1,0 +1,40 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,17853036867,,17853036867,,3247509434,,,6
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12135264269,,12135264269,,1691372197,,,6
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3249158347,,3249158347,,678969978,,,0
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1730277033,,1730277033,,308753035,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,149907427,,149907427,,15211804,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,44,Bahamas,BHS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,565389337,,565389337,,93754562,,,0
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,306807061,,306807061,,52665016,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,360,,360,,270,,,0
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,92,Br. Virgin Isds,VGB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,51579194,,51579194,,10395244,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,152,Chile,CHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,602449331,,602449331,,79171176,,,6
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,178,Congo,COG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,201769910,,201769910,,39974636,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,380208578,,380208578,,46433995,,,0
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,264659418,,264659418,,54593831,,,0
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,139255000,,139255000,,28505150,,,0
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,288,Ghana,GHA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,118769183,,118769183,,23667911,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,320,Guatemala,GTM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,36,,36,,5,,,6
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,31461029,,31461029,,6658727,,,0
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1944139806,,1944139806,,302737497,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,83587605,,83587605,,12939221,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,46478350,,46478350,,7394112,,,0
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,123848033,,123848033,,27122207,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1279696210,,1279696210,,186195914,,,0
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5085216688,,5085216688,,976516628,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,600,Paraguay,PRY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,74,,74,,145,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,873113974,,873113974,,115319320,,,0
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,139802507,,139802507,,25406678,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,662,Saint Lucia,LCA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1769597889,,1769597889,,242184175,,,0
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3254336554,,3254336554,,523546199,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2384439890,,2384439890,,333433899,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,76715733,,76715733,,10347821,,,0
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,40,,40,,983,,,0
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,130948127,,130948127,,30082230,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,291040538,,291040538,,44458507,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2208581311,,2208581311,,301332604,,,0
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,209997568,,209997568,,38119449,,,0
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,126777826,,126777826,,16888391,,,0
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,251588638,,251588638,,42546438,,,6
+H2,2002,2002,2002,6,1,2,Export,76,Brazil,BRA,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1297279800,,1297279800,,186306276,,,0
+H2,2002,2002,2002,6,1,1,Import,76,Brazil,BRA,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,619422731,,619422731,,77247597,,,0

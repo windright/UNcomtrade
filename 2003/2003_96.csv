@@ -1,0 +1,23 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2003,2003,2003,6,1,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,25515,,21939,,10606,,,0
+H1,2003,2003,2003,6,1,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,11064578048,,9513824256,,2022101888,,,0
+H1,2003,2003,2003,6,1,3,Re-Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,62103,,53399,,13960,,,0
+H1,2003,2003,2003,6,1,2,Export,96,Brunei Darussalam,BRN,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,1877924096,,1614724096,,344964480,,,0
+H1,2003,2003,2003,6,1,3,Re-Export,96,Brunei Darussalam,BRN,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,48904,,42050,,6037,,,0
+H1,2003,2003,2003,6,1,2,Export,96,Brunei Darussalam,BRN,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,1554262272,,1336424960,,276027200,,,0
+H1,2003,2003,2003,6,1,2,Export,96,Brunei Darussalam,BRN,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,561156800,,482508000,,104708064,,,0
+H1,2003,2003,2003,6,1,2,Export,96,Brunei Darussalam,BRN,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,1342334592,,1154200064,,251232176,,,0
+H1,2003,2003,2003,6,1,2,Export,96,Brunei Darussalam,BRN,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,1720068864,,1478993024,,315853824,,,0
+H1,2003,2003,2003,6,1,1,Import,96,Brunei Darussalam,BRN,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,25503,,21929,,10475,,,0
+H1,2003,2003,2003,6,1,2,Export,96,Brunei Darussalam,BRN,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,12793,,11000,,4841,,,0
+H1,2003,2003,2003,6,1,3,Re-Export,96,Brunei Darussalam,BRN,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,12793,,11000,,4841,,,0
+H1,2003,2003,2003,6,1,2,Export,96,Brunei Darussalam,BRN,554,New Zealand,NZL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,533444832,,458680000,,96464088,,,0
+H1,2003,2003,2003,6,1,2,Export,96,Brunei Darussalam,BRN,699,India,IND,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,436120352,,374996000,,83620336,,,0
+H1,2003,2003,2003,6,1,2,Export,96,Brunei Darussalam,BRN,764,Thailand,THA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,2175332096,,1870449024,,389359776,,,0
+H1,2003,2003,2003,6,1,2,Export,96,Brunei Darussalam,BRN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,136,,117,,2199,,,0
+H1,2003,2003,2003,6,1,3,Re-Export,96,Brunei Darussalam,BRN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,136,,117,,2199,,,0
+H1,2003,2003,2003,6,1,2,Export,96,Brunei Darussalam,BRN,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,863920640,,742838080,,159864560,,,0
+H1,2003,2003,2003,6,1,3,Re-Export,96,Brunei Darussalam,BRN,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,77,,66,,526,,,0
+H1,2003,2003,2003,6,1,1,Import,96,Brunei Darussalam,BRN,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,12,,10,,131,,,0
+H1,2003,2003,2003,6,1,2,Export,96,Brunei Darussalam,BRN,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,193,,166,,357,,,0
+H1,2003,2003,2003,6,1,3,Re-Export,96,Brunei Darussalam,BRN,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",7,Volume in litres,,,193,,166,,357,,,0

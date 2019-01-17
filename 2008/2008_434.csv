@@ -1,0 +1,23 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2008,2008,2008,6,1,1,Import,434,Libya,LBY,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,202349,,202349,,351599,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,49756269808,,49756269808,,35641495603,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1642849664,,1642849664,,1196457337,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,692429120,,692429120,,391533584,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2585963008,,2585963008,,1899984139,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6077740032,,6077740032,,4258668034,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4459796480,,4459796480,,3229826416,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,413404000,,413404000,,289940838,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,372,Ireland,IRL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,154970736,,154970736,,127645010,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,24502685696,,24502685696,,17273688629,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,698935168,,698935168,,525460385,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1430618496,,1430618496,,1160381657,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,559172800,,559172800,,430218333,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2624858368,,2624858368,,1831849161,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,136729744,,136729744,,108616547,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,341815296,,341815296,,279371162,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,788,Tunisia,TUN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1141672192,,1141672192,,821850785,,,0
+H2,2008,2008,2008,6,1,1,Import,434,Libya,LBY,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,11270,,11270,,18355,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,63507664,,63507664,,61932761,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,510473280,,510473280,,396228370,,,0
+H2,2008,2008,2008,6,1,1,Import,434,Libya,LBY,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,191079,,191079,,333244,,,0
+H2,2008,2008,2008,6,1,2,Export,434,Libya,LBY,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1718648064,,1718648064,,1357842452,,,0

@@ -1,0 +1,14 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,6,1,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1438166,,1438166,,389404,,,6
+H2,2005,2005,2005,6,1,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,30219540106,,30219540106,,13188817786,,,0
+H2,2005,2005,2005,6,1,3,Re-Export,512,Oman,OMN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,106,,106,,2328,,,0
+H2,2005,2005,2005,6,1,2,Export,512,Oman,OMN,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,11527182000,,11527182000,,5030846801,,,0
+H2,2005,2005,2005,6,1,2,Export,512,Oman,OMN,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5893494000,,5893494000,,2572117404,,,0
+H2,2005,2005,2005,6,1,2,Export,512,Oman,OMN,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2187840000,,2187840000,,954846368,,,0
+H2,2005,2005,2005,6,1,2,Export,512,Oman,OMN,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1025550000,,1025550000,,447584235,,,0
+H2,2005,2005,2005,6,1,2,Export,512,Oman,OMN,764,Thailand,THA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6016560000,,6016560000,,2625827512,,,0
+H2,2005,2005,2005,6,1,1,Import,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1438166,,1438166,,389404,,,6
+H2,2005,2005,2005,6,1,2,Export,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,106,,106,,2328,,,0
+H2,2005,2005,2005,6,1,3,Re-Export,512,Oman,OMN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,106,,106,,2328,,,0
+H2,2005,2005,2005,6,1,2,Export,512,Oman,OMN,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,875136000,,875136000,,381938547,,,0
+H2,2005,2005,2005,6,1,2,Export,512,Oman,OMN,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2693778000,,2693778000,,1175654591,,,0

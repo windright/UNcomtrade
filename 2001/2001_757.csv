@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4773040272,,4773040272,,934061324,,,0
+H1,2001,2001,2001,6,1,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1630,,1630,,4493,,,0
+H1,2001,2001,2001,6,1,1,Import,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,461132631,,461132631,,90687530,,,0
+H1,2001,2001,2001,6,1,2,Export,757,Switzerland,CHE,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,460,,460,,281,,,0
+H1,2001,2001,2001,6,1,1,Import,757,Switzerland,CHE,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,74602000,,74602000,,15627466,,,0
+H1,2001,2001,2001,6,1,2,Export,757,Switzerland,CHE,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,450,,450,,2668,,,0
+H1,2001,2001,2001,6,1,1,Import,757,Switzerland,CHE,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,389079000,,389079000,,74717804,,,0
+H1,2001,2001,2001,6,1,1,Import,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2323583710,,2323583710,,456109700,,,0
+H1,2001,2001,2001,6,1,1,Import,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1524642931,,1524642931,,296918823,,,0
+H1,2001,2001,2001,6,1,2,Export,757,Switzerland,CHE,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,720,,720,,1545,,,0

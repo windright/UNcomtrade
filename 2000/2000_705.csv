@@ -1,0 +1,7 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,128439478,,128439478,,29607715,,,0
+H1,2000,2000,2000,6,1,1,Import,705,Slovenia,SVN,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,41717751,,41717751,,9522405,,,0
+H1,2000,2000,2000,6,1,1,Import,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,40046695,,40046695,,10062221,,,0
+H1,2000,2000,2000,6,1,1,Import,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,0,,0,,12,,,0
+H1,2000,2000,2000,6,1,1,Import,705,Slovenia,SVN,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1,,1,,39,,,0
+H1,2000,2000,2000,6,1,1,Import,705,Slovenia,SVN,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,46675031,,46675031,,10023039,,,0

@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4012708697,,4012708697,,731366996,,,0
+H1,2001,2001,2001,6,1,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,15000890,,15000890,,2711232,,,0
+H1,2001,2001,2001,6,1,1,Import,191,Croatia,HRV,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,430515814,,430515814,,73068771,,,0
+H1,2001,2001,2001,6,1,1,Import,191,Croatia,HRV,434,Libya,LBY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,311719950,,311719950,,64706735,,,0
+H1,2001,2001,2001,6,1,1,Import,191,Croatia,HRV,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2409633263,,2409633263,,432838637,,,0
+H1,2001,2001,2001,6,1,1,Import,191,Croatia,HRV,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,20642,,20642,,2943,,,0
+H1,2001,2001,2001,6,1,1,Import,191,Croatia,HRV,705,Slovenia,SVN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1104843,,1104843,,166965,,,0
+H1,2001,2001,2001,6,1,1,Import,191,Croatia,HRV,760,Syria,SYR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,859714185,,859714185,,160582945,,,0
+H1,2001,2001,2001,6,1,2,Export,191,Croatia,HRV,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,890,,890,,312,,,0
+H1,2001,2001,2001,6,1,2,Export,191,Croatia,HRV,891,Serbia and Montenegro,SCG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,15000000,,15000000,,2710920,,,0

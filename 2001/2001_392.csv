@@ -1,0 +1,30 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,208103747176,,208103747176,,38760141408,,,0
+H1,2001,2001,2001,6,1,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,75652788,,75652788,,13541066,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,24,Angola,AGO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,124441068,,124441068,,20016320,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,16438915,,16438915,,3392120,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2472526161,,2472526161,,535213954,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,48,Bahrain,BHR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,73436501,,73436501,,13334664,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,25,,25,,1655,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,96,Brunei Darussalam,BRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1302962217,,1302962217,,259918159,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3713969079,,3713969079,,704944139,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,288653948,,288653948,,48014489,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,8595939941,,8595939941,,1646675788,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,26774069563,,26774069563,,4757028371,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,738724843,,738724843,,136938349,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,127248398,,127248398,,25784633,,,0
+H1,2001,2001,2001,6,1,2,Export,392,Japan,JPN,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,75652788,,75652788,,13541066,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,18228996530,,18228996530,,3092023696,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1457107620,,1457107620,,289135972,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1100519110,,1100519110,,175071488,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,512,Oman,OMN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,12092733982,,12092733982,,2198228987,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,771018798,,771018798,,160038068,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,21853007051,,21853007051,,4194488159,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,280459290,,280459290,,53129115,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,54388976904,,54388976904,,9985459541,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2080375515,,2080375515,,432615357,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1416603836,,1416603836,,286417121,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,764,Thailand,THA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,138747970,,138747970,,25852646,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,49851824937,,49851824937,,9665789630,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2200,,2200,,17368,,,0
+H1,2001,2001,2001,6,1,1,Import,392,Japan,JPN,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,214962774,,214962774,,50611618,,,0

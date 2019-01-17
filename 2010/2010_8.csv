@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,6,1,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,21972122,,21972122,,13047443,,,0
+H3,2010,2010,2010,6,1,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,537315248,,537315248,,162736020,,,0
+H3,2010,2010,2010,6,1,2,Export,8,Albania,ALB,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3,,3,,6,,,0
+H3,2010,2010,2010,6,1,1,Import,8,Albania,ALB,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8,,8,,48,,,0
+H3,2010,2010,2010,6,1,2,Export,8,Albania,ALB,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,326910458,,326910458,,97263384,,,0
+H3,2010,2010,2010,6,1,2,Export,8,Albania,ALB,470,Malta,MLT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,39442732,,39442732,,11747492,,,0
+H3,2010,2010,2010,6,1,1,Import,8,Albania,ALB,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,21972114,,21972114,,13047395,,,0
+H3,2010,2010,2010,6,1,2,Export,8,Albania,ALB,688,Serbia,SRB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,41810,,41810,,15810,,,0
+H3,2010,2010,2010,6,1,2,Export,8,Albania,ALB,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,137326415,,137326415,,42233561,,,0
+H3,2010,2010,2010,6,1,2,Export,8,Albania,ALB,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,33593830,,33593830,,11475767,,,0

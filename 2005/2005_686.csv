@@ -1,0 +1,14 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,6,1,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,962904519,,962904519,,381629722,,,0
+H2,2005,2005,2005,6,1,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,240263764,,240263764,,76741312,,,0
+H2,2005,2005,2005,6,1,1,Import,686,Senegal,SEN,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3795723,,3795723,,1859813,,,0
+H2,2005,2005,2005,6,1,1,Import,686,Senegal,SEN,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,41148081,,41148081,,19411394,,,0
+H2,2005,2005,2005,6,1,2,Export,686,Senegal,SEN,270,Gambia,GMB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6910638,,6910638,,2409704,,,0
+H2,2005,2005,2005,6,1,2,Export,686,Senegal,SEN,324,Guinea,GIN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2201037,,2201037,,759832,,,0
+H2,2005,2005,2005,6,1,2,Export,686,Senegal,SEN,430,Liberia,LBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3261077,,3261077,,1189308,,,0
+H2,2005,2005,2005,6,1,2,Export,686,Senegal,SEN,466,Mali,MLI,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,57148943,,57148943,,21476859,,,0
+H2,2005,2005,2005,6,1,1,Import,686,Senegal,SEN,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,917960715,,917960715,,360358515,,,0
+H2,2005,2005,2005,6,1,2,Export,686,Senegal,SEN,624,Guinea-Bissau,GNB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7425171,,7425171,,2630185,,,0
+H2,2005,2005,2005,6,1,2,Export,686,Senegal,SEN,694,Sierra Leone,SLE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3992660,,3992660,,1412736,,,0
+H2,2005,2005,2005,6,1,2,Export,686,Senegal,SEN,768,Togo,TGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4501694,,4501694,,1373709,,,0
+H2,2005,2005,2005,6,1,2,Export,686,Senegal,SEN,837,Bunkers,,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,154822544,,154822544,,45488978,,,0

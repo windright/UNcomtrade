@@ -1,0 +1,23 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5819442681,,5819442681,,1128847999,,,0
+H1,2000,2000,2000,6,1,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,110671676,,110671676,,14949589,,,0
+H1,2000,2000,2000,6,1,1,Import,203,Czechia,CZE,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,481444336,,481444336,,105761394,,,0
+H1,2000,2000,2000,6,1,1,Import,203,Czechia,CZE,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,27005815,,27005815,,4024534,,,0
+H1,2000,2000,2000,6,1,1,Import,203,Czechia,CZE,40,Austria,AUT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1,,1,,369,,,0
+H1,2000,2000,2000,6,1,2,Export,203,Czechia,CZE,40,Austria,AUT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,30516000,,30516000,,3207955,,,0
+H1,2000,2000,2000,6,1,1,Import,203,Czechia,CZE,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,116,,116,,47,,,0
+H1,2000,2000,2000,6,1,1,Import,203,Czechia,CZE,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,701,,701,,2733,,,0
+H1,2000,2000,2000,6,1,2,Export,203,Czechia,CZE,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,22780,,22780,,3803,,,0
+H1,2000,2000,2000,6,1,1,Import,203,Czechia,CZE,348,Hungary,HUN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,42560,,42560,,18406,,,0
+H1,2000,2000,2000,6,1,1,Import,203,Czechia,CZE,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,40793198,,40793198,,6937768,,,0
+H1,2000,2000,2000,6,1,2,Export,203,Czechia,CZE,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,20,,20,,5,,,0
+H1,2000,2000,2000,6,1,1,Import,203,Czechia,CZE,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2,,2,,50,,,0
+H1,2000,2000,2000,6,1,1,Import,203,Czechia,CZE,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,503108854,,503108854,,114838714,,,0
+H1,2000,2000,2000,6,1,1,Import,203,Czechia,CZE,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6,,6,,112,,,0
+H1,2000,2000,2000,6,1,2,Export,203,Czechia,CZE,616,Poland,POL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,22017222,,22017222,,4822032,,,0
+H1,2000,2000,2000,6,1,1,Import,203,Czechia,CZE,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4767046464,,4767046464,,897260255,,,0
+H1,2000,2000,2000,6,1,1,Import,203,Czechia,CZE,703,Slovakia,SVK,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,79,,79,,152,,,0
+H1,2000,2000,2000,6,1,2,Export,203,Czechia,CZE,703,Slovakia,SVK,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,58115654,,58115654,,6915795,,,0
+H1,2000,2000,2000,6,1,1,Import,203,Czechia,CZE,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2,,2,,36,,,0
+H1,2000,2000,2000,6,1,1,Import,203,Czechia,CZE,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,529,,529,,2488,,,0
+H1,2000,2000,2000,6,1,1,Import,203,Czechia,CZE,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,18,,18,,941,,,0

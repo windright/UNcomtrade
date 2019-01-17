@@ -1,0 +1,46 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,60255351354,,60255351354,,11661257307,,,0
+H1,2001,2001,2001,6,1,2,Export,156,China,CHN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,7550605532,,7550605532,,1383328405,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,24,Angola,AGO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3798883328,,3798883328,,721464446,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,136990816,,136990816,,25835144,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,709120704,,709120704,,153681592,,,0
+H1,2001,2001,2001,6,1,2,Export,156,China,CHN,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,145506592,,145506592,,23237727,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,96,Brunei Darussalam,BRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,753855936,,753855936,,146511491,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,120,Cameroon,CMR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,815286400,,815286400,,150589564,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,178,Congo,COG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,641613056,,641613056,,118583276,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2146416128,,2146416128,,429588109,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,146970336,,146970336,,26487774,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,141602320,,141602320,,27774440,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2645060608,,2645060608,,515612703,,,0
+H1,2001,2001,2001,6,1,2,Export,156,China,CHN,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1268079744,,1268079744,,242792738,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,10847008768,,10847008768,,2068760522,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,372055776,,372055776,,73006341,,,0
+H1,2001,2001,2001,6,1,2,Export,156,China,CHN,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4179926016,,4179926016,,746687439,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,649575168,,649575168,,96862877,,,0
+H1,2001,2001,2001,6,1,2,Export,156,China,CHN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,579278080,,579278080,,108756927,,,0
+H1,2001,2001,2001,6,1,2,Export,156,China,CHN,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,366411584,,366411584,,59800564,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1459822976,,1459822976,,267834264,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,434,Libya,LBY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,250365872,,250365872,,52025323,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,899451136,,899451136,,205856051,,,0
+H1,2001,2001,2001,6,1,2,Export,156,China,CHN,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,68163448,,68163448,,11839645,,,0
+H1,2001,2001,2001,6,1,2,Export,156,China,CHN,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,20,,20,,5,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,496,Mongolia,MNG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,9894349,,9894349,,1603421,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,512,Oman,OMN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,8140355072,,8140355072,,1599736283,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,772501696,,772501696,,161478273,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,579,Norway,NOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,915729664,,915729664,,173210959,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,598,Papua New Guinea,PNG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,75986720,,75986720,,18813029,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1325552768,,1325552768,,256636952,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1765974784,,1765974784,,327106404,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,8778376192,,8778376192,,1629285592,,,0
+H1,2001,2001,2001,6,1,2,Export,156,China,CHN,699,India,IND,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,61232440,,61232440,,10945508,,,0
+H1,2001,2001,2001,6,1,2,Export,156,China,CHN,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,164004480,,164004480,,33913051,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3362440192,,3362440192,,727810843,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4973386752,,4973386752,,936548774,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,764,Thailand,THA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,226760480,,226760480,,48555604,,,0
+H1,2001,2001,2001,6,1,2,Export,156,China,CHN,764,Thailand,THA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,68557752,,68557752,,13620147,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,649765824,,649765824,,136908642,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,502032224,,502032224,,103110843,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5,,5,,52,,,0
+H1,2001,2001,2001,6,1,2,Export,156,China,CHN,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,649445376,,649445376,,131734654,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,55569256,,55569256,,10280333,,,0
+H1,2001,2001,2001,6,1,1,Import,156,China,CHN,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2286946048,,2286946048,,449697386,,,0

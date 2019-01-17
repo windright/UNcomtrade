@@ -1,0 +1,12 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3835166516,,3835166516,,813130581,,,0
+H1,2000,2000,2000,6,1,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5684508,,5684508,,1173209,,,0
+H1,2000,2000,2000,6,1,1,Import,191,Croatia,HRV,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,494197304,,494197304,,101351862,,,0
+H1,2000,2000,2000,6,1,1,Import,191,Croatia,HRV,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,76676642,,76676642,,14764537,,,0
+H1,2000,2000,2000,6,1,1,Import,191,Croatia,HRV,434,Libya,LBY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,401395078,,401395078,,95521815,,,0
+H1,2000,2000,2000,6,1,1,Import,191,Croatia,HRV,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,122851000,,122851000,,29097724,,,0
+H1,2000,2000,2000,6,1,1,Import,191,Croatia,HRV,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2404728282,,2404728282,,497370846,,,0
+H1,2000,2000,2000,6,1,2,Export,191,Croatia,HRV,705,Slovenia,SVN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5684508,,5684508,,1173209,,,0
+H1,2000,2000,2000,6,1,1,Import,191,Croatia,HRV,760,Syria,SYR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,243120804,,243120804,,53201197,,,0
+H1,2000,2000,2000,6,1,1,Import,191,Croatia,HRV,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,29960020,,29960020,,6275719,,,0
+H1,2000,2000,2000,6,1,1,Import,191,Croatia,HRV,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,62237386,,62237386,,15546881,,,0

@@ -1,0 +1,16 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,6,1,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,151585,,151585,,40277,,,0
+H4,2016,2016,2016,6,1,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,273,,273,,225,,,0
+H4,2016,2016,2016,6,1,3,Re-Export,800,Uganda,UGA,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,214,,214,,188,,,0
+H4,2016,2016,2016,6,1,1,Import,800,Uganda,UGA,156,China,CHN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,2000,,2000,,424,,,0
+H4,2016,2016,2016,6,1,2,Export,800,Uganda,UGA,251,France,FRA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,70,,70,,68,,,0
+H4,2016,2016,2016,6,1,3,Re-Export,800,Uganda,UGA,251,France,FRA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,70,,70,,68,,,0
+H4,2016,2016,2016,6,1,2,Export,800,Uganda,UGA,276,Germany,DEU,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,203,,203,,157,,,0
+H4,2016,2016,2016,6,1,3,Re-Export,800,Uganda,UGA,276,Germany,DEU,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,144,,144,,120,,,0
+H4,2016,2016,2016,6,1,1,Import,800,Uganda,UGA,300,Greece,GRC,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,176,,176,,242,,,0
+H4,2016,2016,2016,6,1,1,Import,800,Uganda,UGA,360,Indonesia,IDN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,8982,,8982,,2177,,,0
+H4,2016,2016,2016,6,1,1,Import,800,Uganda,UGA,376,Israel,ISR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,2124,,2124,,4018,,,0
+H4,2016,2016,2016,6,1,1,Import,800,Uganda,UGA,404,Kenya,KEN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,38,,38,,67,,,0
+H4,2016,2016,2016,6,1,1,Import,800,Uganda,UGA,410,Rep. of Korea,KOR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,27516,,27516,,6612,,,0
+H4,2016,2016,2016,6,1,1,Import,800,Uganda,UGA,699,India,IND,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,110579,,110579,,26637,,,0
+H4,2016,2016,2016,6,1,1,Import,800,Uganda,UGA,826,United Kingdom,GBR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,170,,170,,100,,,0

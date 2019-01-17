@@ -1,0 +1,8 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2008,2008,2008,6,1,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3476265500,,3476265500,,2568802291,,,0
+H3,2008,2008,2008,6,1,1,Import,191,Croatia,HRV,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3476265417,,3476265417,,2568800768,,,0
+H3,2008,2008,2008,6,1,1,Import,191,Croatia,HRV,688,Serbia,SRB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,100,,,0
+H3,2008,2008,2008,6,1,1,Import,191,Croatia,HRV,705,Slovenia,SVN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,25,,25,,671,,,0
+H3,2008,2008,2008,6,1,1,Import,191,Croatia,HRV,760,Syria,SYR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7,,7,,143,,,0
+H3,2008,2008,2008,6,1,1,Import,191,Croatia,HRV,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,40,,40,,282,,,0
+H3,2008,2008,2008,6,1,1,Import,191,Croatia,HRV,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7,,7,,327,,,0

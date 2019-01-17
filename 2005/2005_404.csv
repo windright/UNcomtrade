@@ -1,0 +1,9 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,6,1,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1773973512,,1773973512,,682123807,,,0
+H2,2005,2005,2005,6,1,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,955,,955,,1710,,,0
+H2,2005,2005,2005,6,1,1,Import,404,Kenya,KEN,48,Bahrain,BHR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,82658352,,82658352,,35807863,,,0
+H2,2005,2005,2005,6,1,1,Import,404,Kenya,KEN,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,478993952,,478993952,,161282435,,,0
+H2,2005,2005,2005,6,1,2,Export,404,Kenya,KEN,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,900,,900,,1598,,,0
+H2,2005,2005,2005,6,1,1,Import,404,Kenya,KEN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1212320640,,1212320640,,485024900,,,0
+H2,2005,2005,2005,6,1,1,Import,404,Kenya,KEN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,568,,568,,8608,,,0
+H2,2005,2005,2005,6,1,2,Export,404,Kenya,KEN,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,55,,55,,112,,,0

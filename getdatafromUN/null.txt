@@ -1,0 +1,1297 @@
+year	code	country	file
+2000	100	Bulgaria
+2000	104	Myanmar
+2000	108	Burundi
+2000	132	Cabo Verde
+2000	136	Cayman Isds
+2000	140	Central African Rep.
+2000	148	Chad
+2000	174	Comoros
+2000	175	Mayotte
+2000	178	Congo
+2000	180	Dem. Rep. of the Congo
+2000	184	Cook Isds
+2000	200	Czechoslovakia
+2000	204	Benin
+2000	212	Dominica
+2000	214	Dominican Rep.
+2000	226	Equatorial Guinea
+2000	230	Fmr Ethiopia
+2000	232	Eritrea
+2000	238	Falkland Isds (Malvinas)
+2000	24	Angola
+2000	242	Fiji
+2000	254	French Guiana
+2000	258	French Polynesia
+2000	262	Djibouti
+2000	275	State of Palestine
+2000	278	Fmr Dem. Rep. of Germany
+2000	280	Fmr Fed. Rep. of Germany
+2000	292	Gibraltar
+2000	296	Kiribati
+2000	304	Greenland
+2000	312	Guadeloupe
+2000	332	Haiti
+2000	336	Holy See (Vatican City State)
+2000	344	China, Hong Kong SAR
+2000	348	Hungary
+2000	356	India, excl. Sikkim
+2000	368	Iraq
+2000	4	Afghanistan
+2000	408	Dem. People's Rep. of Korea
+2000	418	Lao People's Dem. Rep.
+2000	430	Liberia
+2000	434	Libya
+2000	446	China, Macao SAR
+2000	457	Sarawak
+2000	459	Peninsula Malaysia
+2000	461	Sabah
+2000	462	Maldives
+2000	474	Martinique
+2000	478	Mauritania
+2000	48	Bahrain
+2000	498	Rep. of Moldova
+2000	499	Montenegro
+2000	500	Montserrat
+2000	52	Barbados
+2000	524	Nepal
+2000	530	Neth. Antilles
+2000	531	Curaçao
+2000	532	Neth. Antilles and Aruba
+2000	533	Aruba
+2000	534	Saint Maarten
+2000	535	Bonaire
+2000	540	New Caledonia
+2000	548	Vanuatu
+2000	58	Belgium-Luxembourg
+2000	580	N. Mariana Isds
+2000	582	Fmr Pacific Isds
+2000	583	FS Micronesia
+2000	584	Marshall Isds
+2000	585	Palau
+2000	586	Pakistan
+2000	588	East and West Pakistan
+2000	590	Fmr Panama, excl.Canal Zone
+2000	592	Fmr Panama-Canal-Zone
+2000	60	Bermuda
+2000	624	Guinea-Bissau
+2000	626	Timor-Leste
+2000	638	Réunion
+2000	64	Bhutan
+2000	646	Rwanda
+2000	647	Ryukyu Isd
+2000	654	Saint Helena
+2000	658	Saint Kitts, Nevis and Anguilla
+2000	662	Saint Lucia
+2000	666	Saint Pierre and Miquelon
+2000	674	San Marino
+2000	678	Sao Tome and Principe
+2000	688	Serbia
+2000	694	Sierra Leone
+2000	70	Bosnia Herzegovina
+2000	706	Somalia
+2000	711	So. African Customs Union
+2000	716	Zimbabwe
+2000	717	Fmr Rhodesia Nyas
+2000	720	Fmr Dem. Yemen
+2000	728	South Sudan
+2000	729	Sudan
+2000	740	Suriname
+2000	760	Syria
+2000	762	Tajikistan
+2000	768	Togo
+2000	772	Tokelau
+2000	784	United Arab Emirates
+2000	796	Turks and Caicos Isds
+2000	798	Tuvalu
+2000	810	Fmr USSR
+2000	835	Fmr Tanganyika
+2000	836	Fmr Zanzibar and Pemba Isd
+2000	84	Belize
+2000	841	USA (before 1981)
+2000	850	US Virgin Isds
+2000	860	Uzbekistan
+2000	866	Fmr Dem. Rep. of Vietnam
+2000	868	Fmr Rep. of Vietnam
+2000	882	Samoa
+2000	886	Fmr Arab Rep. of Yemen
+2000	887	Yemen
+2000	890	Fmr Yugoslavia
+2000	90	Solomon Isds
+2000	92	Br. Virgin Isds
+2000	96	Brunei Darussalam
+2001	100	Bulgaria
+2001	108	Burundi
+2001	132	Cabo Verde
+2001	136	Cayman Isds
+2001	140	Central African Rep.
+2001	148	Chad
+2001	174	Comoros
+2001	175	Mayotte
+2001	178	Congo
+2001	180	Dem. Rep. of the Congo
+2001	184	Cook Isds
+2001	20	Andorra
+2001	200	Czechoslovakia
+2001	204	Benin
+2001	212	Dominica
+2001	226	Equatorial Guinea
+2001	230	Fmr Ethiopia
+2001	232	Eritrea
+2001	238	Falkland Isds (Malvinas)
+2001	24	Angola
+2001	242	Fiji
+2001	254	French Guiana
+2001	258	French Polynesia
+2001	262	Djibouti
+2001	275	State of Palestine
+2001	278	Fmr Dem. Rep. of Germany
+2001	28	Antigua and Barbuda
+2001	280	Fmr Fed. Rep. of Germany
+2001	292	Gibraltar
+2001	296	Kiribati
+2001	304	Greenland
+2001	312	Guadeloupe
+2001	324	Guinea
+2001	332	Haiti
+2001	336	Holy See (Vatican City State)
+2001	344	China, Hong Kong SAR
+2001	348	Hungary
+2001	356	India, excl. Sikkim
+2001	368	Iraq
+2001	4	Afghanistan
+2001	408	Dem. People's Rep. of Korea
+2001	417	Kyrgyzstan
+2001	418	Lao People's Dem. Rep.
+2001	430	Liberia
+2001	434	Libya
+2001	446	China, Macao SAR
+2001	457	Sarawak
+2001	459	Peninsula Malaysia
+2001	461	Sabah
+2001	462	Maldives
+2001	466	Mali
+2001	470	Malta
+2001	474	Martinique
+2001	499	Montenegro
+2001	500	Montserrat
+2001	508	Mozambique
+2001	52	Barbados
+2001	524	Nepal
+2001	530	Neth. Antilles
+2001	531	Curaçao
+2001	532	Neth. Antilles and Aruba
+2001	533	Aruba
+2001	534	Saint Maarten
+2001	535	Bonaire
+2001	548	Vanuatu
+2001	562	Niger
+2001	58	Belgium-Luxembourg
+2001	580	N. Mariana Isds
+2001	582	Fmr Pacific Isds
+2001	583	FS Micronesia
+2001	584	Marshall Isds
+2001	585	Palau
+2001	586	Pakistan
+2001	588	East and West Pakistan
+2001	590	Fmr Panama, excl.Canal Zone
+2001	592	Fmr Panama-Canal-Zone
+2001	60	Bermuda
+2001	624	Guinea-Bissau
+2001	626	Timor-Leste
+2001	638	Réunion
+2001	64	Bhutan
+2001	646	Rwanda
+2001	647	Ryukyu Isd
+2001	654	Saint Helena
+2001	658	Saint Kitts, Nevis and Anguilla
+2001	660	Anguilla
+2001	662	Saint Lucia
+2001	666	Saint Pierre and Miquelon
+2001	674	San Marino
+2001	678	Sao Tome and Principe
+2001	688	Serbia
+2001	690	Seychelles
+2001	694	Sierra Leone
+2001	70	Bosnia Herzegovina
+2001	706	Somalia
+2001	711	So. African Customs Union
+2001	717	Fmr Rhodesia Nyas
+2001	720	Fmr Dem. Yemen
+2001	728	South Sudan
+2001	729	Sudan
+2001	736	Fmr Sudan
+2001	740	Suriname
+2001	762	Tajikistan
+2001	768	Togo
+2001	772	Tokelau
+2001	776	Tonga
+2001	784	United Arab Emirates
+2001	795	Turkmenistan
+2001	796	Turks and Caicos Isds
+2001	798	Tuvalu
+2001	810	Fmr USSR
+2001	835	Fmr Tanganyika
+2001	836	Fmr Zanzibar and Pemba Isd
+2001	84	Belize
+2001	841	USA (before 1981)
+2001	850	US Virgin Isds
+2001	854	Burkina Faso
+2001	860	Uzbekistan
+2001	866	Fmr Dem. Rep. of Vietnam
+2001	868	Fmr Rep. of Vietnam
+2001	882	Samoa
+2001	886	Fmr Arab Rep. of Yemen
+2001	887	Yemen
+2001	890	Fmr Yugoslavia
+2001	90	Solomon Isds
+2001	92	Br. Virgin Isds
+2002	100	Bulgaria
+2002	104	Myanmar
+2002	116	Cambodia
+2002	132	Cabo Verde
+2002	136	Cayman Isds
+2002	140	Central African Rep.
+2002	148	Chad
+2002	175	Mayotte
+2002	178	Congo
+2002	180	Dem. Rep. of the Congo
+2002	184	Cook Isds
+2002	200	Czechoslovakia
+2002	204	Benin
+2002	212	Dominica
+2002	214	Dominican Rep.
+2002	226	Equatorial Guinea
+2002	230	Fmr Ethiopia
+2002	232	Eritrea
+2002	238	Falkland Isds (Malvinas)
+2002	24	Angola
+2002	254	French Guiana
+2002	258	French Polynesia
+2002	262	Djibouti
+2002	275	State of Palestine
+2002	278	Fmr Dem. Rep. of Germany
+2002	28	Antigua and Barbuda
+2002	280	Fmr Fed. Rep. of Germany
+2002	292	Gibraltar
+2002	296	Kiribati
+2002	308	Grenada
+2002	312	Guadeloupe
+2002	324	Guinea
+2002	332	Haiti
+2002	336	Holy See (Vatican City State)
+2002	344	China, Hong Kong SAR
+2002	356	India, excl. Sikkim
+2002	368	Iraq
+2002	4	Afghanistan
+2002	408	Dem. People's Rep. of Korea
+2002	418	Lao People's Dem. Rep.
+2002	430	Liberia
+2002	434	Libya
+2002	446	China, Macao SAR
+2002	457	Sarawak
+2002	459	Peninsula Malaysia
+2002	461	Sabah
+2002	462	Maldives
+2002	474	Martinique
+2002	478	Mauritania
+2002	499	Montenegro
+2002	500	Montserrat
+2002	51	Armenia
+2002	524	Nepal
+2002	530	Neth. Antilles
+2002	531	Curaçao
+2002	532	Neth. Antilles and Aruba
+2002	533	Aruba
+2002	534	Saint Maarten
+2002	535	Bonaire
+2002	548	Vanuatu
+2002	562	Niger
+2002	58	Belgium-Luxembourg
+2002	580	N. Mariana Isds
+2002	582	Fmr Pacific Isds
+2002	583	FS Micronesia
+2002	584	Marshall Isds
+2002	585	Palau
+2002	586	Pakistan
+2002	588	East and West Pakistan
+2002	590	Fmr Panama, excl.Canal Zone
+2002	592	Fmr Panama-Canal-Zone
+2002	60	Bermuda
+2002	624	Guinea-Bissau
+2002	626	Timor-Leste
+2002	638	Réunion
+2002	64	Bhutan
+2002	646	Rwanda
+2002	647	Ryukyu Isd
+2002	654	Saint Helena
+2002	658	Saint Kitts, Nevis and Anguilla
+2002	662	Saint Lucia
+2002	666	Saint Pierre and Miquelon
+2002	670	Saint Vincent and the Grenadines
+2002	674	San Marino
+2002	678	Sao Tome and Principe
+2002	688	Serbia
+2002	690	Seychelles
+2002	694	Sierra Leone
+2002	70	Bosnia Herzegovina
+2002	706	Somalia
+2002	711	So. African Customs Union
+2002	717	Fmr Rhodesia Nyas
+2002	720	Fmr Dem. Yemen
+2002	728	South Sudan
+2002	729	Sudan
+2002	740	Suriname
+2002	762	Tajikistan
+2002	772	Tokelau
+2002	784	United Arab Emirates
+2002	795	Turkmenistan
+2002	796	Turks and Caicos Isds
+2002	798	Tuvalu
+2002	810	Fmr USSR
+2002	835	Fmr Tanganyika
+2002	836	Fmr Zanzibar and Pemba Isd
+2002	84	Belize
+2002	841	USA (before 1981)
+2002	850	US Virgin Isds
+2002	860	Uzbekistan
+2002	866	Fmr Dem. Rep. of Vietnam
+2002	868	Fmr Rep. of Vietnam
+2002	886	Fmr Arab Rep. of Yemen
+2002	887	Yemen
+2002	890	Fmr Yugoslavia
+2002	90	Solomon Isds
+2002	92	Br. Virgin Isds
+2003	100	Bulgaria
+2003	104	Myanmar
+2003	108	Burundi
+2003	116	Cambodia
+2003	132	Cabo Verde
+2003	136	Cayman Isds
+2003	140	Central African Rep.
+2003	148	Chad
+2003	174	Comoros
+2003	178	Congo
+2003	180	Dem. Rep. of the Congo
+2003	184	Cook Isds
+2003	200	Czechoslovakia
+2003	204	Benin
+2003	212	Dominica
+2003	214	Dominican Rep.
+2003	226	Equatorial Guinea
+2003	230	Fmr Ethiopia
+2003	238	Falkland Isds (Malvinas)
+2003	24	Angola
+2003	254	French Guiana
+2003	262	Djibouti
+2003	275	State of Palestine
+2003	278	Fmr Dem. Rep. of Germany
+2003	28	Antigua and Barbuda
+2003	280	Fmr Fed. Rep. of Germany
+2003	292	Gibraltar
+2003	296	Kiribati
+2003	308	Grenada
+2003	312	Guadeloupe
+2003	324	Guinea
+2003	332	Haiti
+2003	336	Holy See (Vatican City State)
+2003	344	China, Hong Kong SAR
+2003	348	Hungary
+2003	356	India, excl. Sikkim
+2003	368	Iraq
+2003	4	Afghanistan
+2003	408	Dem. People's Rep. of Korea
+2003	418	Lao People's Dem. Rep.
+2003	430	Liberia
+2003	434	Libya
+2003	446	China, Macao SAR
+2003	457	Sarawak
+2003	459	Peninsula Malaysia
+2003	461	Sabah
+2003	462	Maldives
+2003	474	Martinique
+2003	478	Mauritania
+2003	499	Montenegro
+2003	500	Montserrat
+2003	51	Armenia
+2003	530	Neth. Antilles
+2003	531	Curaçao
+2003	532	Neth. Antilles and Aruba
+2003	533	Aruba
+2003	534	Saint Maarten
+2003	535	Bonaire
+2003	540	New Caledonia
+2003	548	Vanuatu
+2003	562	Niger
+2003	58	Belgium-Luxembourg
+2003	580	N. Mariana Isds
+2003	582	Fmr Pacific Isds
+2003	584	Marshall Isds
+2003	585	Palau
+2003	588	East and West Pakistan
+2003	590	Fmr Panama, excl.Canal Zone
+2003	591	Panama
+2003	592	Fmr Panama-Canal-Zone
+2003	60	Bermuda
+2003	624	Guinea-Bissau
+2003	626	Timor-Leste
+2003	638	Réunion
+2003	64	Bhutan
+2003	646	Rwanda
+2003	647	Ryukyu Isd
+2003	654	Saint Helena
+2003	658	Saint Kitts, Nevis and Anguilla
+2003	662	Saint Lucia
+2003	666	Saint Pierre and Miquelon
+2003	670	Saint Vincent and the Grenadines
+2003	674	San Marino
+2003	678	Sao Tome and Principe
+2003	688	Serbia
+2003	694	Sierra Leone
+2003	706	Somalia
+2003	711	So. African Customs Union
+2003	716	Zimbabwe
+2003	717	Fmr Rhodesia Nyas
+2003	720	Fmr Dem. Yemen
+2003	728	South Sudan
+2003	729	Sudan
+2003	740	Suriname
+2003	762	Tajikistan
+2003	768	Togo
+2003	772	Tokelau
+2003	784	United Arab Emirates
+2003	795	Turkmenistan
+2003	796	Turks and Caicos Isds
+2003	798	Tuvalu
+2003	810	Fmr USSR
+2003	834	United Rep. of Tanzania
+2003	835	Fmr Tanganyika
+2003	836	Fmr Zanzibar and Pemba Isd
+2003	841	USA (before 1981)
+2003	850	US Virgin Isds
+2003	854	Burkina Faso
+2003	860	Uzbekistan
+2003	866	Fmr Dem. Rep. of Vietnam
+2003	868	Fmr Rep. of Vietnam
+2003	886	Fmr Arab Rep. of Yemen
+2003	887	Yemen
+2003	890	Fmr Yugoslavia
+2003	891	Serbia and Montenegro
+2003	90	Solomon Isds
+2003	92	Br. Virgin Isds
+2004	100	Bulgaria
+2004	104	Myanmar
+2004	116	Cambodia
+2004	132	Cabo Verde
+2004	136	Cayman Isds
+2004	140	Central African Rep.
+2004	148	Chad
+2004	174	Comoros
+2004	175	Mayotte
+2004	178	Congo
+2004	180	Dem. Rep. of the Congo
+2004	184	Cook Isds
+2004	200	Czechoslovakia
+2004	204	Benin
+2004	226	Equatorial Guinea
+2004	230	Fmr Ethiopia
+2004	232	Eritrea
+2004	234	Faeroe Isds
+2004	238	Falkland Isds (Malvinas)
+2004	24	Angola
+2004	254	French Guiana
+2004	258	French Polynesia
+2004	262	Djibouti
+2004	275	State of Palestine
+2004	278	Fmr Dem. Rep. of Germany
+2004	28	Antigua and Barbuda
+2004	280	Fmr Fed. Rep. of Germany
+2004	288	Ghana
+2004	292	Gibraltar
+2004	312	Guadeloupe
+2004	332	Haiti
+2004	336	Holy See (Vatican City State)
+2004	344	China, Hong Kong SAR
+2004	352	Iceland
+2004	356	India, excl. Sikkim
+2004	368	Iraq
+2004	4	Afghanistan
+2004	408	Dem. People's Rep. of Korea
+2004	418	Lao People's Dem. Rep.
+2004	430	Liberia
+2004	434	Libya
+2004	446	China, Macao SAR
+2004	457	Sarawak
+2004	459	Peninsula Malaysia
+2004	461	Sabah
+2004	462	Maldives
+2004	474	Martinique
+2004	478	Mauritania
+2004	499	Montenegro
+2004	500	Montserrat
+2004	51	Armenia
+2004	524	Nepal
+2004	530	Neth. Antilles
+2004	531	Curaçao
+2004	532	Neth. Antilles and Aruba
+2004	533	Aruba
+2004	534	Saint Maarten
+2004	535	Bonaire
+2004	548	Vanuatu
+2004	562	Niger
+2004	566	Nigeria
+2004	58	Belgium-Luxembourg
+2004	580	N. Mariana Isds
+2004	582	Fmr Pacific Isds
+2004	584	Marshall Isds
+2004	585	Palau
+2004	588	East and West Pakistan
+2004	590	Fmr Panama, excl.Canal Zone
+2004	591	Panama
+2004	592	Fmr Panama-Canal-Zone
+2004	60	Bermuda
+2004	624	Guinea-Bissau
+2004	638	Réunion
+2004	64	Bhutan
+2004	647	Ryukyu Isd
+2004	654	Saint Helena
+2004	658	Saint Kitts, Nevis and Anguilla
+2004	662	Saint Lucia
+2004	666	Saint Pierre and Miquelon
+2004	670	Saint Vincent and the Grenadines
+2004	674	San Marino
+2004	678	Sao Tome and Principe
+2004	688	Serbia
+2004	694	Sierra Leone
+2004	706	Somalia
+2004	711	So. African Customs Union
+2004	717	Fmr Rhodesia Nyas
+2004	720	Fmr Dem. Yemen
+2004	728	South Sudan
+2004	729	Sudan
+2004	736	Fmr Sudan
+2004	740	Suriname
+2004	762	Tajikistan
+2004	768	Togo
+2004	772	Tokelau
+2004	784	United Arab Emirates
+2004	795	Turkmenistan
+2004	796	Turks and Caicos Isds
+2004	798	Tuvalu
+2004	810	Fmr USSR
+2004	835	Fmr Tanganyika
+2004	836	Fmr Zanzibar and Pemba Isd
+2004	84	Belize
+2004	841	USA (before 1981)
+2004	850	US Virgin Isds
+2004	860	Uzbekistan
+2004	866	Fmr Dem. Rep. of Vietnam
+2004	868	Fmr Rep. of Vietnam
+2004	886	Fmr Arab Rep. of Yemen
+2004	890	Fmr Yugoslavia
+2004	90	Solomon Isds
+2004	92	Br. Virgin Isds
+2005	100	Bulgaria
+2005	104	Myanmar
+2005	116	Cambodia
+2005	132	Cabo Verde
+2005	136	Cayman Isds
+2005	140	Central African Rep.
+2005	148	Chad
+2005	175	Mayotte
+2005	178	Congo
+2005	180	Dem. Rep. of the Congo
+2005	196	Cyprus
+2005	20	Andorra
+2005	200	Czechoslovakia
+2005	204	Benin
+2005	212	Dominica
+2005	226	Equatorial Guinea
+2005	230	Fmr Ethiopia
+2005	232	Eritrea
+2005	238	Falkland Isds (Malvinas)
+2005	24	Angola
+2005	254	French Guiana
+2005	262	Djibouti
+2005	270	Gambia
+2005	275	State of Palestine
+2005	278	Fmr Dem. Rep. of Germany
+2005	28	Antigua and Barbuda
+2005	280	Fmr Fed. Rep. of Germany
+2005	292	Gibraltar
+2005	296	Kiribati
+2005	308	Grenada
+2005	312	Guadeloupe
+2005	324	Guinea
+2005	332	Haiti
+2005	336	Holy See (Vatican City State)
+2005	344	China, Hong Kong SAR
+2005	356	India, excl. Sikkim
+2005	368	Iraq
+2005	4	Afghanistan
+2005	400	Jordan
+2005	408	Dem. People's Rep. of Korea
+2005	414	Kuwait
+2005	418	Lao People's Dem. Rep.
+2005	426	Lesotho
+2005	430	Liberia
+2005	434	Libya
+2005	446	China, Macao SAR
+2005	457	Sarawak
+2005	459	Peninsula Malaysia
+2005	461	Sabah
+2005	474	Martinique
+2005	478	Mauritania
+2005	499	Montenegro
+2005	51	Armenia
+2005	524	Nepal
+2005	530	Neth. Antilles
+2005	531	Curaçao
+2005	532	Neth. Antilles and Aruba
+2005	533	Aruba
+2005	534	Saint Maarten
+2005	535	Bonaire
+2005	548	Vanuatu
+2005	566	Nigeria
+2005	58	Belgium-Luxembourg
+2005	580	N. Mariana Isds
+2005	582	Fmr Pacific Isds
+2005	584	Marshall Isds
+2005	585	Palau
+2005	588	East and West Pakistan
+2005	590	Fmr Panama, excl.Canal Zone
+2005	591	Panama
+2005	592	Fmr Panama-Canal-Zone
+2005	598	Papua New Guinea
+2005	60	Bermuda
+2005	624	Guinea-Bissau
+2005	626	Timor-Leste
+2005	638	Réunion
+2005	646	Rwanda
+2005	647	Ryukyu Isd
+2005	654	Saint Helena
+2005	658	Saint Kitts, Nevis and Anguilla
+2005	659	Saint Kitts and Nevis
+2005	660	Anguilla
+2005	662	Saint Lucia
+2005	666	Saint Pierre and Miquelon
+2005	670	Saint Vincent and the Grenadines
+2005	674	San Marino
+2005	678	Sao Tome and Principe
+2005	694	Sierra Leone
+2005	706	Somalia
+2005	711	So. African Customs Union
+2005	717	Fmr Rhodesia Nyas
+2005	720	Fmr Dem. Yemen
+2005	728	South Sudan
+2005	729	Sudan
+2005	736	Fmr Sudan
+2005	740	Suriname
+2005	762	Tajikistan
+2005	772	Tokelau
+2005	795	Turkmenistan
+2005	796	Turks and Caicos Isds
+2005	798	Tuvalu
+2005	810	Fmr USSR
+2005	835	Fmr Tanganyika
+2005	836	Fmr Zanzibar and Pemba Isd
+2005	841	USA (before 1981)
+2005	850	US Virgin Isds
+2005	860	Uzbekistan
+2005	866	Fmr Dem. Rep. of Vietnam
+2005	868	Fmr Rep. of Vietnam
+2005	886	Fmr Arab Rep. of Yemen
+2005	890	Fmr Yugoslavia
+2005	891	Serbia and Montenegro
+2005	90	Solomon Isds
+2005	92	Br. Virgin Isds
+2005	96	Brunei Darussalam
+2006	100	Bulgaria
+2006	104	Myanmar
+2006	116	Cambodia
+2006	132	Cabo Verde
+2006	136	Cayman Isds
+2006	140	Central African Rep.
+2006	148	Chad
+2006	175	Mayotte
+2006	178	Congo
+2006	180	Dem. Rep. of the Congo
+2006	184	Cook Isds
+2006	192	Cuba
+2006	196	Cyprus
+2006	20	Andorra
+2006	200	Czechoslovakia
+2006	212	Dominica
+2006	226	Equatorial Guinea
+2006	230	Fmr Ethiopia
+2006	232	Eritrea
+2006	238	Falkland Isds (Malvinas)
+2006	24	Angola
+2006	254	French Guiana
+2006	262	Djibouti
+2006	270	Gambia
+2006	275	State of Palestine
+2006	278	Fmr Dem. Rep. of Germany
+2006	28	Antigua and Barbuda
+2006	280	Fmr Fed. Rep. of Germany
+2006	292	Gibraltar
+2006	312	Guadeloupe
+2006	328	Guyana
+2006	332	Haiti
+2006	336	Holy See (Vatican City State)
+2006	344	China, Hong Kong SAR
+2006	348	Hungary
+2006	356	India, excl. Sikkim
+2006	368	Iraq
+2006	4	Afghanistan
+2006	408	Dem. People's Rep. of Korea
+2006	418	Lao People's Dem. Rep.
+2006	426	Lesotho
+2006	430	Liberia
+2006	434	Libya
+2006	446	China, Macao SAR
+2006	454	Malawi
+2006	457	Sarawak
+2006	459	Peninsula Malaysia
+2006	461	Sabah
+2006	470	Malta
+2006	474	Martinique
+2006	480	Mauritius
+2006	499	Montenegro
+2006	500	Montserrat
+2006	51	Armenia
+2006	524	Nepal
+2006	530	Neth. Antilles
+2006	531	Curaçao
+2006	532	Neth. Antilles and Aruba
+2006	533	Aruba
+2006	534	Saint Maarten
+2006	535	Bonaire
+2006	58	Belgium-Luxembourg
+2006	580	N. Mariana Isds
+2006	582	Fmr Pacific Isds
+2006	584	Marshall Isds
+2006	585	Palau
+2006	588	East and West Pakistan
+2006	590	Fmr Panama, excl.Canal Zone
+2006	591	Panama
+2006	592	Fmr Panama-Canal-Zone
+2006	598	Papua New Guinea
+2006	60	Bermuda
+2006	600	Paraguay
+2006	624	Guinea-Bissau
+2006	626	Timor-Leste
+2006	638	Réunion
+2006	64	Bhutan
+2006	647	Ryukyu Isd
+2006	654	Saint Helena
+2006	658	Saint Kitts, Nevis and Anguilla
+2006	666	Saint Pierre and Miquelon
+2006	674	San Marino
+2006	678	Sao Tome and Principe
+2006	694	Sierra Leone
+2006	706	Somalia
+2006	711	So. African Customs Union
+2006	717	Fmr Rhodesia Nyas
+2006	720	Fmr Dem. Yemen
+2006	728	South Sudan
+2006	729	Sudan
+2006	740	Suriname
+2006	762	Tajikistan
+2006	768	Togo
+2006	772	Tokelau
+2006	784	United Arab Emirates
+2006	795	Turkmenistan
+2006	796	Turks and Caicos Isds
+2006	798	Tuvalu
+2006	810	Fmr USSR
+2006	835	Fmr Tanganyika
+2006	836	Fmr Zanzibar and Pemba Isd
+2006	841	USA (before 1981)
+2006	850	US Virgin Isds
+2006	854	Burkina Faso
+2006	860	Uzbekistan
+2006	866	Fmr Dem. Rep. of Vietnam
+2006	868	Fmr Rep. of Vietnam
+2006	886	Fmr Arab Rep. of Yemen
+2006	890	Fmr Yugoslavia
+2006	891	Serbia and Montenegro
+2006	90	Solomon Isds
+2006	92	Br. Virgin Isds
+2007	104	Myanmar
+2007	132	Cabo Verde
+2007	136	Cayman Isds
+2007	140	Central African Rep.
+2007	148	Chad
+2007	175	Mayotte
+2007	180	Dem. Rep. of the Congo
+2007	192	Cuba
+2007	196	Cyprus
+2007	200	Czechoslovakia
+2007	204	Benin
+2007	226	Equatorial Guinea
+2007	230	Fmr Ethiopia
+2007	232	Eritrea
+2007	238	Falkland Isds (Malvinas)
+2007	254	French Guiana
+2007	262	Djibouti
+2007	278	Fmr Dem. Rep. of Germany
+2007	280	Fmr Fed. Rep. of Germany
+2007	292	Gibraltar
+2007	308	Grenada
+2007	312	Guadeloupe
+2007	332	Haiti
+2007	336	Holy See (Vatican City State)
+2007	344	China, Hong Kong SAR
+2007	356	India, excl. Sikkim
+2007	360	Indonesia
+2007	364	Iran
+2007	368	Iraq
+2007	376	Israel
+2007	392	Japan
+2007	4	Afghanistan
+2007	408	Dem. People's Rep. of Korea
+2007	410	Rep. of Korea
+2007	414	Kuwait
+2007	417	Kyrgyzstan
+2007	418	Lao People's Dem. Rep.
+2007	422	Lebanon
+2007	426	Lesotho
+2007	428	Latvia
+2007	430	Liberia
+2007	434	Libya
+2007	440	Lithuania
+2007	446	China, Macao SAR
+2007	457	Sarawak
+2007	459	Peninsula Malaysia
+2007	461	Sabah
+2007	462	Maldives
+2007	474	Martinique
+2007	499	Montenegro
+2007	500	Montserrat
+2007	51	Armenia
+2007	524	Nepal
+2007	530	Neth. Antilles
+2007	531	Curaçao
+2007	532	Neth. Antilles and Aruba
+2007	533	Aruba
+2007	534	Saint Maarten
+2007	535	Bonaire
+2007	562	Niger
+2007	58	Belgium-Luxembourg
+2007	580	N. Mariana Isds
+2007	582	Fmr Pacific Isds
+2007	584	Marshall Isds
+2007	588	East and West Pakistan
+2007	590	Fmr Panama, excl.Canal Zone
+2007	591	Panama
+2007	592	Fmr Panama-Canal-Zone
+2007	598	Papua New Guinea
+2007	60	Bermuda
+2007	624	Guinea-Bissau
+2007	626	Timor-Leste
+2007	638	Réunion
+2007	647	Ryukyu Isd
+2007	654	Saint Helena
+2007	658	Saint Kitts, Nevis and Anguilla
+2007	666	Saint Pierre and Miquelon
+2007	674	San Marino
+2007	678	Sao Tome and Principe
+2007	694	Sierra Leone
+2007	706	Somalia
+2007	711	So. African Customs Union
+2007	717	Fmr Rhodesia Nyas
+2007	720	Fmr Dem. Yemen
+2007	728	South Sudan
+2007	729	Sudan
+2007	740	Suriname
+2007	762	Tajikistan
+2007	768	Togo
+2007	772	Tokelau
+2007	795	Turkmenistan
+2007	796	Turks and Caicos Isds
+2007	798	Tuvalu
+2007	810	Fmr USSR
+2007	835	Fmr Tanganyika
+2007	836	Fmr Zanzibar and Pemba Isd
+2007	841	USA (before 1981)
+2007	850	US Virgin Isds
+2007	854	Burkina Faso
+2007	860	Uzbekistan
+2007	866	Fmr Dem. Rep. of Vietnam
+2007	868	Fmr Rep. of Vietnam
+2007	876	Wallis and Futuna Isds
+2007	886	Fmr Arab Rep. of Yemen
+2007	890	Fmr Yugoslavia
+2007	891	Serbia and Montenegro
+2007	90	Solomon Isds
+2007	92	Br. Virgin Isds
+2008	104	Myanmar
+2008	136	Cayman Isds
+2008	140	Central African Rep.
+2008	148	Chad
+2008	180	Dem. Rep. of the Congo
+2008	184	Cook Isds
+2008	192	Cuba
+2008	200	Czechoslovakia
+2008	212	Dominica
+2008	226	Equatorial Guinea
+2008	230	Fmr Ethiopia
+2008	232	Eritrea
+2008	238	Falkland Isds (Malvinas)
+2008	24	Angola
+2008	254	French Guiana
+2008	262	Djibouti
+2008	270	Gambia
+2008	275	State of Palestine
+2008	278	Fmr Dem. Rep. of Germany
+2008	28	Antigua and Barbuda
+2008	280	Fmr Fed. Rep. of Germany
+2008	292	Gibraltar
+2008	304	Greenland
+2008	308	Grenada
+2008	312	Guadeloupe
+2008	324	Guinea
+2008	328	Guyana
+2008	332	Haiti
+2008	336	Holy See (Vatican City State)
+2008	340	Honduras
+2008	344	China, Hong Kong SAR
+2008	348	Hungary
+2008	356	India, excl. Sikkim
+2008	364	Iran
+2008	368	Iraq
+2008	4	Afghanistan
+2008	408	Dem. People's Rep. of Korea
+2008	418	Lao People's Dem. Rep.
+2008	430	Liberia
+2008	446	China, Macao SAR
+2008	454	Malawi
+2008	457	Sarawak
+2008	458	Malaysia
+2008	459	Peninsula Malaysia
+2008	461	Sabah
+2008	462	Maldives
+2008	466	Mali
+2008	474	Martinique
+2008	490	Other Asia, nes
+2008	496	Mongolia
+2008	498	Rep. of Moldova
+2008	500	Montserrat
+2008	51	Armenia
+2008	524	Nepal
+2008	530	Neth. Antilles
+2008	531	Curaçao
+2008	532	Neth. Antilles and Aruba
+2008	533	Aruba
+2008	534	Saint Maarten
+2008	535	Bonaire
+2008	540	New Caledonia
+2008	548	Vanuatu
+2008	554	New Zealand
+2008	558	Nicaragua
+2008	58	Belgium-Luxembourg
+2008	580	N. Mariana Isds
+2008	582	Fmr Pacific Isds
+2008	584	Marshall Isds
+2008	588	East and West Pakistan
+2008	590	Fmr Panama, excl.Canal Zone
+2008	591	Panama
+2008	592	Fmr Panama-Canal-Zone
+2008	598	Papua New Guinea
+2008	60	Bermuda
+2008	600	Paraguay
+2008	624	Guinea-Bissau
+2008	626	Timor-Leste
+2008	638	Réunion
+2008	64	Bhutan
+2008	647	Ryukyu Isd
+2008	654	Saint Helena
+2008	658	Saint Kitts, Nevis and Anguilla
+2008	659	Saint Kitts and Nevis
+2008	660	Anguilla
+2008	666	Saint Pierre and Miquelon
+2008	670	Saint Vincent and the Grenadines
+2008	674	San Marino
+2008	678	Sao Tome and Principe
+2008	688	Serbia
+2008	690	Seychelles
+2008	694	Sierra Leone
+2008	704	Viet Nam
+2008	706	Somalia
+2008	710	South Africa
+2008	711	So. African Customs Union
+2008	716	Zimbabwe
+2008	717	Fmr Rhodesia Nyas
+2008	720	Fmr Dem. Yemen
+2008	724	Spain
+2008	728	South Sudan
+2008	729	Sudan
+2008	740	Suriname
+2008	748	Swaziland
+2008	752	Sweden
+2008	762	Tajikistan
+2008	768	Togo
+2008	772	Tokelau
+2008	792	Turkey
+2008	795	Turkmenistan
+2008	796	Turks and Caicos Isds
+2008	798	Tuvalu
+2008	804	Ukraine
+2008	807	TFYR of Macedonia
+2008	810	Fmr USSR
+2008	818	Egypt
+2008	835	Fmr Tanganyika
+2008	836	Fmr Zanzibar and Pemba Isd
+2008	841	USA (before 1981)
+2008	850	US Virgin Isds
+2008	860	Uzbekistan
+2008	866	Fmr Dem. Rep. of Vietnam
+2008	868	Fmr Rep. of Vietnam
+2008	876	Wallis and Futuna Isds
+2008	886	Fmr Arab Rep. of Yemen
+2008	890	Fmr Yugoslavia
+2008	891	Serbia and Montenegro
+2008	90	Solomon Isds
+2008	92	Br. Virgin Isds
+2009	104	Myanmar
+2009	132	Cabo Verde
+2009	136	Cayman Isds
+2009	140	Central African Rep.
+2009	144	Sri Lanka
+2009	148	Chad
+2009	152	Chile
+2009	156	China
+2009	174	Comoros
+2009	175	Mayotte
+2009	180	Dem. Rep. of the Congo
+2009	192	Cuba
+2009	196	Cyprus
+2009	20	Andorra
+2009	200	Czechoslovakia
+2009	204	Benin
+2009	212	Dominica
+2009	226	Equatorial Guinea
+2009	230	Fmr Ethiopia
+2009	232	Eritrea
+2009	234	Faeroe Isds
+2009	238	Falkland Isds (Malvinas)
+2009	242	Fiji
+2009	254	French Guiana
+2009	258	French Polynesia
+2009	262	Djibouti
+2009	268	Georgia
+2009	270	Gambia
+2009	275	State of Palestine
+2009	278	Fmr Dem. Rep. of Germany
+2009	280	Fmr Fed. Rep. of Germany
+2009	292	Gibraltar
+2009	304	Greenland
+2009	308	Grenada
+2009	312	Guadeloupe
+2009	324	Guinea
+2009	328	Guyana
+2009	332	Haiti
+2009	336	Holy See (Vatican City State)
+2009	340	Honduras
+2009	344	China, Hong Kong SAR
+2009	348	Hungary
+2009	356	India, excl. Sikkim
+2009	364	Iran
+2009	368	Iraq
+2009	372	Ireland
+2009	388	Jamaica
+2009	4	Afghanistan
+2009	400	Jordan
+2009	408	Dem. People's Rep. of Korea
+2009	410	Rep. of Korea
+2009	418	Lao People's Dem. Rep.
+2009	430	Liberia
+2009	434	Libya
+2009	446	China, Macao SAR
+2009	457	Sarawak
+2009	459	Peninsula Malaysia
+2009	461	Sabah
+2009	462	Maldives
+2009	466	Mali
+2009	474	Martinique
+2009	480	Mauritius
+2009	490	Other Asia, nes
+2009	496	Mongolia
+2009	500	Montserrat
+2009	51	Armenia
+2009	530	Neth. Antilles
+2009	531	Curaçao
+2009	532	Neth. Antilles and Aruba
+2009	533	Aruba
+2009	534	Saint Maarten
+2009	535	Bonaire
+2009	58	Belgium-Luxembourg
+2009	580	N. Mariana Isds
+2009	582	Fmr Pacific Isds
+2009	584	Marshall Isds
+2009	588	East and West Pakistan
+2009	590	Fmr Panama, excl.Canal Zone
+2009	591	Panama
+2009	592	Fmr Panama-Canal-Zone
+2009	598	Papua New Guinea
+2009	60	Bermuda
+2009	624	Guinea-Bissau
+2009	626	Timor-Leste
+2009	638	Réunion
+2009	647	Ryukyu Isd
+2009	654	Saint Helena
+2009	658	Saint Kitts, Nevis and Anguilla
+2009	660	Anguilla
+2009	666	Saint Pierre and Miquelon
+2009	674	San Marino
+2009	678	Sao Tome and Principe
+2009	690	Seychelles
+2009	694	Sierra Leone
+2009	705	Slovenia
+2009	706	Somalia
+2009	711	So. African Customs Union
+2009	717	Fmr Rhodesia Nyas
+2009	720	Fmr Dem. Yemen
+2009	728	South Sudan
+2009	729	Sudan
+2009	740	Suriname
+2009	748	Swaziland
+2009	762	Tajikistan
+2009	772	Tokelau
+2009	784	United Arab Emirates
+2009	795	Turkmenistan
+2009	796	Turks and Caicos Isds
+2009	798	Tuvalu
+2009	807	TFYR of Macedonia
+2009	810	Fmr USSR
+2009	835	Fmr Tanganyika
+2009	836	Fmr Zanzibar and Pemba Isd
+2009	841	USA (before 1981)
+2009	850	US Virgin Isds
+2009	860	Uzbekistan
+2009	866	Fmr Dem. Rep. of Vietnam
+2009	868	Fmr Rep. of Vietnam
+2009	876	Wallis and Futuna Isds
+2009	886	Fmr Arab Rep. of Yemen
+2009	890	Fmr Yugoslavia
+2009	891	Serbia and Montenegro
+2009	90	Solomon Isds
+2009	92	Br. Virgin Isds
+2010	132	Cabo Verde
+2010	136	Cayman Isds
+2010	140	Central African Rep.
+2010	148	Chad
+2010	170	Colombia
+2010	175	Mayotte
+2010	178	Congo
+2010	180	Dem. Rep. of the Congo
+2010	192	Cuba
+2010	196	Cyprus
+2010	20	Andorra
+2010	200	Czechoslovakia
+2010	204	Benin
+2010	226	Equatorial Guinea
+2010	230	Fmr Ethiopia
+2010	232	Eritrea
+2010	234	Faeroe Isds
+2010	238	Falkland Isds (Malvinas)
+2010	254	French Guiana
+2010	258	French Polynesia
+2010	262	Djibouti
+2010	266	Gabon
+2010	278	Fmr Dem. Rep. of Germany
+2010	280	Fmr Fed. Rep. of Germany
+2010	292	Gibraltar
+2010	304	Greenland
+2010	308	Grenada
+2010	312	Guadeloupe
+2010	324	Guinea
+2010	328	Guyana
+2010	332	Haiti
+2010	336	Holy See (Vatican City State)
+2010	344	China, Hong Kong SAR
+2010	356	India, excl. Sikkim
+2010	384	Côte d'Ivoire
+2010	388	Jamaica
+2010	392	Japan
+2010	398	Kazakhstan
+2010	4	Afghanistan
+2010	408	Dem. People's Rep. of Korea
+2010	418	Lao People's Dem. Rep.
+2010	426	Lesotho
+2010	430	Liberia
+2010	440	Lithuania
+2010	446	China, Macao SAR
+2010	457	Sarawak
+2010	459	Peninsula Malaysia
+2010	461	Sabah
+2010	462	Maldives
+2010	466	Mali
+2010	474	Martinique
+2010	480	Mauritius
+2010	496	Mongolia
+2010	498	Rep. of Moldova
+2010	500	Montserrat
+2010	51	Armenia
+2010	52	Barbados
+2010	530	Neth. Antilles
+2010	531	Curaçao
+2010	532	Neth. Antilles and Aruba
+2010	533	Aruba
+2010	534	Saint Maarten
+2010	535	Bonaire
+2010	58	Belgium-Luxembourg
+2010	580	N. Mariana Isds
+2010	582	Fmr Pacific Isds
+2010	584	Marshall Isds
+2010	588	East and West Pakistan
+2010	590	Fmr Panama, excl.Canal Zone
+2010	591	Panama
+2010	592	Fmr Panama-Canal-Zone
+2010	598	Papua New Guinea
+2010	624	Guinea-Bissau
+2010	626	Timor-Leste
+2010	638	Réunion
+2010	64	Bhutan
+2010	647	Ryukyu Isd
+2010	654	Saint Helena
+2010	658	Saint Kitts, Nevis and Anguilla
+2010	660	Anguilla
+2010	666	Saint Pierre and Miquelon
+2010	670	Saint Vincent and the Grenadines
+2010	674	San Marino
+2010	678	Sao Tome and Principe
+2010	694	Sierra Leone
+2010	705	Slovenia
+2010	706	Somalia
+2010	711	So. African Customs Union
+2010	717	Fmr Rhodesia Nyas
+2010	720	Fmr Dem. Yemen
+2010	728	South Sudan
+2010	729	Sudan
+2010	740	Suriname
+2010	748	Swaziland
+2010	762	Tajikistan
+2010	768	Togo
+2010	772	Tokelau
+2010	784	United Arab Emirates
+2010	792	Turkey
+2010	795	Turkmenistan
+2010	796	Turks and Caicos Isds
+2010	798	Tuvalu
+2010	810	Fmr USSR
+2010	835	Fmr Tanganyika
+2010	836	Fmr Zanzibar and Pemba Isd
+2010	841	USA (before 1981)
+2010	850	US Virgin Isds
+2010	860	Uzbekistan
+2010	866	Fmr Dem. Rep. of Vietnam
+2010	868	Fmr Rep. of Vietnam
+2010	876	Wallis and Futuna Isds
+2010	882	Samoa
+2010	886	Fmr Arab Rep. of Yemen
+2010	890	Fmr Yugoslavia
+2010	891	Serbia and Montenegro
+2010	90	Solomon Isds
+2010	92	Br. Virgin Isds

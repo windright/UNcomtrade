@@ -1,0 +1,20 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2008,2008,2008,6,1,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,14114,,14114,,9814,,,6
+H3,2008,2008,2008,6,1,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,70234326944,,70234326944,,43341542868,,,0
+H3,2008,2008,2008,6,1,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1298901888,,1298901888,,871758148,,,0
+H3,2008,2008,2008,6,1,2,Export,484,Mexico,MEX,214,Dominican Rep.,DOM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,496289376,,496289376,,319385276,,,0
+H3,2008,2008,2008,6,1,2,Export,484,Mexico,MEX,222,El Salvador,SLV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,336268416,,336268416,,227912206,,,0
+H3,2008,2008,2008,6,1,2,Export,484,Mexico,MEX,376,Israel,ISR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,240679504,,240679504,,117750998,,,0
+H3,2008,2008,2008,6,1,2,Export,484,Mexico,MEX,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,68416088,,68416088,,52880618,,,0
+H3,2008,2008,2008,6,1,2,Export,484,Mexico,MEX,388,Jamaica,JAM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,91534720,,91534720,,72571712,,,0
+H3,2008,2008,2008,6,1,1,Import,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,1,,,6
+H3,2008,2008,2008,6,1,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,438461472,,438461472,,315286993,,,0
+H3,2008,2008,2008,6,1,2,Export,484,Mexico,MEX,533,Aruba,ABW,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1825651584,,1825651584,,1235324158,,,0
+H3,2008,2008,2008,6,1,2,Export,484,Mexico,MEX,558,Nicaragua,NIC,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,98439128,,98439128,,72521072,,,0
+H3,2008,2008,2008,6,1,2,Export,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,125057760,,125057760,,94712455,,,0
+H3,2008,2008,2008,6,1,2,Export,484,Mexico,MEX,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1745787392,,1745787392,,836066335,,,0
+H3,2008,2008,2008,6,1,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6151270912,,6151270912,,3550413635,,,0
+H3,2008,2008,2008,6,1,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,250351808,,250351808,,187595751,,,0
+H3,2008,2008,2008,6,1,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,14084,,14084,,9793,,,0
+H3,2008,2008,2008,6,1,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,57067216896,,57067216896,,35387363511,,,0
+H3,2008,2008,2008,6,1,1,Import,484,Mexico,MEX,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,29,,29,,20,,,6

@@ -1,0 +1,21 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2006,2006,2006,6,1,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1792597501,,1792597501,,925417069,,,0
+H2,2006,2006,2006,6,1,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4394647576,,4394647576,,1781718541,,,0
+H2,2006,2006,2006,6,1,4,Re-Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,126785900,,126785900,,56259428,,,0
+H2,2006,2006,2006,6,1,1,Import,120,Cameroon,CMR,120,Cameroon,CMR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,126785900,,126785900,,56259428,,,0
+H2,2006,2006,2006,6,1,4,Re-Import,120,Cameroon,CMR,120,Cameroon,CMR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,126785900,,126785900,,56259428,,,0
+H2,2006,2006,2006,6,1,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,194576144,,194576144,,103697966,,,0
+H2,2006,2006,2006,6,1,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,13,,13,,88,,,0
+H2,2006,2006,2006,6,1,2,Export,120,Cameroon,CMR,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,451288816,,451288816,,180909200,,,0
+H2,2006,2006,2006,6,1,2,Export,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1550163900,,1550163900,,600522839,,,0
+H2,2006,2006,2006,6,1,1,Import,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,60626600,,60626600,,33229819,,,0
+H2,2006,2006,2006,6,1,2,Export,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,160,,160,,1555,,,0
+H2,2006,2006,2006,6,1,1,Import,120,Cameroon,CMR,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3,,3,,19,,,0
+H2,2006,2006,2006,6,1,2,Export,120,Cameroon,CMR,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3,,3,,144,,,0
+H2,2006,2006,2006,6,1,1,Import,120,Cameroon,CMR,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1410608841,,1410608841,,732229749,,,0
+H2,2006,2006,2006,6,1,2,Export,120,Cameroon,CMR,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,110414500,,110414500,,45846257,,,0
+H2,2006,2006,2006,6,1,2,Export,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,52687000,,52687000,,21118460,,,0
+H2,2006,2006,2006,6,1,2,Export,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1966022900,,1966022900,,829779628,,,0
+H2,2006,2006,2006,6,1,2,Export,120,Cameroon,CMR,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,13724000,,13724000,,5759580,,,0
+H2,2006,2006,2006,6,1,2,Export,120,Cameroon,CMR,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,54726262,,54726262,,23040670,,,0
+H2,2006,2006,2006,6,1,2,Export,120,Cameroon,CMR,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,195620035,,195620035,,74740208,,,0

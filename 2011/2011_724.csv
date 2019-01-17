@@ -1,0 +1,52 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,51960524474,,51960524474,,40778934912,,,0
+H3,2011,2011,2011,6,1,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7592136,,7592136,,21803,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,8,Albania,ALB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,180108531,,180108531,,87959311,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,888845132,,888845132,,834319135,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,24,Angola,AGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,726669226,,726669226,,553350699,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,175713914,,175713914,,137737265,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,32,,32,,477,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,48,Bahrain,BHR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,176030,,176030,,178773,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,591142375,,591142375,,421072799,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,863690109,,863690109,,684357248,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,91398865,,91398865,,68987190,,,0
+H3,2011,2011,2011,6,1,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,17,,17,,7,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1294315491,,1294315491,,918533868,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,178,Congo,COG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,656098359,,656098359,,502999695,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,123570476,,123570476,,93386224,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,86779139,,86779139,,56684441,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2223194886,,2223194886,,1811852280,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,117740,,117740,,3050761,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,518405199,,518405199,,440476742,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,581725,,581725,,1523944,,,0
+H3,2011,2011,2011,6,1,2,Export,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7590650,,7590650,,11911,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,324,Guinea,GIN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,74000000,,74000000,,58506578,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7181104863,,7181104863,,5481940614,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3468743846,,3468743846,,2731606996,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,80174853,,80174853,,46144650,,,0
+H3,2011,2011,2011,6,1,2,Export,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,904,,904,,4563,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1171718236,,1171718236,,995022723,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,430,Liberia,LBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,83196289,,83196289,,67484954,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1076623623,,1076623623,,861632175,,,0
+H3,2011,2011,2011,6,1,2,Export,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,108,,108,,885,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5946553483,,5946553483,,4151500705,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,512,Oman,OMN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,137403405,,137403405,,111697798,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,69,,69,,7695,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6914362186,,6914362186,,5900312486,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,373810260,,373810260,,325433990,,,0
+H3,2011,2011,2011,6,1,2,Export,724,Spain,ESP,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,1113,,,0
+H3,2011,2011,2011,6,1,2,Export,724,Spain,ESP,604,Peru,PER,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,220,,220,,2315,,,0
+H3,2011,2011,2011,6,1,2,Export,724,Spain,ESP,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,129,,129,,758,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7521870847,,7521870847,,5946998197,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7754067659,,7754067659,,6231597437,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,50,,50,,409,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,760,Syria,SYR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,242714677,,242714677,,208842946,,,0
+H3,2011,2011,2011,6,1,2,Export,724,Spain,ESP,764,Thailand,THA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,23,,23,,14,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,367927541,,367927541,,286367603,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,131373788,,131373788,,95455981,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,434929226,,434929226,,321625156,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,158597076,,158597076,,78420099,,,0
+H3,2011,2011,2011,6,1,2,Export,724,Spain,ESP,837,Bunkers,,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,36,,36,,200,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6220,,6220,,30813,,,0
+H3,2011,2011,2011,6,1,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,44,,44,,36,,,0
+H3,2011,2011,2011,6,1,1,Import,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,420539048,,420539048,,261834055,,,0

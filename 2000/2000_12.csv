@@ -1,0 +1,28 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,60,,60,,534,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,40556455642,,40556455642,,9254355457,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,40,Austria,AUT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,77325098,,77325098,,18363049,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,44,Bahamas,BHS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,166336131,,166336131,,39614094,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4553106436,,4553106436,,1125651672,,,0
+H1,2000,2000,2000,6,1,1,Import,12,Algeria,DZA,124,Canada,CAN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,14,,14,,47,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,124,Canada,CAN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3520161820,,3520161820,,771555954,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,170,Colombia,COL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,46190212,,46190212,,10810386,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,203,Czechia,CZE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,123764074,,123764074,,23930981,,,0
+H1,2000,2000,2000,6,1,1,Import,12,Algeria,DZA,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6,,6,,414,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5818332855,,5818332855,,1270943272,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3167954431,,3167954431,,719026587,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,300,Greece,GRC,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,140462078,,140462078,,38319907,,,0
+H1,2000,2000,2000,6,1,1,Import,12,Algeria,DZA,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,40,,40,,73,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4939253686,,4939253686,,1068499746,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,430,Liberia,LBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,60954120,,60954120,,13198839,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,470,Malta,MLT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,310356217,,310356217,,74628531,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,131530858,,131530858,,22203192,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4768736910,,4768736910,,1160958326,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,579,Norway,NOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,82844330,,82844330,,20721750,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,591,Panama,PAN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,80533156,,80533156,,15395606,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,724,Spain,ESP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2613157524,,2613157524,,613558899,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,740,Suriname,SUR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,80044853,,80044853,,17881852,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,877128396,,877128396,,40781801,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,93146146,,93146146,,17888451,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2167242102,,2167242102,,483146196,,,0
+H1,2000,2000,2000,6,1,2,Export,12,Algeria,DZA,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6737894209,,6737894209,,1687276366,,,0

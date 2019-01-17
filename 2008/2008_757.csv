@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2008,2008,2008,6,1,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5141633663,,5141633663,,4110602445,,,0
+H3,2008,2008,2008,6,1,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,47,,47,,263,,,0
+H3,2008,2008,2008,6,1,1,Import,757,Switzerland,CHE,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,177562573,,177562573,,121179212,,,0
+H3,2008,2008,2008,6,1,1,Import,757,Switzerland,CHE,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,132171084,,132171084,,63683510,,,0
+H3,2008,2008,2008,6,1,1,Import,757,Switzerland,CHE,40,Austria,AUT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,7,,,0
+H3,2008,2008,2008,6,1,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,1,,,0
+H3,2008,2008,2008,6,1,2,Export,757,Switzerland,CHE,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,40,,40,,167,,,0
+H3,2008,2008,2008,6,1,1,Import,757,Switzerland,CHE,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,824261000,,824261000,,659751239,,,0
+H3,2008,2008,2008,6,1,1,Import,757,Switzerland,CHE,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3759155686,,3759155686,,3085790010,,,0
+H3,2008,2008,2008,6,1,1,Import,757,Switzerland,CHE,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,195047319,,195047319,,129829183,,,0
+H3,2008,2008,2008,6,1,2,Export,757,Switzerland,CHE,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5,,5,,95,,,0
+H3,2008,2008,2008,6,1,1,Import,757,Switzerland,CHE,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,53436000,,53436000,,50369286,,,0

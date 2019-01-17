@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2011,2011,2011,6,1,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,252567,,252567,,582551,,,0
+H2,2011,2011,2011,6,1,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,47034,,47034,,158455,,,0
+H2,2011,2011,2011,6,1,1,Import,72,Botswana,BWA,344,"China, Hong Kong SAR",HKG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,626,,626,,271,,,0
+H2,2011,2011,2011,6,1,1,Import,72,Botswana,BWA,376,Israel,ISR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3180,,3180,,75,,,0
+H2,2011,2011,2011,6,1,1,Import,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,69515,,69515,,86977,,,0
+H2,2011,2011,2011,6,1,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,35010,,35010,,145365,,,0
+H2,2011,2011,2011,6,1,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,127646,,127646,,421468,,,0
+H2,2011,2011,2011,6,1,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10529,,10529,,786,,,0
+H2,2011,2011,2011,6,1,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1495,,1495,,12303,,,0
+H2,2011,2011,2011,6,1,1,Import,72,Botswana,BWA,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,51600,,51600,,73761,,,0

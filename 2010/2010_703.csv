@@ -1,0 +1,9 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,6,1,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5555542194,,5555542194,,3040155650,,,6
+H3,2010,2010,2010,6,1,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,13047600,,13047600,,7476906,,,0
+H3,2010,2010,2010,6,1,2,Export,703,Slovakia,SVK,40,Austria,AUT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,13047600,,13047600,,7476906,,,0
+H3,2010,2010,2010,6,1,1,Import,703,Slovakia,SVK,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,94,,94,,636,,,0
+H3,2010,2010,2010,6,1,1,Import,703,Slovakia,SVK,348,Hungary,HUN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3,,3,,813,,,0
+H3,2010,2010,2010,6,1,1,Import,703,Slovakia,SVK,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,128,,128,,1958,,,0
+H3,2010,2010,2010,6,1,1,Import,703,Slovakia,SVK,568,"Other Europe, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2969,,2969,,29050,,,6
+H3,2010,2010,2010,6,1,1,Import,703,Slovakia,SVK,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5555539000,,5555539000,,3040123194,,,0

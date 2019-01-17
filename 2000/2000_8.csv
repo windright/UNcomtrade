@@ -1,0 +1,8 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,11862,,11862,,9405,,,0
+H1,2000,2000,2000,6,1,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,180,,180,,98,,,0
+H1,2000,2000,2000,6,1,1,Import,8,Albania,ALB,191,Croatia,HRV,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3427,,3427,,2273,,,0
+H1,2000,2000,2000,6,1,2,Export,8,Albania,ALB,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,180,,180,,98,,,0
+H1,2000,2000,2000,6,1,1,Import,8,Albania,ALB,300,Greece,GRC,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,7315,,7315,,4920,,,0
+H1,2000,2000,2000,6,1,1,Import,8,Albania,ALB,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,510,,510,,628,,,0
+H1,2000,2000,2000,6,1,1,Import,8,Albania,ALB,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,610,,610,,1583,,,0

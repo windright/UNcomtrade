@@ -1,0 +1,20 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,6,1,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,371138795,,371138795,,126194804,,,0
+H2,2005,2005,2005,6,1,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,11865458094,,11865458094,,4031872295,,,0
+H2,2005,2005,2005,6,1,4,Re-Import,170,Colombia,COL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,54200000,,54200000,,688993,,,0
+H2,2005,2005,2005,6,1,2,Export,170,Colombia,COL,152,Chile,CHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,164502408,,164502408,,43925882,,,0
+H2,2005,2005,2005,6,1,1,Import,170,Colombia,COL,170,Colombia,COL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,54200000,,54200000,,688993,,,0
+H2,2005,2005,2005,6,1,4,Re-Import,170,Colombia,COL,170,Colombia,COL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,54200000,,54200000,,688993,,,0
+H2,2005,2005,2005,6,1,2,Export,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,53106249,,53106249,,16806520,,,0
+H2,2005,2005,2005,6,1,2,Export,170,Colombia,COL,214,Dominican Rep.,DOM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,485188053,,485188053,,161673275,,,0
+H2,2005,2005,2005,6,1,1,Import,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,361,,361,,1461,,,0
+H2,2005,2005,2005,6,1,2,Export,170,Colombia,COL,533,Aruba,ABW,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,449759730,,449759730,,122252469,,,0
+H2,2005,2005,2005,6,1,1,Import,170,Colombia,COL,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,53955331,,53955331,,20717377,,,0
+H2,2005,2005,2005,6,1,2,Export,170,Colombia,COL,591,Panama,PAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,124925157,,124925157,,42373067,,,0
+H2,2005,2005,2005,6,1,2,Export,170,Colombia,COL,604,Peru,PER,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,310191021,,310191021,,105799780,,,0
+H2,2005,2005,2005,6,1,2,Export,170,Colombia,COL,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,56554428,,56554428,,17935063,,,0
+H2,2005,2005,2005,6,1,1,Import,170,Colombia,COL,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,262820639,,262820639,,104738896,,,0
+H2,2005,2005,2005,6,1,2,Export,170,Colombia,COL,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,502222119,,502222119,,165188732,,,0
+H2,2005,2005,2005,6,1,1,Import,170,Colombia,COL,838,Free Zones,,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,162460,,162460,,42932,,,0
+H2,2005,2005,2005,6,1,1,Import,170,Colombia,COL,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,5145,,,0
+H2,2005,2005,2005,6,1,2,Export,170,Colombia,COL,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,9719008929,,9719008929,,3355917507,,,0

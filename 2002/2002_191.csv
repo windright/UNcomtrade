@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,6,1,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4009451642,,4009451642,,733074462,,,0
+H2,2002,2002,2002,6,1,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,578,,578,,809,,,0
+H2,2002,2002,2002,6,1,2,Export,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,48,,48,,344,,,0
+H2,2002,2002,2002,6,1,1,Import,191,Croatia,HRV,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,15,,15,,154,,,0
+H2,2002,2002,2002,6,1,1,Import,191,Croatia,HRV,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2768420884,,2768420884,,494187479,,,0
+H2,2002,2002,2002,6,1,1,Import,191,Croatia,HRV,705,Slovenia,SVN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,119770,,119770,,10165,,,0
+H2,2002,2002,2002,6,1,2,Export,191,Croatia,HRV,705,Slovenia,SVN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,530,,530,,465,,,0
+H2,2002,2002,2002,6,1,1,Import,191,Croatia,HRV,760,Syria,SYR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1240910951,,1240910951,,238875225,,,0
+H2,2002,2002,2002,6,1,1,Import,191,Croatia,HRV,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,22,,22,,1439,,,0

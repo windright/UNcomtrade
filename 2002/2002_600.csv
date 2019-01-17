@@ -1,0 +1,8 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2002,2002,2002,6,1,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,92730816,,92730816,,19500665,,,0
+H1,2002,2002,2002,6,1,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,591462,,591462,,170580,,,0
+H1,2002,2002,2002,6,1,1,Import,600,Paraguay,PRY,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,89856428,,89856428,,18813132,,,0
+H1,2002,2002,2002,6,1,1,Import,600,Paraguay,PRY,68,Bolivia (Plurinational State of),BOL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,690362,,690362,,159620,,,0
+H1,2002,2002,2002,6,1,1,Import,600,Paraguay,PRY,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,198,,198,,338,,,0
+H1,2002,2002,2002,6,1,2,Export,600,Paraguay,PRY,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,591462,,591462,,170580,,,0
+H1,2002,2002,2002,6,1,1,Import,600,Paraguay,PRY,724,Spain,ESP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2183828,,2183828,,527575,,,0

@@ -1,0 +1,15 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,5610466816,,,0
+H1,2001,2001,2001,6,1,2,Export,634,Qatar,QAT,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,18206844,,,0
+H1,2001,2001,2001,6,1,2,Export,634,Qatar,QAT,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,233409600,,,0
+H1,2001,2001,2001,6,1,2,Export,634,Qatar,QAT,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,3532497152,,,0
+H1,2001,2001,2001,6,1,2,Export,634,Qatar,QAT,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,664382208,,,0
+H1,2001,2001,2001,6,1,2,Export,634,Qatar,QAT,450,Madagascar,MDG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,22708356,,,0
+H1,2001,2001,2001,6,1,2,Export,634,Qatar,QAT,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,36616860,,,0
+H1,2001,2001,2001,6,1,2,Export,634,Qatar,QAT,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,3415199,,,0
+H1,2001,2001,2001,6,1,2,Export,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,42133480,,,0
+H1,2001,2001,2001,6,1,2,Export,634,Qatar,QAT,608,Philippines,PHL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,166849776,,,0
+H1,2001,2001,2001,6,1,2,Export,634,Qatar,QAT,699,India,IND,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,71380320,,,0
+H1,2001,2001,2001,6,1,2,Export,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,561005312,,,0
+H1,2001,2001,2001,6,1,2,Export,634,Qatar,QAT,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,23220130,,,0
+H1,2001,2001,2001,6,1,2,Export,634,Qatar,QAT,764,Thailand,THA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,0,,0,,234641648,,,0

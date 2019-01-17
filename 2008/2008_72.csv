@@ -1,0 +1,12 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2008,2008,2008,6,1,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,171014,,171014,,250720,,,0
+H1,2008,2008,2008,6,1,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,119764,,119764,,36322,,,0
+H1,2008,2008,2008,6,1,1,Import,72,Botswana,BWA,508,Mozambique,MOZ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,60,,60,,336,,,0
+H1,2008,2008,2008,6,1,2,Export,72,Botswana,BWA,516,Namibia,NAM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2950,,2950,,11396,,,0
+H1,2008,2008,2008,6,1,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,128401,,128401,,189844,,,0
+H1,2008,2008,2008,6,1,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4,,4,,8,,,0
+H1,2008,2008,2008,6,1,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,27258,,27258,,23294,,,0
+H1,2008,2008,2008,6,1,1,Import,72,Botswana,BWA,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,13,,13,,2656,,,0
+H1,2008,2008,2008,6,1,1,Import,72,Botswana,BWA,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,11000,,11000,,17533,,,0
+H1,2008,2008,2008,6,1,1,Import,72,Botswana,BWA,800,Uganda,UGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,31540,,31540,,40350,,,0
+H1,2008,2008,2008,6,1,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,89552,,89552,,1623,,,0

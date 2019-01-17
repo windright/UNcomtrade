@@ -1,0 +1,7 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2013,2013,2013,6,1,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7548,,7548,,86643,,,0
+H3,2013,2013,2013,6,1,1,Import,454,Malawi,MWI,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,180,,180,,27929,,,0
+H3,2013,2013,2013,6,1,1,Import,454,Malawi,MWI,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,90,,90,,447,,,0
+H3,2013,2013,2013,6,1,1,Import,454,Malawi,MWI,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,721,,721,,7832,,,0
+H3,2013,2013,2013,6,1,1,Import,454,Malawi,MWI,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5978,,5978,,49915,,,0
+H3,2013,2013,2013,6,1,1,Import,454,Malawi,MWI,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,580,,580,,519,,,0

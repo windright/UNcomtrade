@@ -1,0 +1,25 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,11268105297,,11268105297,,1970294648,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,24,Angola,AGO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,16164312,,16164312,,2736379,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,91758168,,91758168,,15247530,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,263999222,,263999222,,57984898,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,120,Cameroon,CMR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,20,,20,,10,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,178,Congo,COG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,26,,26,,763,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,160,,160,,967,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,461820619,,461820619,,72336506,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,352,Iceland,ISL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,259697679,,259697679,,47431541,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,23,,23,,59,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,70341487,,70341487,,11233135,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,145949490,,145949490,,24660761,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,142705288,,142705288,,23665900,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,61111000,,61111000,,9486878,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,55152251,,55152251,,7503738,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,139426749,,139426749,,23624861,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,686,Senegal,SEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,24427293,,24427293,,4136661,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,699,India,IND,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,449532987,,449532987,,75690153,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,354387013,,354387013,,56472786,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,283515844,,283515844,,47503871,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,267330448,,267330448,,39602476,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,234245664,,234245664,,35126493,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,53,,53,,72,,,0
+H1,2002,2002,2002,6,1,2,Export,266,Gabon,GAB,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,7946539501,,7946539501,,1415848211,,,0

@@ -1,0 +1,36 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2008,2008,2008,6,1,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,31790,,31790,,16343,,,6
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,74832133207,,,0
+H2,2008,2008,2008,6,1,1,Import,566,Nigeria,NGA,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4301,,4301,,2211,,,6
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,44,Bahamas,BHS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,39027394,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,5273068815,,,0
+H2,2008,2008,2008,6,1,1,Import,566,Nigeria,NGA,84,Belize,BLZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,24350,,24350,,12518,,,6
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,120,Cameroon,CMR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,426650985,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,1489208241,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,147275605,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,204,Benin,BEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,598460,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,23043826,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,3208738489,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,1022762188,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,288,Ghana,GHA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,1314963880,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,228111705,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,2323124051,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,1818563400,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,194818981,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,198770179,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,105310219,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,3119356812,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,554,New Zealand,NZL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,395188795,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,604,Peru,PER,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,185096634,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,1445201336,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,686,Senegal,SEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,934032441,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,7757116489,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,2605110555,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,2738307054,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,416947576,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,175176479,,,0
+H2,2008,2008,2008,6,1,1,Import,566,Nigeria,NGA,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,672,,672,,345,,,6
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,1044608814,,,0
+H2,2008,2008,2008,6,1,1,Import,566,Nigeria,NGA,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2468,,2468,,1269,,,6
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,34384054199,,,0
+H2,2008,2008,2008,6,1,2,Export,566,Nigeria,NGA,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,1817899606,,,0

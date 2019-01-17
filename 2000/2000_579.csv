@@ -1,0 +1,23 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1004924543,,1004924543,,204881931,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,137636713813,,137636713813,,29343405811,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,44,Bahamas,BHS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,140102000,,140102000,,33243792,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3371106000,,3371106000,,765538633,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,124,Canada,CAN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,15590797000,,15590797000,,3155360401,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,264101000,,264101000,,60936123,,,0
+H1,2000,2000,2000,6,1,1,Import,579,Norway,NOR,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,87367501,,87367501,,15458305,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2283177587,,2283177587,,500537865,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,246,Finland,FIN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2505961000,,2505961000,,545171711,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,14623540000,,14623540000,,3174405193,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5554709000,,5554709000,,1237403648,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,372,Ireland,IRL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2874834000,,2874834000,,628926178,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2018392000,,2018392000,,398338834,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,134399000,,134399000,,24772923,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,960232000,,960232000,,199776918,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,21779022686,,21779022686,,4715490970,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,406246000,,406246000,,94682090,,,0
+H1,2000,2000,2000,6,1,1,Import,579,Norway,NOR,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,281033733,,281033733,,64465418,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,9009140000,,9009140000,,1912514353,,,0
+H1,2000,2000,2000,6,1,1,Import,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,636523309,,636523309,,124958207,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,43591464540,,43591464540,,9396459928,,,0
+H1,2000,2000,2000,6,1,2,Export,579,Norway,NOR,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,12529490000,,12529490000,,2499846249,,,0

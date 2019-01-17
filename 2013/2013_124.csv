@@ -1,0 +1,56 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,31371886739,,31371886739,,26237946573,,,6
+H4,2013,2013,2013,6,1,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,,,,,79372942552,,,0
+H4,2013,2013,2013,6,1,4,Re-Import,124,Canada,CAN,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,33376,,33376,,27914,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,8,Albania,ALB,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,23,,23,,19,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,12,Algeria,DZA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3884528788,,3884528788,,3248834207,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,24,Angola,AGO,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1802070582,,1802070582,,1507165700,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,31,Azerbaijan,AZE,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,539830103,,539830103,,451488096,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,36,Australia,AUS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,60,,60,,50,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,814021951,,814021951,,680809052,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,124,Canada,CAN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,33376,,33376,,27914,,,6
+H4,2013,2013,2013,6,1,4,Re-Import,124,Canada,CAN,124,Canada,CAN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,33376,,33376,,27914,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,148,Chad,TCD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,8,,8,,7,,,6
+H4,2013,2013,2013,6,1,2,Export,124,Canada,CAN,156,China,CHN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,,,,,130308717,,,0
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,125149095,,125149095,,104668721,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,85251069,,85251069,,71299919,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,29,,29,,24,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,233,Estonia,EST,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,23,,23,,19,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,16,,16,,14,,,6
+H4,2013,2013,2013,6,1,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,,,,,25427130,,,0
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,276,Germany,DEU,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1743,,1743,,1458,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3724762933,,3724762933,,3115213683,,,6
+H4,2013,2013,2013,6,1,2,Export,124,Canada,CAN,381,Italy,ITA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,,,,,75149435,,,0
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,381691658,,381691658,,319228659,,,6
+H4,2013,2013,2013,6,1,2,Export,124,Canada,CAN,392,Japan,JPN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,,,,,477,,,0
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,398,Kazakhstan,KAZ,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,2713050001,,2713050001,,2269065344,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,129603397,,129603397,,108394086,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,434,Libya,LBY,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,78800845,,78800845,,65905260,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,60,,60,,50,,,6
+H4,2013,2013,2013,6,1,2,Export,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,,,,,29807661,,,0
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1045327747,,1045327747,,874262163,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,512,Oman,OMN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,37,,37,,31,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,128,,128,,107,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,96,,96,,81,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1326544570,,1326544570,,1109458473,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,579,Norway,NOR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3578370847,,3578370847,,2992778339,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,604,Peru,PER,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,24,,24,,20,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,634,Qatar,QAT,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,58,,58,,49,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,177526975,,177526975,,148475077,,,6
+H4,2013,2013,2013,6,1,2,Export,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,,,,,1923,,,0
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3070641831,,3070641831,,2568138059,,,6
+H4,2013,2013,2013,6,1,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,,,,,32267279,,,0
+H4,2013,2013,2013,6,1,2,Export,124,Canada,CAN,702,Singapore,SGP,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,,,,,31192103,,,0
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,710,South Africa,ZAF,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,13,,13,,11,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,724,Spain,ESP,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,115,,115,,96,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,764,Thailand,THA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,58,,58,,49,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,91,,91,,76,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,106,,106,,88,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,304771056,,304771056,,254895944,,,6
+H4,2013,2013,2013,6,1,2,Export,124,Canada,CAN,796,Turks and Caicos Isds,TCA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,,,,,57,,,0
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,800,Uganda,UGA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,37,,37,,31,,,6
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1347540933,,1347540933,,1127018828,,,6
+H4,2013,2013,2013,6,1,2,Export,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,,,,,652693407,,,0
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,842,USA,USA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,5863236380,,5863236380,,4903730660,,,6
+H4,2013,2013,2013,6,1,2,Export,124,Canada,CAN,842,USA,USA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,,,,,78396094364,,,0
+H4,2013,2013,2013,6,1,1,Import,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,379129875,,379129875,,317086106,,,6

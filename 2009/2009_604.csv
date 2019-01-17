@@ -1,0 +1,21 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2009,2009,2009,6,1,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5076159014,,5076159014,,2210022502,,,0
+H3,2009,2009,2009,6,1,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1037001924,,1037001924,,353214315,,,0
+H3,2009,2009,2009,6,1,1,Import,604,Peru,PER,24,Angola,AGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,512856658,,512856658,,220530963,,,0
+H3,2009,2009,2009,6,1,2,Export,604,Peru,PER,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,46,,46,,38,,,0
+H3,2009,2009,2009,6,1,1,Import,604,Peru,PER,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,671220654,,671220654,,283168044,,,0
+H3,2009,2009,2009,6,1,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,222444520,,222444520,,52955253,,,0
+H3,2009,2009,2009,6,1,1,Import,604,Peru,PER,170,Colombia,COL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,192384505,,192384505,,95678064,,,0
+H3,2009,2009,2009,6,1,1,Import,604,Peru,PER,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2018816138,,2018816138,,798321268,,,0
+H3,2009,2009,2009,6,1,1,Import,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,114,,114,,314,,,0
+H3,2009,2009,2009,6,1,1,Import,604,Peru,PER,533,Aruba,ABW,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,49130171,,49130171,,20463391,,,0
+H3,2009,2009,2009,6,1,1,Import,604,Peru,PER,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,772383258,,772383258,,435779988,,,0
+H3,2009,2009,2009,6,1,1,Import,604,Peru,PER,591,Panama,PAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,247298161,,247298161,,113800873,,,0
+H3,2009,2009,2009,6,1,1,Import,604,Peru,PER,662,Saint Lucia,LCA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,27053624,,27053624,,7360767,,,0
+H3,2009,2009,2009,6,1,2,Export,604,Peru,PER,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,57,,57,,14,,,0
+H3,2009,2009,2009,6,1,1,Import,604,Peru,PER,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,25648898,,25648898,,13122168,,,0
+H3,2009,2009,2009,6,1,1,Import,604,Peru,PER,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,99472832,,99472832,,58900917,,,0
+H3,2009,2009,2009,6,1,2,Export,604,Peru,PER,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6,,6,,30,,,0
+H3,2009,2009,2009,6,1,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,814557294,,814557294,,300258974,,,0
+H3,2009,2009,2009,6,1,1,Import,604,Peru,PER,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,459894001,,459894001,,162895744,,,0
+H3,2009,2009,2009,6,1,2,Export,604,Peru,PER,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,6,,,0

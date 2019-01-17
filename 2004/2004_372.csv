@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2004,2004,2004,6,1,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2128991287,,2128991287,,628442883,,,0
+H2,2004,2004,2004,6,1,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,62679,,62679,,20160,,,0
+H2,2004,2004,2004,6,1,2,Export,372,Ireland,IRL,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,59000,,59000,,19471,,,0
+H2,2004,2004,2004,6,1,1,Import,372,Ireland,IRL,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,49206,,49206,,9186,,,0
+H2,2004,2004,2004,6,1,1,Import,372,Ireland,IRL,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,349186,,349186,,65187,,,0
+H2,2004,2004,2004,6,1,1,Import,372,Ireland,IRL,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,80428520,,80428520,,26698398,,,0
+H2,2004,2004,2004,6,1,1,Import,372,Ireland,IRL,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2045566355,,2045566355,,601176411,,,0
+H2,2004,2004,2004,6,1,1,Import,372,Ireland,IRL,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,103271,,103271,,26580,,,0
+H2,2004,2004,2004,6,1,1,Import,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2494749,,2494749,,467122,,,0
+H2,2004,2004,2004,6,1,2,Export,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3679,,3679,,689,,,0

@@ -1,0 +1,15 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,6,1,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5451661758,,5451661758,,4418943079,,,0
+H3,2011,2011,2011,6,1,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,76061055,,76061055,,58907622,,,0
+H3,2011,2011,2011,6,1,1,Import,642,Romania,ROU,8,Albania,ALB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,14,,,0
+H3,2011,2011,2011,6,1,1,Import,642,Romania,ROU,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,50829071,,50829071,,44735001,,,0
+H3,2011,2011,2011,6,1,2,Export,642,Romania,ROU,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,704,,704,,17100,,,0
+H3,2011,2011,2011,6,1,1,Import,642,Romania,ROU,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,40699568,,40699568,,31214482,,,0
+H3,2011,2011,2011,6,1,1,Import,642,Romania,ROU,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3862999610,,3862999610,,3135172430,,,0
+H3,2011,2011,2011,6,1,1,Import,642,Romania,ROU,504,Morocco,MAR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,50,,,0
+H3,2011,2011,2011,6,1,2,Export,642,Romania,ROU,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,13,,13,,39,,,0
+H3,2011,2011,2011,6,1,1,Import,642,Romania,ROU,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1468232033,,1468232033,,1184710719,,,0
+H3,2011,2011,2011,6,1,2,Export,642,Romania,ROU,688,Serbia,SRB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,76060338,,76060338,,58890482,,,0
+H3,2011,2011,2011,6,1,1,Import,642,Romania,ROU,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,25,,25,,644,,,0
+H3,2011,2011,2011,6,1,1,Import,642,Romania,ROU,795,Turkmenistan,TKM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,28901420,,28901420,,23109376,,,0
+H3,2011,2011,2011,6,1,1,Import,642,Romania,ROU,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,24,,24,,363,,,0

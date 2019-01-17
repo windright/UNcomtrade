@@ -1,0 +1,12 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3110003593,,3110003593,,614351565,,,0
+H1,2000,2000,2000,6,1,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,738172114,,738172114,,126993449,,,0
+H1,2000,2000,2000,6,1,1,Import,604,Peru,PER,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,112623572,,112623572,,23487979,,,0
+H1,2000,2000,2000,6,1,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,238949808,,238949808,,41320776,,,0
+H1,2000,2000,2000,6,1,1,Import,604,Peru,PER,170,Colombia,COL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,576160585,,576160585,,112768430,,,0
+H1,2000,2000,2000,6,1,1,Import,604,Peru,PER,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1382887540,,1382887540,,250612942,,,0
+H1,2000,2000,2000,6,1,2,Export,604,Peru,PER,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,392455744,,392455744,,69285400,,,0
+H1,2000,2000,2000,6,1,1,Import,604,Peru,PER,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,247976191,,247976191,,53975308,,,0
+H1,2000,2000,2000,6,1,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,106765504,,106765504,,16386841,,,0
+H1,2000,2000,2000,6,1,1,Import,604,Peru,PER,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,790355705,,790355705,,173506906,,,0
+H1,2000,2000,2000,6,1,2,Export,604,Peru,PER,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1058,,1058,,432,,,0

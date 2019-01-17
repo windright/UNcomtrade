@@ -1,0 +1,17 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2002,2002,2002,6,1,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,991733986,,991733986,,185678631,,,0
+H1,2002,2002,2002,6,1,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,102976356,,102976356,,21348805,,,0
+H1,2002,2002,2002,6,1,1,Import,686,Senegal,SEN,24,Angola,AGO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,67285386,,67285386,,10285924,,,0
+H1,2002,2002,2002,6,1,2,Export,686,Senegal,SEN,132,Cabo Verde,CPV,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,86442,,86442,,18785,,,0
+H1,2002,2002,2002,6,1,2,Export,686,Senegal,SEN,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,147,,147,,27,,,0
+H1,2002,2002,2002,6,1,1,Import,686,Senegal,SEN,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,24370185,,24370185,,4552890,,,0
+H1,2002,2002,2002,6,1,2,Export,686,Senegal,SEN,270,Gambia,GMB,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,11460599,,11460599,,2369633,,,0
+H1,2002,2002,2002,6,1,2,Export,686,Senegal,SEN,324,Guinea,GIN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5542998,,5542998,,1107936,,,0
+H1,2002,2002,2002,6,1,2,Export,686,Senegal,SEN,466,Mali,MLI,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,46626274,,46626274,,8899450,,,0
+H1,2002,2002,2002,6,1,1,Import,686,Senegal,SEN,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,900078415,,900078415,,170839816,,,0
+H1,2002,2002,2002,6,1,2,Export,686,Senegal,SEN,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,570418,,570418,,103434,,,0
+H1,2002,2002,2002,6,1,2,Export,686,Senegal,SEN,624,Guinea-Bissau,GNB,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,13011959,,13011959,,2755327,,,0
+H1,2002,2002,2002,6,1,2,Export,686,Senegal,SEN,694,Sierra Leone,SLE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4184262,,4184262,,847575,,,0
+H1,2002,2002,2002,6,1,2,Export,686,Senegal,SEN,768,Togo,TGO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,188,,188,,49,,,0
+H1,2002,2002,2002,6,1,2,Export,686,Senegal,SEN,837,Bunkers,,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,21445896,,21445896,,5235484,,,0
+H1,2002,2002,2002,6,1,2,Export,686,Senegal,SEN,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,47173,,47173,,11105,,,0

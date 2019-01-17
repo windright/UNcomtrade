@@ -1,0 +1,19 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,19787310356,,19787310356,,3527052076,,,6
+H1,2001,2001,2001,6,1,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,34800,,34800,,5622,,,6
+H1,2001,2001,2001,6,1,1,Import,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3151071000,,3151071000,,562611542,,,0
+H1,2001,2001,2001,6,1,1,Import,752,Sweden,SWE,233,Estonia,EST,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,113125000,,113125000,,20438618,,,0
+H1,2001,2001,2001,6,1,1,Import,752,Sweden,SWE,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3035441000,,3035441000,,556996179,,,0
+H1,2001,2001,2001,6,1,1,Import,752,Sweden,SWE,428,Latvia,LVA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,409875000,,409875000,,72267363,,,0
+H1,2001,2001,2001,6,1,1,Import,752,Sweden,SWE,440,Lithuania,LTU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,211256000,,211256000,,33837070,,,0
+H1,2001,2001,2001,6,1,1,Import,752,Sweden,SWE,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,257529000,,257529000,,52317590,,,0
+H1,2001,2001,2001,6,1,1,Import,752,Sweden,SWE,579,Norway,NOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,8766997000,,8766997000,,1595108263,,,0
+H1,2001,2001,2001,6,1,2,Export,752,Sweden,SWE,579,Norway,NOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,30000,,30000,,4846,,,0
+H1,2001,2001,2001,6,1,1,Import,752,Sweden,SWE,616,Poland,POL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,204512000,,204512000,,32528242,,,0
+H1,2001,2001,2001,6,1,1,Import,752,Sweden,SWE,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,164564000,,164564000,,32504950,,,0
+H1,2001,2001,2001,6,1,1,Import,752,Sweden,SWE,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,786340000,,786340000,,134225693,,,0
+H1,2001,2001,2001,6,1,1,Import,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,222498000,,222498000,,42421994,,,0
+H1,2001,2001,2001,6,1,1,Import,752,Sweden,SWE,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1415815000,,1415815000,,263142801,,,0
+H1,2001,2001,2001,6,1,1,Import,752,Sweden,SWE,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4356,,4356,,776,,,6
+H1,2001,2001,2001,6,1,2,Export,752,Sweden,SWE,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4800,,4800,,775,,,6
+H1,2001,2001,2001,6,1,1,Import,752,Sweden,SWE,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1048283000,,1048283000,,128650995,,,0

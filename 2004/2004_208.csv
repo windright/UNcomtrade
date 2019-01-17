@@ -1,0 +1,20 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2004,2004,2004,6,1,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3725977518,,3725977518,,1106159489,,,0
+H2,2004,2004,2004,6,1,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,14325289184,,14325289184,,4041959862,,,0
+H2,2004,2004,2004,6,1,2,Export,208,Denmark,DNK,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,103183283,,103183283,,23735318,,,0
+H2,2004,2004,2004,6,1,2,Export,208,Denmark,DNK,246,Finland,FIN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1495469440,,1495469440,,423201082,,,0
+H2,2004,2004,2004,6,1,2,Export,208,Denmark,DNK,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1192860229,,1192860229,,332590765,,,0
+H2,2004,2004,2004,6,1,2,Export,208,Denmark,DNK,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,911020344,,911020344,,270143291,,,0
+H2,2004,2004,2004,6,1,2,Export,208,Denmark,DNK,304,Greenland,GRL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,18638,,18638,,4059,,,0
+H2,2004,2004,2004,6,1,2,Export,208,Denmark,DNK,372,Ireland,IRL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,159530781,,159530781,,49622153,,,0
+H2,2004,2004,2004,6,1,2,Export,208,Denmark,DNK,428,Latvia,LVA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,40,,40,,254,,,0
+H2,2004,2004,2004,6,1,2,Export,208,Denmark,DNK,440,Lithuania,LTU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2547,,2547,,7166,,,0
+H2,2004,2004,2004,6,1,1,Import,208,Denmark,DNK,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2081,,2081,,6644,,,0
+H2,2004,2004,2004,6,1,2,Export,208,Denmark,DNK,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3560862980,,3560862980,,1035956067,,,0
+H2,2004,2004,2004,6,1,1,Import,208,Denmark,DNK,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3725975436,,3725975436,,1106152816,,,0
+H2,2004,2004,2004,6,1,2,Export,208,Denmark,DNK,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,162728,,162728,,44839,,,0
+H2,2004,2004,2004,6,1,2,Export,208,Denmark,DNK,616,Poland,POL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,200,,200,,1743,,,0
+H2,2004,2004,2004,6,1,1,Import,208,Denmark,DNK,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,29,,,0
+H2,2004,2004,2004,6,1,2,Export,208,Denmark,DNK,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5558294114,,5558294114,,1540773682,,,0
+H2,2004,2004,2004,6,1,2,Export,208,Denmark,DNK,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,762843968,,762843968,,212139115,,,0
+H2,2004,2004,2004,6,1,2,Export,208,Denmark,DNK,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,581039892,,581039892,,153740330,,,0

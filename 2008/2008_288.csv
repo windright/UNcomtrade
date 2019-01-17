@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2008,2008,2008,6,1,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7962110,,7962110,,1083977150,,,0
+H2,2008,2008,2008,6,1,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,15,,15,,83,,,0
+H2,2008,2008,2008,6,1,1,Import,288,Ghana,GHA,120,Cameroon,CMR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10,,10,,282,,,0
+H2,2008,2008,2008,6,1,1,Import,288,Ghana,GHA,152,Chile,CHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,23,,23,,447,,,0
+H2,2008,2008,2008,6,1,1,Import,288,Ghana,GHA,178,Congo,COG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2364658,,2364658,,252836109,,,0
+H2,2008,2008,2008,6,1,1,Import,288,Ghana,GHA,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,23,,23,,358,,,0
+H2,2008,2008,2008,6,1,2,Export,288,Ghana,GHA,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12,,12,,82,,,0
+H2,2008,2008,2008,6,1,1,Import,288,Ghana,GHA,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1031692,,1031692,,115068170,,,0
+H2,2008,2008,2008,6,1,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4565704,,4565704,,716071784,,,0
+H2,2008,2008,2008,6,1,2,Export,288,Ghana,GHA,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3,,3,,1,,,0

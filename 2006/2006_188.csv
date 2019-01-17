@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2006,2006,2006,6,1,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,449359057,,449359057,,295140188,,,0
+H2,2006,2006,2006,6,1,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,778,,778,,1258,,,0
+H2,2006,2006,2006,6,1,1,Import,188,Costa Rica,CRI,84,Belize,BLZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,39687686,,39687686,,18560299,,,0
+H2,2006,2006,2006,6,1,1,Import,188,Costa Rica,CRI,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7,,7,,485,,,0
+H2,2006,2006,2006,6,1,1,Import,188,Costa Rica,CRI,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,208,,208,,330,,,0
+H2,2006,2006,2006,6,1,2,Export,188,Costa Rica,CRI,558,Nicaragua,NIC,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,776,,776,,1246,,,0
+H2,2006,2006,2006,6,1,2,Export,188,Costa Rica,CRI,591,Panama,PAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,12,,,0
+H2,2006,2006,2006,6,1,1,Import,188,Costa Rica,CRI,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,56066,,56066,,80626,,,0
+H2,2006,2006,2006,6,1,1,Import,188,Costa Rica,CRI,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,409615090,,409615090,,276498448,,,0

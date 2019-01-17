@@ -1,0 +1,14 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,6,1,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,19401206640,,19401206640,,11075405477,,,0
+H3,2010,2010,2010,6,1,1,Import,300,Greece,GRC,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,23,,,0
+H3,2010,2010,2010,6,1,1,Import,300,Greece,GRC,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2864188069,,2864188069,,1604686482,,,0
+H3,2010,2010,2010,6,1,1,Import,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1568318396,,1568318396,,890036458,,,0
+H3,2010,2010,2010,6,1,1,Import,300,Greece,GRC,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2413919179,,2413919179,,1364066118,,,0
+H3,2010,2010,2010,6,1,1,Import,300,Greece,GRC,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2976745970,,2976745970,,1763152501,,,0
+H3,2010,2010,2010,6,1,1,Import,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,11832487,,11832487,,7254868,,,0
+H3,2010,2010,2010,6,1,1,Import,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6586083971,,6586083971,,3725634830,,,0
+H3,2010,2010,2010,6,1,1,Import,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2308690237,,2308690237,,1339453718,,,0
+H3,2010,2010,2010,6,1,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,273643744,,273643744,,157723127,,,0
+H3,2010,2010,2010,6,1,1,Import,300,Greece,GRC,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,531,,,0
+H3,2010,2010,2010,6,1,1,Import,300,Greece,GRC,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,235451038,,235451038,,127409392,,,0
+H3,2010,2010,2010,6,1,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,162333546,,162333546,,95987430,,,0

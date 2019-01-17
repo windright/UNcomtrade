@@ -1,0 +1,19 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2012,2012,2012,6,1,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,50959,,50959,,57312,,,0
+H4,2012,2012,2012,6,1,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,13074,,13074,,41759,,,0
+H4,2012,2012,2012,6,1,2,Export,422,Lebanon,LBN,4,Afghanistan,AFG,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1000,,1000,,3319,,,0
+H4,2012,2012,2012,6,1,2,Export,422,Lebanon,LBN,178,Congo,COG,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,100,,100,,352,,,0
+H4,2012,2012,2012,6,1,2,Export,422,Lebanon,LBN,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,300,,300,,428,,,0
+H4,2012,2012,2012,6,1,2,Export,422,Lebanon,LBN,262,Djibouti,DJI,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1000,,1000,,3514,,,0
+H4,2012,2012,2012,6,1,2,Export,422,Lebanon,LBN,266,Gabon,GAB,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,30,,30,,279,,,0
+H4,2012,2012,2012,6,1,1,Import,422,Lebanon,LBN,276,Germany,DEU,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1,,1,,28,,,0
+H4,2012,2012,2012,6,1,2,Export,422,Lebanon,LBN,288,Ghana,GHA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,60,,60,,152,,,0
+H4,2012,2012,2012,6,1,2,Export,422,Lebanon,LBN,368,Iraq,IRQ,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,7750,,7750,,24243,,,0
+H4,2012,2012,2012,6,1,1,Import,422,Lebanon,LBN,699,India,IND,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,197,,197,,350,,,0
+H4,2012,2012,2012,6,1,1,Import,422,Lebanon,LBN,724,Spain,ESP,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,1,,1,,300,,,0
+H4,2012,2012,2012,6,1,2,Export,422,Lebanon,LBN,729,Sudan,SDN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,2825,,2825,,9422,,,0
+H4,2012,2012,2012,6,1,1,Import,422,Lebanon,LBN,784,United Arab Emirates,ARE,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,50700,,50700,,56348,,,0
+H4,2012,2012,2012,6,1,1,Import,422,Lebanon,LBN,792,Turkey,TUR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,29,,29,,132,,,0
+H4,2012,2012,2012,6,1,1,Import,422,Lebanon,LBN,826,United Kingdom,GBR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,20,,20,,31,,,0
+H4,2012,2012,2012,6,1,2,Export,422,Lebanon,LBN,834,United Rep. of Tanzania,TZA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,9,,9,,50,,,0
+H4,2012,2012,2012,6,1,1,Import,422,Lebanon,LBN,842,USA,USA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,11,,11,,124,,,0

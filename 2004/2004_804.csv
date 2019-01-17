@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2004,2004,2004,6,1,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,19443141341,,19443141341,,4374399170,,,0
+H1,2004,2004,2004,6,1,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,433846949,,433846949,,98555270,,,0
+H1,2004,2004,2004,6,1,1,Import,804,Ukraine,UKR,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1000,,1000,,1810,,,0
+H1,2004,2004,2004,6,1,2,Export,804,Ukraine,UKR,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,42931000,,42931000,,8287830,,,0
+H1,2004,2004,2004,6,1,1,Import,804,Ukraine,UKR,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,803761000,,803761000,,168023530,,,0
+H1,2004,2004,2004,6,1,2,Export,804,Ukraine,UKR,616,Poland,POL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,322260002,,322260002,,74572600,,,0
+H1,2004,2004,2004,6,1,2,Export,804,Ukraine,UKR,642,Romania,ROU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5499012,,5499012,,456420,,,0
+H1,2004,2004,2004,6,1,1,Import,804,Ukraine,UKR,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,18639379341,,18639379341,,4206373830,,,0
+H1,2004,2004,2004,6,1,2,Export,804,Ukraine,UKR,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,57151037,,57151037,,14138550,,,0
+H1,2004,2004,2004,6,1,2,Export,804,Ukraine,UKR,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6005898,,6005898,,1099870,,,0

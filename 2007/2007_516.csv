@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2007,2007,2007,6,1,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,242188,,242188,,401752,,,0
+H3,2007,2007,2007,6,1,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,179061,,179061,,669862,,,0
+H3,2007,2007,2007,6,1,2,Export,516,Namibia,NAM,24,Angola,AGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,149558,,149558,,546756,,,0
+H3,2007,2007,2007,6,1,2,Export,516,Namibia,NAM,454,Malawi,MWI,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,233,,233,,107,,,0
+H3,2007,2007,2007,6,1,2,Export,516,Namibia,NAM,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,18513,,18513,,84301,,,0
+H3,2007,2007,2007,6,1,2,Export,516,Namibia,NAM,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2704,,2704,,5036,,,0
+H3,2007,2007,2007,6,1,1,Import,516,Namibia,NAM,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,242094,,242094,,379573,,,0
+H3,2007,2007,2007,6,1,2,Export,516,Namibia,NAM,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1852,,1852,,4564,,,0
+H3,2007,2007,2007,6,1,1,Import,516,Namibia,NAM,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,72,,72,,22127,,,0
+H3,2007,2007,2007,6,1,2,Export,516,Namibia,NAM,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,1,,,0
+H3,2007,2007,2007,6,1,1,Import,516,Namibia,NAM,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,22,,22,,52,,,0
+H3,2007,2007,2007,6,1,2,Export,516,Namibia,NAM,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6200,,6200,,29097,,,0

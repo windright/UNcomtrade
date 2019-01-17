@@ -1,0 +1,15 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2013,2013,2013,6,1,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,567432407,,567432407,,476504027,,,0
+H3,2013,2013,2013,6,1,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6043,,6043,,11438,,,0
+H3,2013,2013,2013,6,1,1,Import,404,Kenya,KEN,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,80,,80,,139,,,0
+H3,2013,2013,2013,6,1,1,Import,404,Kenya,KEN,388,Jamaica,JAM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,2,,,0
+H3,2013,2013,2013,6,1,1,Import,404,Kenya,KEN,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,223,,223,,659,,,0
+H3,2013,2013,2013,6,1,2,Export,404,Kenya,KEN,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,2,,,0
+H3,2013,2013,2013,6,1,2,Export,404,Kenya,KEN,688,Serbia,SRB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,923,,923,,3537,,,0
+H3,2013,2013,2013,6,1,2,Export,404,Kenya,KEN,706,Somalia,SOM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1802,,1802,,481,,,0
+H3,2013,2013,2013,6,1,1,Import,404,Kenya,KEN,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,42,,42,,148,,,0
+H3,2013,2013,2013,6,1,2,Export,404,Kenya,KEN,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,45,,45,,177,,,0
+H3,2013,2013,2013,6,1,1,Import,404,Kenya,KEN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,567431416,,567431416,,476498756,,,0
+H3,2013,2013,2013,6,1,1,Import,404,Kenya,KEN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,645,,645,,4322,,,0
+H3,2013,2013,2013,6,1,2,Export,404,Kenya,KEN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3251,,3251,,6990,,,0
+H3,2013,2013,2013,6,1,2,Export,404,Kenya,KEN,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,18,,18,,252,,,0

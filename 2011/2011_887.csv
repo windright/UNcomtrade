@@ -1,0 +1,18 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,6,1,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,89212,,89212,,176058,,,0
+H3,2011,2011,2011,6,1,2,Export,887,Yemen,YEM,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5474308577,,5474308577,,4480390019,,,0
+H3,2011,2011,2011,6,1,3,Re-Export,887,Yemen,YEM,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,60000,,60000,,36008,,,0
+H3,2011,2011,2011,6,1,1,Import,887,Yemen,YEM,51,Armenia,ARM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2730,,2730,,25008,,,0
+H3,2011,2011,2011,6,1,1,Import,887,Yemen,YEM,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,78910,,78910,,112339,,,0
+H3,2011,2011,2011,6,1,2,Export,887,Yemen,YEM,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2493504997,,2493504997,,2045187494,,,0
+H3,2011,2011,2011,6,1,2,Export,887,Yemen,YEM,300,Greece,GRC,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,81640936,,81640936,,65252740,,,0
+H3,2011,2011,2011,6,1,2,Export,887,Yemen,YEM,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,36133296,,36133296,,30314608,,,0
+H3,2011,2011,2011,6,1,1,Import,887,Yemen,YEM,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1080,,1080,,6890,,,0
+H3,2011,2011,2011,6,1,2,Export,887,Yemen,YEM,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,60000,,60000,,36008,,,0
+H3,2011,2011,2011,6,1,3,Re-Export,887,Yemen,YEM,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,60000,,60000,,36008,,,0
+H3,2011,2011,2011,6,1,2,Export,887,Yemen,YEM,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1135519207,,1135519207,,914063043,,,0
+H3,2011,2011,2011,6,1,2,Export,887,Yemen,YEM,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,37458752,,37458752,,26301553,,,0
+H3,2011,2011,2011,6,1,1,Import,887,Yemen,YEM,764,Thailand,THA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3600,,3600,,3604,,,0
+H3,2011,2011,2011,6,1,2,Export,887,Yemen,YEM,764,Thailand,THA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1524035852,,1524035852,,1259217790,,,0
+H3,2011,2011,2011,6,1,1,Import,887,Yemen,YEM,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2892,,2892,,28218,,,0
+H3,2011,2011,2011,6,1,2,Export,887,Yemen,YEM,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,165955537,,165955537,,140016783,,,0

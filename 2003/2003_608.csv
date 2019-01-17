@@ -1,0 +1,19 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2003,2003,2003,6,1,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,12298662600,,12298662600,,2632094472,,,0
+H1,2003,2003,2003,6,1,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,10912315,,10912315,,2902603,,,0
+H1,2003,2003,2003,6,1,1,Import,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,154943419,,154943419,,36693922,,,0
+H1,2003,2003,2003,6,1,1,Import,608,Philippines,PHL,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2849626000,,2849626000,,606640240,,,0
+H1,2003,2003,2003,6,1,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4036672,,4036672,,1576765,,,0
+H1,2003,2003,2003,6,1,2,Export,608,Philippines,PHL,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4,,4,,109,,,0
+H1,2003,2003,2003,6,1,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,7123963,,7123963,,2784660,,,0
+H1,2003,2003,2003,6,1,1,Import,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,437571375,,437571375,,105822657,,,0
+H1,2003,2003,2003,6,1,1,Import,608,Philippines,PHL,512,Oman,OMN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,130709000,,130709000,,25773851,,,0
+H1,2003,2003,2003,6,1,1,Import,608,Philippines,PHL,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,508319000,,508319000,,108993126,,,0
+H1,2003,2003,2003,6,1,1,Import,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,177247344,,177247344,,36465642,,,0
+H1,2003,2003,2003,6,1,1,Import,608,Philippines,PHL,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5698014723,,5698014723,,1174687288,,,0
+H1,2003,2003,2003,6,1,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,90852179,,90852179,,27182050,,,0
+H1,2003,2003,2003,6,1,2,Export,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,10907521,,10907521,,2898300,,,0
+H1,2003,2003,2003,6,1,2,Export,608,Philippines,PHL,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4790,,4790,,4194,,,0
+H1,2003,2003,2003,6,1,1,Import,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1909059650,,1909059650,,433191848,,,0
+H1,2003,2003,2003,6,1,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,26,,26,,336,,,0
+H1,2003,2003,2003,6,1,1,Import,608,Philippines,PHL,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,331159249,,331159249,,72282087,,,0

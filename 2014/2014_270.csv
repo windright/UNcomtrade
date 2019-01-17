@@ -1,0 +1,8 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2014,2014,2014,6,1,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,100429,,100429,,148296,,,0
+H3,2014,2014,2014,6,1,1,Import,270,Gambia,GMB,616,Poland,POL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,300,,300,,253,,,0
+H3,2014,2014,2014,6,1,1,Import,270,Gambia,GMB,686,Senegal,SEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,59090,,59090,,133415,,,0
+H3,2014,2014,2014,6,1,1,Import,270,Gambia,GMB,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,284,,284,,60,,,0
+H3,2014,2014,2014,6,1,1,Import,270,Gambia,GMB,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,26295,,26295,,8501,,,0
+H3,2014,2014,2014,6,1,1,Import,270,Gambia,GMB,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12410,,12410,,3869,,,0
+H3,2014,2014,2014,6,1,1,Import,270,Gambia,GMB,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2050,,2050,,2199,,,0

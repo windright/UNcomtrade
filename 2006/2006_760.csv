@@ -1,0 +1,14 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2006,2006,2006,6,1,1,Import,760,Syria,SYR,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,141524999,,141524999,,180543700,,,0
+H2,2006,2006,2006,6,1,2,Export,760,Syria,SYR,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8072276290,,8072276290,,3666558497,,,0
+H2,2006,2006,2006,6,1,2,Export,760,Syria,SYR,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1751650790,,1751650790,,807824651,,,0
+H2,2006,2006,2006,6,1,2,Export,760,Syria,SYR,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,79811411,,79811411,,29658661,,,0
+H2,2006,2006,2006,6,1,1,Import,760,Syria,SYR,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12395,,12395,,23574,,,0
+H2,2006,2006,2006,6,1,2,Export,760,Syria,SYR,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4021821562,,4021821562,,1847225142,,,0
+H2,2006,2006,2006,6,1,2,Export,760,Syria,SYR,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,244468308,,244468308,,86356489,,,0
+H2,2006,2006,2006,6,1,2,Export,760,Syria,SYR,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,80210332,,80210332,,26654996,,,0
+H2,2006,2006,2006,6,1,1,Import,760,Syria,SYR,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,41520,,41520,,44887,,,0
+H2,2006,2006,2006,6,1,2,Export,760,Syria,SYR,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,652513304,,652513304,,302366862,,,0
+H2,2006,2006,2006,6,1,2,Export,760,Syria,SYR,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,897096650,,897096650,,441089373,,,0
+H2,2006,2006,2006,6,1,2,Export,760,Syria,SYR,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,344703933,,344703933,,125382323,,,0
+H2,2006,2006,2006,6,1,1,Import,760,Syria,SYR,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,141471084,,141471084,,180475239,,,0

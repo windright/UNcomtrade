@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2004,2004,2004,6,1,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,834862197,,834862197,,234654120,,,6
+H2,2004,2004,2004,6,1,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10,,10,,20,,,0
+H2,2004,2004,2004,6,1,1,Import,558,Nicaragua,NIC,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3250,,3250,,2930,,,0
+H2,2004,2004,2004,6,1,1,Import,558,Nicaragua,NIC,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,73669780,,73669780,,16323030,,,0
+H2,2004,2004,2004,6,1,1,Import,558,Nicaragua,NIC,320,Guatemala,GTM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,600,,600,,140,,,0
+H2,2004,2004,2004,6,1,1,Import,558,Nicaragua,NIC,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,51963540,,51963540,,16340330,,,0
+H2,2004,2004,2004,6,1,1,Import,558,Nicaragua,NIC,616,Poland,POL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2230,,2230,,2020,,,0
+H2,2004,2004,2004,6,1,1,Import,558,Nicaragua,NIC,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,747,,747,,210,,,6
+H2,2004,2004,2004,6,1,2,Export,558,Nicaragua,NIC,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10,,10,,20,,,0
+H2,2004,2004,2004,6,1,1,Import,558,Nicaragua,NIC,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,709222050,,709222050,,201985460,,,0

@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2008,2008,2008,6,1,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8865,,8865,,32031,,,0
+H3,2008,2008,2008,6,1,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,92,,,0
+H3,2008,2008,2008,6,1,1,Import,705,Slovenia,SVN,40,Austria,AUT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7594,,7594,,27611,,,0
+H3,2008,2008,2008,6,1,2,Export,705,Slovenia,SVN,191,Croatia,HRV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,92,,,0
+H3,2008,2008,2008,6,1,1,Import,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1001,,1001,,2977,,,0
+H3,2008,2008,2008,6,1,1,Import,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,72,,72,,401,,,0
+H3,2008,2008,2008,6,1,1,Import,705,Slovenia,SVN,568,"Other Europe, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,190,,190,,684,,,0
+H3,2008,2008,2008,6,1,1,Import,705,Slovenia,SVN,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,88,,,0
+H3,2008,2008,2008,6,1,1,Import,705,Slovenia,SVN,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7,,7,,270,,,0

@@ -1,0 +1,22 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,6,1,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2562667283,,2562667283,,1603551806,,,0
+H3,2010,2010,2010,6,1,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7363515812,,7363515812,,4377032449,,,0
+H3,2010,2010,2010,6,1,1,Import,208,Denmark,DNK,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,79850324,,79850324,,49021590,,,0
+H3,2010,2010,2010,6,1,1,Import,208,Denmark,DNK,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,9,,,0
+H3,2010,2010,2010,6,1,2,Export,208,Denmark,DNK,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,280550426,,280550426,,171124220,,,0
+H3,2010,2010,2010,6,1,2,Export,208,Denmark,DNK,246,Finland,FIN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,72670744,,72670744,,40195417,,,0
+H3,2010,2010,2010,6,1,2,Export,208,Denmark,DNK,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,332975317,,332975317,,207623415,,,0
+H3,2010,2010,2010,6,1,2,Export,208,Denmark,DNK,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,996480182,,996480182,,580345627,,,0
+H3,2010,2010,2010,6,1,1,Import,208,Denmark,DNK,324,Guinea,GIN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,138394531,,138394531,,89747375,,,0
+H3,2010,2010,2010,6,1,2,Export,208,Denmark,DNK,372,Ireland,IRL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,170657785,,170657785,,95822610,,,0
+H3,2010,2010,2010,6,1,1,Import,208,Denmark,DNK,430,Liberia,LBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,89685009,,89685009,,60074829,,,0
+H3,2010,2010,2010,6,1,1,Import,208,Denmark,DNK,478,Mauritania,MRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,187,,,0
+H3,2010,2010,2010,6,1,2,Export,208,Denmark,DNK,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,764328568,,764328568,,463675222,,,0
+H3,2010,2010,2010,6,1,1,Import,208,Denmark,DNK,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1588872918,,1588872918,,1007914191,,,0
+H3,2010,2010,2010,6,1,2,Export,208,Denmark,DNK,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4300,,4300,,982,,,0
+H3,2010,2010,2010,6,1,2,Export,208,Denmark,DNK,616,Poland,POL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,85252508,,85252508,,49029026,,,0
+H3,2010,2010,2010,6,1,1,Import,208,Denmark,DNK,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,35750387,,35750387,,21488998,,,0
+H3,2010,2010,2010,6,1,2,Export,208,Denmark,DNK,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2926091819,,2926091819,,1726976131,,,0
+H3,2010,2010,2010,6,1,1,Import,208,Denmark,DNK,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,630112823,,630112823,,375300233,,,0
+H3,2010,2010,2010,6,1,2,Export,208,Denmark,DNK,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1734504163,,1734504163,,1042239798,,,0
+H3,2010,2010,2010,6,1,1,Import,208,Denmark,DNK,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1288,,1288,,4393,,,0

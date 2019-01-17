@@ -1,0 +1,18 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,6,1,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1199284675,,1199284675,,266986338,,,0
+H2,2003,2003,2003,6,1,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2414858377,,2414858377,,496861972,,,0
+H2,2003,2003,2003,6,1,1,Import,788,Tunisia,TUN,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,224,,224,,2488,,,0
+H2,2003,2003,2003,6,1,1,Import,788,Tunisia,TUN,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,534,,534,,3884,,,0
+H2,2003,2003,2003,6,1,2,Export,788,Tunisia,TUN,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,798673073,,798673073,,173058782,,,0
+H2,2003,2003,2003,6,1,1,Import,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,226,,226,,3893,,,0
+H2,2003,2003,2003,6,1,2,Export,788,Tunisia,TUN,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,175944838,,175944838,,26064882,,,0
+H2,2003,2003,2003,6,1,2,Export,788,Tunisia,TUN,328,Guyana,GUY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,19377605,,19377605,,3672462,,,0
+H2,2003,2003,2003,6,1,2,Export,788,Tunisia,TUN,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,606361539,,606361539,,128179289,,,0
+H2,2003,2003,2003,6,1,1,Import,788,Tunisia,TUN,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1134079157,,1134079157,,252200213,,,0
+H2,2003,2003,2003,6,1,2,Export,788,Tunisia,TUN,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,78154944,,78154944,,19071164,,,0
+H2,2003,2003,2003,6,1,2,Export,788,Tunisia,TUN,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,555724828,,555724828,,109199435,,,0
+H2,2003,2003,2003,6,1,2,Export,788,Tunisia,TUN,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,25936723,,25936723,,6017238,,,0
+H2,2003,2003,2003,6,1,2,Export,788,Tunisia,TUN,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,39371480,,39371480,,7707611,,,0
+H2,2003,2003,2003,6,1,1,Import,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,20,,20,,526,,,0
+H2,2003,2003,2003,6,1,2,Export,788,Tunisia,TUN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,115313347,,115313347,,23891107,,,0
+H2,2003,2003,2003,6,1,1,Import,788,Tunisia,TUN,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,65204514,,65204514,,14775334,,,0

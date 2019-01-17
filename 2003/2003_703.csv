@@ -1,0 +1,12 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,6,1,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5587981261,,5587981261,,1082998175,,,0
+H2,2003,2003,2003,6,1,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16698784,,16698784,,3537743,,,0
+H2,2003,2003,2003,6,1,2,Export,703,Slovakia,SVK,40,Austria,AUT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10790554,,10790554,,2246256,,,0
+H2,2003,2003,2003,6,1,1,Import,703,Slovakia,SVK,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,34,,,0
+H2,2003,2003,2003,6,1,1,Import,703,Slovakia,SVK,191,Croatia,HRV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,20120,,20120,,7394,,,0
+H2,2003,2003,2003,6,1,1,Import,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,39221975,,39221975,,7540018,,,0
+H2,2003,2003,2003,6,1,2,Export,703,Slovakia,SVK,203,Czechia,CZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2532500,,2532500,,520129,,,0
+H2,2003,2003,2003,6,1,1,Import,703,Slovakia,SVK,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,35110501,,35110501,,7645761,,,0
+H2,2003,2003,2003,6,1,2,Export,703,Slovakia,SVK,616,Poland,POL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3375730,,3375730,,771358,,,0
+H2,2003,2003,2003,6,1,1,Import,703,Slovakia,SVK,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5513628654,,5513628654,,1067804899,,,0
+H2,2003,2003,2003,6,1,1,Import,703,Slovakia,SVK,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10,,10,,68,,,0

@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,3125602449,,,0
+H1,2001,2001,2001,6,1,2,Export,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,888947804,,,0
+H1,2001,2001,2001,6,1,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,558556137,,,0
+H1,2001,2001,2001,6,1,2,Export,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,150227967,,,0
+H1,2001,2001,2001,6,1,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,384621375,,,0
+H1,2001,2001,2001,6,1,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,12498363,,,0
+H1,2001,2001,2001,6,1,2,Export,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,119401555,,,0
+H1,2001,2001,2001,6,1,2,Export,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,3322564,,,0
+H1,2001,2001,2001,6,1,2,Export,704,Viet Nam,VNM,699,India,IND,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,17545638,,,0
+H1,2001,2001,2001,6,1,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,717580522,,,0
+H1,2001,2001,2001,6,1,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,38736648,,,0
+H1,2001,2001,2001,6,1,2,Export,704,Viet Nam,VNM,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,234163876,,,0

@@ -1,0 +1,12 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,10951955393,,10951955393,,2005215403,,,0
+H1,2001,2001,2001,6,1,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,290,,290,,313,,,0
+H1,2001,2001,2001,6,1,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2188045015,,2188045015,,393105854,,,0
+H1,2001,2001,2001,6,1,2,Export,246,Finland,FIN,233,Estonia,EST,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,290,,290,,313,,,0
+H1,2001,2001,2001,6,1,1,Import,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,748844300,,748844300,,138083970,,,0
+H1,2001,2001,2001,6,1,1,Import,246,Finland,FIN,428,Latvia,LVA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5985564,,5985564,,1496562,,,0
+H1,2001,2001,2001,6,1,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1803976844,,1803976844,,349051730,,,0
+H1,2001,2001,2001,6,1,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,30485753,,30485753,,4980062,,,0
+H1,2001,2001,2001,6,1,1,Import,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5115530991,,5115530991,,915536644,,,0
+H1,2001,2001,2001,6,1,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,11391007,,11391007,,2732442,,,0
+H1,2001,2001,2001,6,1,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1047695919,,1047695919,,200228140,,,0

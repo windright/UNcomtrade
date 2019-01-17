@@ -1,0 +1,37 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,13253587806,,13253587806,,11154455409,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,17819543477,,17819543477,,13828677857,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,385931629,,385931629,,328071940,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,124822000,,124822000,,110611234,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2053566701,,2053566701,,1760599665,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3022172969,,3022172969,,2477244885,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,32750000,,32750000,,30252213,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1207888980,,1207888980,,1004933578,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,41894,,41894,,88109,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,730371340,,730371340,,570395901,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,35,,35,,157,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,79174397,,79174397,,69045327,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6307915649,,6307915649,,4898822154,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,320430989,,320430989,,278273876,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3231187028,,3231187028,,2381383186,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1598051510,,1598051510,,1361727862,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,295060857,,295060857,,223840295,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,225,,225,,1352,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,317098242,,317098242,,210668789,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1000,,1000,,201,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1855806040,,1855806040,,1606085058,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,14160,,14160,,25346,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,29551800,,29551800,,16140460,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,405744672,,405744672,,348980221,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4812836105,,4812836105,,3963859520,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,92,,92,,340,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2105234292,,2105234292,,1674510052,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,64103170,,64103170,,57825767,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,86901866,,86901866,,79497585,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,78181900,,78181900,,56907035,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,674450521,,674450521,,554739301,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10,,10,,478,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10000,,10000,,100,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,266961367,,266961367,,207316373,,,0
+H3,2011,2011,2011,6,1,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,30930,,30930,,101970,,,0
+H3,2011,2011,2011,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,986838913,,986838913,,711182936,,,0

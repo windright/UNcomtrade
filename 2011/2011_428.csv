@@ -1,0 +1,9 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,6,1,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1452713,,1452713,,626397,,,6
+H3,2011,2011,2011,6,1,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,42207909,,42207909,,33565911,,,0
+H3,2011,2011,2011,6,1,1,Import,428,Latvia,LVA,196,Cyprus,CYP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1401700,,1401700,,605633,,,0
+H3,2011,2011,2011,6,1,1,Import,428,Latvia,LVA,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5,,5,,2,,,6
+H3,2011,2011,2011,6,1,1,Import,428,Latvia,LVA,440,Lithuania,LTU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,51008,,51008,,20762,,,0
+H3,2011,2011,2011,6,1,2,Export,428,Latvia,LVA,440,Lithuania,LTU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2545000,,2545000,,592749,,,0
+H3,2011,2011,2011,6,1,2,Export,428,Latvia,LVA,616,Poland,POL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1437203,,1437203,,1111749,,,0
+H3,2011,2011,2011,6,1,2,Export,428,Latvia,LVA,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,38225706,,38225706,,31861414,,,0

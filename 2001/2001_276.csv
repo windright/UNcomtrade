@@ -1,0 +1,36 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,104750535200,,104750535200,,19158761000,,,0
+H1,2001,2001,2001,6,1,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,908011367,,908011367,,156254000,,,6
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3957532700,,3957532700,,805733000,,,0
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,24,Angola,AGO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,318243800,,318243800,,53331000,,,0
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1233672400,,1233672400,,227422000,,,0
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,40,Austria,AUT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,35638500,,35638500,,6795000,,,0
+H1,2001,2001,2001,6,1,2,Export,276,Germany,DEU,40,Austria,AUT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2475600,,2475600,,490000,,,6
+H1,2001,2001,2001,6,1,2,Export,276,Germany,DEU,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,21621000,,21621000,,3565000,,,6
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,125902000,,125902000,,18644000,,,0
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,178,Congo,COG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,752261500,,752261500,,140421000,,,0
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1292500600,,1292500600,,257584000,,,0
+H1,2001,2001,2001,6,1,2,Export,276,Germany,DEU,233,Estonia,EST,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,46489,,46489,,8000,,,6
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2700,,2700,,3000,,,0
+H1,2001,2001,2001,6,1,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,159640800,,159640800,,24311000,,,6
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,255576700,,255576700,,44747000,,,0
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,24568900,,24568900,,2625000,,,0
+H1,2001,2001,2001,6,1,2,Export,276,Germany,DEU,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5811,,5811,,1000,,,6
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4321589500,,4321589500,,863116000,,,0
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,109022400,,109022400,,20068000,,,0
+H1,2001,2001,2001,6,1,2,Export,276,Germany,DEU,428,Latvia,LVA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,29056,,29056,,5000,,,6
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,434,Libya,LBY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,9753022700,,9753022700,,1889785000,,,0
+H1,2001,2001,2001,6,1,2,Export,276,Germany,DEU,440,Lithuania,LTU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5811,,5811,,1000,,,6
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,73808400,,73808400,,11837000,,,0
+H1,2001,2001,2001,6,1,2,Export,276,Germany,DEU,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,543735700,,543735700,,89490000,,,6
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2967089100,,2967089100,,601155000,,,0
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,579,Norway,NOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,20347715300,,20347715300,,3908661000,,,0
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,29606955700,,29606955700,,4920965000,,,0
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3883291700,,3883291700,,651157000,,,0
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,760,Syria,SYR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,7188530400,,7188530400,,1209237000,,,0
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,788,Tunisia,TUN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,133017400,,133017400,,20421000,,,0
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,804,Ukraine,UKR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,371297500,,371297500,,60285000,,,0
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,28874500,,28874500,,4157000,,,0
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,16306952100,,16306952100,,3226609000,,,0
+H1,2001,2001,2001,6,1,2,Export,276,Germany,DEU,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,180451100,,180451100,,38383000,,,6
+H1,2001,2001,2001,6,1,1,Import,276,Germany,DEU,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1663468700,,1663468700,,214003000,,,0

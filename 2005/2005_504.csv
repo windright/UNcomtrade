@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,6,1,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7055565739,,7055565739,,2702175141,,,6
+H2,2005,2005,2005,6,1,1,Import,504,Morocco,MAR,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,193,,,0
+H2,2005,2005,2005,6,1,1,Import,504,Morocco,MAR,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,360,,360,,3648,,,0
+H2,2005,2005,2005,6,1,1,Import,504,Morocco,MAR,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1410610996,,1410610996,,557212353,,,0
+H2,2005,2005,2005,6,1,1,Import,504,Morocco,MAR,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,143170582,,143170582,,59692759,,,0
+H2,2005,2005,2005,6,1,1,Import,504,Morocco,MAR,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,80546993,,80546993,,22276570,,,0
+H2,2005,2005,2005,6,1,1,Import,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2778916067,,2778916067,,1032029725,,,0
+H2,2005,2005,2005,6,1,1,Import,504,Morocco,MAR,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2642319478,,2642319478,,1030959162,,,0
+H2,2005,2005,2005,6,1,1,Import,504,Morocco,MAR,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,15,,15,,253,,,0
+H2,2005,2005,2005,6,1,1,Import,504,Morocco,MAR,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1247,,1247,,478,,,6

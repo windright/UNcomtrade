@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,6,1,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,11211579622,,11211579622,,6558983418,,,6
+H3,2010,2010,2010,6,1,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,81244454,,81244454,,44661565,,,0
+H3,2010,2010,2010,6,1,1,Import,246,Finland,FIN,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,23,,,0
+H3,2010,2010,2010,6,1,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3,,3,,313,,,0
+H3,2010,2010,2010,6,1,1,Import,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,29861090,,29861090,,18920579,,,0
+H3,2010,2010,2010,6,1,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,538906000,,538906000,,364180511,,,0
+H3,2010,2010,2010,6,1,1,Import,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10561434104,,10561434104,,6131099537,,,0
+H3,2010,2010,2010,6,1,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,9,,9,,5,,,6
+H3,2010,2010,2010,6,1,1,Import,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3600,,3600,,1988,,,0
+H3,2010,2010,2010,6,1,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,130360,,130360,,118899,,,0

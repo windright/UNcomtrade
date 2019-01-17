@@ -1,0 +1,16 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2015,2015,2015,6,1,1,Import,729,Sudan,SDN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,45729063,,45729063,,63434576,,,0
+H3,2015,2015,2015,6,1,2,Export,729,Sudan,SDN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4099789278,,4099789278,,2973880047,,,0
+H3,2015,2015,2015,6,1,1,Import,729,Sudan,SDN,140,Central African Rep.,CAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8643,,8643,,13136,,,0
+H3,2015,2015,2015,6,1,1,Import,729,Sudan,SDN,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,217740,,217740,,209564,,,0
+H3,2015,2015,2015,6,1,2,Export,729,Sudan,SDN,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4099789278,,4099789278,,2973880047,,,0
+H3,2015,2015,2015,6,1,1,Import,729,Sudan,SDN,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8387,,8387,,17230,,,0
+H3,2015,2015,2015,6,1,1,Import,729,Sudan,SDN,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,50505,,50505,,86585,,,0
+H3,2015,2015,2015,6,1,1,Import,729,Sudan,SDN,504,Morocco,MAR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4987940,,4987940,,3679838,,,0
+H3,2015,2015,2015,6,1,1,Import,729,Sudan,SDN,533,Aruba,ABW,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3246129,,3246129,,4052955,,,0
+H3,2015,2015,2015,6,1,1,Import,729,Sudan,SDN,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2451647,,2451647,,3526712,,,0
+H3,2015,2015,2015,6,1,1,Import,729,Sudan,SDN,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8348838,,8348838,,8918446,,,0
+H3,2015,2015,2015,6,1,1,Import,729,Sudan,SDN,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,29900,,29900,,129129,,,0
+H3,2015,2015,2015,6,1,1,Import,729,Sudan,SDN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,13936431,,13936431,,18110055,,,0
+H3,2015,2015,2015,6,1,1,Import,729,Sudan,SDN,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3974,,3974,,4519,,,0
+H3,2015,2015,2015,6,1,1,Import,729,Sudan,SDN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12438929,,12438929,,24686407,,,0

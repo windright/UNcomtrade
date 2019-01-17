@@ -1,0 +1,25 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2336904100,,2336904100,,232232100,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,32378025644,,32378025644,,4254746000,,,6
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,40,Austria,AUT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1000,,1000,,1200,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,60,Bermuda,BMU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,8040423800,,8040423800,,1221211600,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,92,Br. Virgin Isds,VGB,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3007600300,,3007600300,,440747800,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,671521300,,671521300,,100794800,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,246,Finland,FIN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,242648000,,242648000,,24886100,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1411110600,,1411110600,,207894800,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3000,,3000,,200,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4366386600,,4366386600,,547073100,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3944,,3944,,1400,,,6
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,591,Panama,PAN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,105391000,,105391000,,10063500,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,616,Poland,POL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1100719700,,1100719700,,144041200,,,0
+H1,2001,2001,2001,6,1,1,Import,398,Kazakhstan,KAZ,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2336901600,,2336901600,,232166500,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5346400000,,5346400000,,514354700,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,164524200,,164524200,,25511900,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,703,Slovakia,SVK,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,25222500,,25222500,,2362000,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,467032400,,467032400,,58825600,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2132672500,,2132672500,,301026500,,,0
+H1,2001,2001,2001,6,1,1,Import,398,Kazakhstan,KAZ,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2500,,2500,,65600,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,104628800,,104628800,,14902900,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,804,Ukraine,UKR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3730576500,,3730576500,,448058700,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1382810200,,1382810200,,185304300,,,0
+H1,2001,2001,2001,6,1,2,Export,398,Kazakhstan,KAZ,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,78349300,,78349300,,7683700,,,0

@@ -1,0 +1,14 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2005,2005,2005,6,1,2,Export,887,Yemen,YEM,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,12838012490,,12838012490,,4754225829,,,0
+H1,2005,2005,2005,6,1,2,Export,887,Yemen,YEM,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,82798068,,82798068,,35541785,,,0
+H1,2005,2005,2005,6,1,2,Export,887,Yemen,YEM,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5148613028,,5148613028,,1949701612,,,0
+H1,2005,2005,2005,6,1,2,Export,887,Yemen,YEM,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1028996953,,1028996953,,351777882,,,0
+H1,2005,2005,2005,6,1,2,Export,887,Yemen,YEM,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,916041347,,916041347,,351920354,,,0
+H1,2005,2005,2005,6,1,2,Export,887,Yemen,YEM,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,68033652,,68033652,,20118191,,,0
+H1,2005,2005,2005,6,1,2,Export,887,Yemen,YEM,554,New Zealand,NZL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,214778325,,214778325,,64234664,,,0
+H1,2005,2005,2005,6,1,2,Export,887,Yemen,YEM,699,India,IND,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2546365619,,2546365619,,904304446,,,0
+H1,2005,2005,2005,6,1,2,Export,887,Yemen,YEM,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,132865405,,132865405,,39574519,,,0
+H1,2005,2005,2005,6,1,2,Export,887,Yemen,YEM,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,527589015,,527589015,,204455359,,,0
+H1,2005,2005,2005,6,1,2,Export,887,Yemen,YEM,764,Thailand,THA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1724899722,,1724899722,,658259859,,,0
+H1,2005,2005,2005,6,1,2,Export,887,Yemen,YEM,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,351,,351,,965,,,0
+H1,2005,2005,2005,6,1,2,Export,887,Yemen,YEM,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,447031005,,447031005,,174336193,,,0

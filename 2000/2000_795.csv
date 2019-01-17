@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,2,Export,795,Turkmenistan,TKM,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,241927067,,,0
+H1,2000,2000,2000,6,1,2,Export,795,Turkmenistan,TKM,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,32299654,,,0
+H1,2000,2000,2000,6,1,2,Export,795,Turkmenistan,TKM,60,Bermuda,BMU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,19481610,,,0
+H1,2000,2000,2000,6,1,2,Export,795,Turkmenistan,TKM,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,41052840,,,0
+H1,2000,2000,2000,6,1,2,Export,795,Turkmenistan,TKM,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,111469717,,,0
+H1,2000,2000,2000,6,1,2,Export,795,Turkmenistan,TKM,417,Kyrgyzstan,KGZ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,2196417,,,0
+H1,2000,2000,2000,6,1,2,Export,795,Turkmenistan,TKM,498,Rep. of Moldova,MDA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,2578650,,,0
+H1,2000,2000,2000,6,1,2,Export,795,Turkmenistan,TKM,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,2415304,,,0
+H1,2000,2000,2000,6,1,2,Export,795,Turkmenistan,TKM,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,30432875,,,0

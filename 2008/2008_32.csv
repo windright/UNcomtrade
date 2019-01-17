@@ -1,0 +1,15 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2008,2008,2008,6,1,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4739237,,4739237,,2947227,,,6
+H3,2008,2008,2008,6,1,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3013572481,,3013572481,,1618156132,,,0
+H3,2008,2008,2008,6,1,1,Import,32,Argentina,ARG,68,Bolivia (Plurinational State of),BOL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4738891,,4738891,,2942408,,,0
+H3,2008,2008,2008,6,1,2,Export,32,Argentina,ARG,152,Chile,CHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,264458231,,264458231,,210033915,,,0
+H3,2008,2008,2008,6,1,1,Import,32,Argentina,ARG,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3,,3,,14,,,0
+H3,2008,2008,2008,6,1,2,Export,32,Argentina,ARG,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1426339612,,1426339612,,678897097,,,0
+H3,2008,2008,2008,6,1,2,Export,32,Argentina,ARG,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1142,,1142,,12096,,,0
+H3,2008,2008,2008,6,1,1,Import,32,Argentina,ARG,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,43,,43,,1115,,,0
+H3,2008,2008,2008,6,1,1,Import,32,Argentina,ARG,604,Peru,PER,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,75,,75,,3054,,,0
+H3,2008,2008,2008,6,1,2,Export,32,Argentina,ARG,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,162419546,,162419546,,117433349,,,0
+H3,2008,2008,2008,6,1,2,Export,32,Argentina,ARG,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,9,,9,,35,,,0
+H3,2008,2008,2008,6,1,2,Export,32,Argentina,ARG,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,45,,45,,45,,,0
+H3,2008,2008,2008,6,1,1,Import,32,Argentina,ARG,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,225,,225,,636,,,6
+H3,2008,2008,2008,6,1,2,Export,32,Argentina,ARG,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1160353896,,1160353896,,611779595,,,0

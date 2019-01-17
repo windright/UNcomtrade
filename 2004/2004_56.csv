@@ -1,0 +1,18 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2004,2004,2004,6,1,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,35718055593,,35718055593,,9581833540,,,0
+H2,2004,2004,2004,6,1,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2880248461,,2880248461,,1066868512,,,0
+H2,2004,2004,2004,6,1,1,Import,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2510944719,,2510944719,,916479377,,,0
+H2,2004,2004,2004,6,1,1,Import,56,Belgium,BEL,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,30572945,,30572945,,10048739,,,0
+H2,2004,2004,2004,6,1,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,172123523,,172123523,,69585388,,,0
+H2,2004,2004,2004,6,1,1,Import,56,Belgium,BEL,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3785,,3785,,7805,,,0
+H2,2004,2004,2004,6,1,2,Export,56,Belgium,BEL,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,19,,19,,111,,,0
+H2,2004,2004,2004,6,1,1,Import,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,46,,46,,53,,,0
+H2,2004,2004,2004,6,1,1,Import,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,28457415381,,28457415381,,7547554160,,,0
+H2,2004,2004,2004,6,1,2,Export,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2708123579,,2708123579,,997280221,,,0
+H2,2004,2004,2004,6,1,1,Import,56,Belgium,BEL,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,169236093,,169236093,,41220797,,,0
+H2,2004,2004,2004,6,1,2,Export,56,Belgium,BEL,616,Poland,POL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,94,,94,,690,,,0
+H2,2004,2004,2004,6,1,1,Import,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3624607245,,3624607245,,922681926,,,0
+H2,2004,2004,2004,6,1,1,Import,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,213052,,213052,,246801,,,0
+H2,2004,2004,2004,6,1,2,Export,56,Belgium,BEL,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1246,,1246,,2101,,,0
+H2,2004,2004,2004,6,1,1,Import,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,64602967,,64602967,,23596358,,,0
+H2,2004,2004,2004,6,1,1,Import,56,Belgium,BEL,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,860459360,,860459360,,119997524,,,0

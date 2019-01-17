@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,6,1,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1808715231,,1808715231,,384681791,,,0
+H2,2003,2003,2003,6,1,1,Import,144,Sri Lanka,LKA,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,13600,,13600,,9857,,,0
+H2,2003,2003,2003,6,1,1,Import,144,Sri Lanka,LKA,344,"China, Hong Kong SAR",HKG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,50,,50,,146,,,0
+H2,2003,2003,2003,6,1,1,Import,144,Sri Lanka,LKA,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1180980000,,1180980000,,246508087,,,0
+H2,2003,2003,2003,6,1,1,Import,144,Sri Lanka,LKA,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,46,,46,,411,,,0
+H2,2003,2003,2003,6,1,1,Import,144,Sri Lanka,LKA,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,343615104,,343615104,,79348079,,,0
+H2,2003,2003,2003,6,1,1,Import,144,Sri Lanka,LKA,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,189353408,,189353408,,40804058,,,0
+H2,2003,2003,2003,6,1,1,Import,144,Sri Lanka,LKA,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16,,16,,59,,,0
+H2,2003,2003,2003,6,1,1,Import,144,Sri Lanka,LKA,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,94753000,,94753000,,18010927,,,0
+H2,2003,2003,2003,6,1,1,Import,144,Sri Lanka,LKA,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7,,7,,167,,,0

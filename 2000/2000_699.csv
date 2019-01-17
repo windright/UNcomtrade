@@ -1,0 +1,19 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,80556533056,,80556533056,,15729154878,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2607684096,,2607684096,,466331938,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,487000000,,487000000,,86236571,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,350000,,350000,,74874,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3223781888,,3223781888,,533648679,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,739848000,,739848000,,141856637,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,264478000,,264478000,,41143862,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,512,Oman,OMN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,260122000,,260122000,,45375052,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3888963072,,3888963072,,692643898,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,591,Panama,PAN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,24000,,24000,,5067,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,672387008,,672387008,,112636372,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5769723904,,5769723904,,983637768,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,18364000,,18364000,,3417319,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2921931008,,2921931008,,477825810,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1293729024,,1293729024,,226041273,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,374000,,374000,,71521,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1248772992,,1248772992,,236368060,,,0
+H1,2000,2000,2000,6,1,1,Import,699,India,IND,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,57159000064,,57159000064,,11681840176,,,0

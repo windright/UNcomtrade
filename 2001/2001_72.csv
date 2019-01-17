@@ -1,0 +1,7 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,696384,,696384,,240739,,,6
+H1,2001,2001,2001,6,1,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1146,,1146,,2350,,,6
+H1,2001,2001,2001,6,1,1,Import,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,696384,,696384,,240739,,,6
+H1,2001,2001,2001,6,1,2,Export,72,Botswana,BWA,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,939,,939,,837,,,6
+H1,2001,2001,2001,6,1,2,Export,72,Botswana,BWA,716,Zimbabwe,ZWE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,181,,181,,1425,,,6
+H1,2001,2001,2001,6,1,2,Export,72,Botswana,BWA,894,Zambia,ZMB,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,26,,26,,89,,,6

@@ -1,0 +1,20 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,6,1,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,17942189363,,17942189363,,2922117000,,,0
+H2,2002,2002,2002,6,1,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,497087993,,497087993,,90642000,,,0
+H2,2002,2002,2002,6,1,2,Export,616,Poland,POL,196,Cyprus,CYP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,19392174,,19392174,,3284000,,,0
+H2,2002,2002,2002,6,1,1,Import,616,Poland,POL,203,Czechia,CZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,18223460,,18223460,,3526000,,,0
+H2,2002,2002,2002,6,1,2,Export,616,Poland,POL,203,Czechia,CZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6622160,,6622160,,816000,,,0
+H2,2002,2002,2002,6,1,2,Export,616,Poland,POL,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,244053548,,244053548,,47441000,,,0
+H2,2002,2002,2002,6,1,1,Import,616,Poland,POL,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,115600296,,115600296,,20634000,,,0
+H2,2002,2002,2002,6,1,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,89771244,,89771244,,16118000,,,0
+H2,2002,2002,2002,6,1,1,Import,616,Poland,POL,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,146803182,,146803182,,26214000,,,0
+H2,2002,2002,2002,6,1,1,Import,616,Poland,POL,440,Lithuania,LTU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,31795118,,31795118,,5165000,,,0
+H2,2002,2002,2002,6,1,1,Import,616,Poland,POL,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,31541201,,31541201,,4703000,,,0
+H2,2002,2002,2002,6,1,1,Import,616,Poland,POL,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,52041809,,52041809,,11466000,,,0
+H2,2002,2002,2002,6,1,1,Import,616,Poland,POL,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,17310465683,,17310465683,,2803505000,,,0
+H2,2002,2002,2002,6,1,1,Import,616,Poland,POL,703,Slovakia,SVK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2504900,,2504900,,529000,,,0
+H2,2002,2002,2002,6,1,1,Import,616,Poland,POL,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,29348103,,29348103,,5413000,,,0
+H2,2002,2002,2002,6,1,1,Import,616,Poland,POL,804,Ukraine,UKR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,125048068,,125048068,,25324000,,,0
+H2,2002,2002,2002,6,1,2,Export,616,Poland,POL,804,Ukraine,UKR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1088091,,1088091,,238000,,,0
+H2,2002,2002,2002,6,1,1,Import,616,Poland,POL,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,78817543,,78817543,,15638000,,,0
+H2,2002,2002,2002,6,1,2,Export,616,Poland,POL,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,136160776,,136160776,,22745000,,,0

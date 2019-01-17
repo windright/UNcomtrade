@@ -1,0 +1,26 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2008,2008,2008,6,1,1,Import,266,Gabon,GAB,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2471,,2471,,17502,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10733708475,,10733708475,,8329068994,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,60,Bermuda,BMU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,130292485,,130292485,,124340323,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,120,Cameroon,CMR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,45,,45,,178,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1159223775,,1159223775,,941917574,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,214,Dominican Rep.,DOM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,77725935,,77725935,,64564986,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,67,,67,,1182,,,0
+H2,2008,2008,2008,6,1,1,Import,266,Gabon,GAB,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,867,,867,,5121,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,487994934,,487994934,,364991942,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,288,Ghana,GHA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,103669801,,103669801,,84021272,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,344,"China, Hong Kong SAR",HKG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,129643296,,129643296,,85794530,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,43049179,,43049179,,28336059,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,273858961,,273858961,,193153209,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,113063200,,113063200,,65081064,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,404,Kenya,KEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8,,8,,337,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,183093543,,183093543,,132609855,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,460720590,,460720590,,309680707,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,454539497,,454539497,,572032518,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10,,10,,3,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,47,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,365540167,,365540167,,272044706,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,209667657,,209667657,,163154233,,,0
+H2,2008,2008,2008,6,1,1,Import,266,Gabon,GAB,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1604,,1604,,12381,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,214,,214,,141,,,0
+H2,2008,2008,2008,6,1,2,Export,266,Gabon,GAB,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6541625107,,6541625107,,4927344127,,,0

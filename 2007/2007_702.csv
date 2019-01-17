@@ -1,0 +1,45 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,51289272039,,51289272039,,22482353897,,,6
+H3,2007,2007,2007,6,1,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,88979054,,88979054,,46042120,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,24,Angola,AGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16388439,,16388439,,4803592,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1013460544,,1013460544,,465597810,,,0
+H3,2007,2007,2007,6,1,2,Export,702,Singapore,SGP,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,88934776,,88934776,,45807735,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,44,Bahamas,BHS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,20,,20,,1,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,96,Brunei Darussalam,BRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,82266000,,82266000,,47682738,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,104,Myanmar,MMR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12,,12,,11,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,148712224,,148712224,,74323613,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,618926656,,618926656,,193413872,,,0
+H3,2007,2007,2007,6,1,2,Export,702,Singapore,SGP,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12070,,12070,,166843,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,186640448,,186640448,,86863918,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,344,"China, Hong Kong SAR",HKG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,30,,30,,154,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,444267712,,444267712,,208040729,,,0
+H3,2007,2007,2007,6,1,2,Export,702,Singapore,SGP,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10,,10,,1508,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,639544000,,639544000,,356828610,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1959809408,,1959809408,,925399570,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,90,,90,,1084,,,0
+H3,2007,2007,2007,6,1,2,Export,702,Singapore,SGP,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,28,,28,,48,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,75338432,,75338432,,27892676,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,9082314752,,9082314752,,3419273202,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,43111248,,43111248,,23299408,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1848878976,,1848878976,,936994112,,,0
+H3,2007,2007,2007,6,1,2,Export,702,Singapore,SGP,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,25198,,25198,,56854,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,73932688,,73932688,,23212845,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,512,Oman,OMN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,515053408,,515053408,,212313801,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1080,,1080,,443,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,554,New Zealand,NZL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,37073424,,37073424,,23732517,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,608,Philippines,PHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,17,,17,,442,,,0
+H3,2007,2007,2007,6,1,2,Export,702,Singapore,SGP,608,Philippines,PHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6494,,6494,,8037,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10451559424,,10451559424,,4037210074,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,637,"North America and Central America, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,118783368,,118783368,,44117369,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,219297792,,219297792,,87134957,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,14877839360,,14877839360,,6631975752,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3,,3,,1,,,6
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2789879040,,2789879040,,1502150818,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,67246440,,67246440,,16485007,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,764,Thailand,THA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,71210464,,71210464,,30053553,,,0
+H3,2007,2007,2007,6,1,2,Export,702,Singapore,SGP,764,Thailand,THA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,450,,450,,1081,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5801506304,,5801506304,,3051268137,,,0
+H3,2007,2007,2007,6,1,2,Export,702,Singapore,SGP,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,26,,26,,10,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,52,,52,,1386,,,0
+H3,2007,2007,2007,6,1,2,Export,702,Singapore,SGP,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,3,,,0
+H3,2007,2007,2007,6,1,1,Import,702,Singapore,SGP,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,106230184,,106230184,,52281692,,,0

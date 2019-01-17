@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2006,2006,2006,6,1,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,254703,,254703,,68973,,,6
+H2,2006,2006,2006,6,1,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7869,,7869,,6709,,,0
+H2,2006,2006,2006,6,1,2,Export,800,Uganda,UGA,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6221,,6221,,5270,,,0
+H2,2006,2006,2006,6,1,1,Import,800,Uganda,UGA,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,239882,,239882,,64960,,,6
+H2,2006,2006,2006,6,1,1,Import,800,Uganda,UGA,404,Kenya,KEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,689,,689,,186,,,6
+H2,2006,2006,2006,6,1,1,Import,800,Uganda,UGA,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1359,,1359,,368,,,6
+H2,2006,2006,2006,6,1,2,Export,800,Uganda,UGA,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,300,,300,,315,,,0
+H2,2006,2006,2006,6,1,1,Import,800,Uganda,UGA,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12773,,12773,,3459,,,6
+H2,2006,2006,2006,6,1,2,Export,800,Uganda,UGA,834,United Rep. of Tanzania,TZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1008,,1008,,1002,,,0
+H2,2006,2006,2006,6,1,2,Export,800,Uganda,UGA,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,340,,340,,122,,,0

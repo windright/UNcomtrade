@@ -1,0 +1,50 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,81854226832,,81854226832,,59821023675,,,6
+H3,2008,2008,2008,6,1,2,Export,251,France,FRA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,64398,,64398,,480888,,,6
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3325757000,,3325757000,,2633981433,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,24,Angola,AGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5523632000,,5523632000,,3940547207,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3053243000,,3053243000,,2347993213,,,0
+H3,2008,2008,2008,6,1,2,Export,251,France,FRA,40,Austria,AUT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,31700,,31700,,398281,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,26200,,26200,,30943,,,0
+H3,2008,2008,2008,6,1,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1500,,1500,,1475,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,271401032,,271401032,,180241730,,,6
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,120,Cameroon,CMR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,275596000,,275596000,,164354559,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,148,Chad,TCD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,67842000,,67842000,,39191890,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,178,Congo,COG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,869972000,,869972000,,644632763,,,0
+H3,2008,2008,2008,6,1,2,Export,251,France,FRA,192,Cuba,CUB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4500,,4500,,19177,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1548607000,,1548607000,,1156722145,,,0
+H3,2008,2008,2008,6,1,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1300,,1300,,1475,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,352433700,,352433700,,243735891,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12400,,12400,,7367,,,0
+H3,2008,2008,2008,6,1,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,900,,900,,1475,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4781627000,,4781627000,,3329093020,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2889798000,,2889798000,,2100576543,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4900,,4900,,11788,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,996000,,996000,,537824,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1100,,1100,,2947,,,0
+H3,2008,2008,2008,6,1,2,Export,251,France,FRA,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,198,,198,,1475,,,6
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4143314000,,4143314000,,3186414974,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1564010000,,1564010000,,1028353161,,,0
+H3,2008,2008,2008,6,1,2,Export,251,France,FRA,422,Lebanon,LBN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,200,,200,,2950,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6643791000,,6643791000,,4867680439,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,442,Luxembourg,LUX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4300,,4300,,2947,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,29494000,,29494000,,21022283,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,100,,100,,1473,,,0
+H3,2008,2008,2008,6,1,2,Export,251,France,FRA,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1400,,1400,,1475,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3996993000,,3996993000,,3022416999,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12702637000,,12702637000,,9685624694,,,0
+H3,2008,2008,2008,6,1,2,Export,251,France,FRA,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5800,,5800,,8851,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,27790000,,27790000,,22323375,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16189622500,,16189622500,,11780235076,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7563021100,,7563021100,,5187753432,,,0
+H3,2008,2008,2008,6,1,2,Export,251,France,FRA,686,Senegal,SEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,13600,,13600,,30977,,,0
+H3,2008,2008,2008,6,1,2,Export,251,France,FRA,688,Serbia,SRB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1000,,1000,,4425,,,0
+H3,2008,2008,2008,6,1,2,Export,251,France,FRA,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,400,,400,,7376,,,0
+H3,2008,2008,2008,6,1,2,Export,251,France,FRA,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1900,,1900,,1475,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,49300,,49300,,114932,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,760,Syria,SYR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1294815000,,1294815000,,930318918,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,457442000,,457442000,,263663372,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,788,Tunisia,TUN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,925253000,,925253000,,664323012,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,110100000,,110100000,,75408803,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3168654700,,3168654700,,2259340681,,,0
+H3,2008,2008,2008,6,1,1,Import,251,France,FRA,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,76286500,,76286500,,44363840,,,0

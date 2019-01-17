@@ -1,0 +1,25 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2012,2012,2012,6,1,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,13965,,13965,,18570,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8808943360,,8808943360,,5779548991,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,482098956,,482098956,,416306576,,,0
+H2,2012,2012,2012,6,1,1,Import,178,Congo,COG,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,202,,202,,2521,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,257238540,,257238540,,96925919,,,0
+H2,2012,2012,2012,6,1,1,Import,178,Congo,COG,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,71,,71,,26,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2923792268,,2923792268,,1546899064,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,204,Benin,BEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,130480656,,130480656,,96163911,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1170298207,,1170298207,,897270773,,,0
+H2,2012,2012,2012,6,1,1,Import,178,Congo,COG,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,150,,150,,8933,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,76066516,,76066516,,30717826,,,0
+H2,2012,2012,2012,6,1,1,Import,178,Congo,COG,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,253,,253,,1266,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,135802347,,135802347,,97720724,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,291552051,,291552051,,212890296,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1310735445,,1310735445,,1047793375,,,0
+H2,2012,2012,2012,6,1,1,Import,178,Congo,COG,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7697,,7697,,3492,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,48,,48,,129,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,498396105,,498396105,,428689716,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,273071838,,273071838,,136589972,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,68197417,,68197417,,41372746,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,257011436,,257011436,,198409219,,,0
+H2,2012,2012,2012,6,1,1,Import,178,Congo,COG,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5592,,5592,,2332,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,130376608,,130376608,,87302331,,,0
+H2,2012,2012,2012,6,1,2,Export,178,Congo,COG,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,803824923,,803824923,,444496414,,,0

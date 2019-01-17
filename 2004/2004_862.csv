@@ -1,0 +1,31 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2004,2004,2004,6,1,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,104738598,,104738598,,1022787,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,83850857521,,83850857521,,20608451150,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,44,Bahamas,BHS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,41307750,,41307750,,6255015,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1460609129,,1460609129,,385536725,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,92,Br. Virgin Isds,VGB,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,327227491,,327227491,,76854547,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,124,Canada,CAN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2560388130,,2560388130,,675018225,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,983228970,,983228970,,259217525,,,0
+H1,2004,2004,2004,6,1,1,Import,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,16,,16,,263,,,0
+H1,2004,2004,2004,6,1,1,Import,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,24,,24,,339,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,13590,,13590,,930,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,783588570,,783588570,,206584525,,,0
+H1,2004,2004,2004,6,1,1,Import,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,190,,190,,600,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,388,Jamaica,JAM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,484127970,,484127970,,127635025,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,473,"LAIA, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,11163252503,,11163252503,,2943068983,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,259532520,,259532520,,68422900,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,44641420,,44641420,,6366285,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,530,Neth. Antilles,ANT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4784448511,,4784448511,,1087094757,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,533,Aruba,ABW,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,135471110,,135471110,,32083686,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,568,"Other Europe, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,322233416,,322233416,,84953303,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,335706020,,335706020,,81581150,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,637,"North America and Central America, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1821718650,,1821718650,,480276125,,,0
+H1,2004,2004,2004,6,1,1,Import,862,Venezuela,VEN,642,Romania,ROU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1646,,1646,,340,,,0
+H1,2004,2004,2004,6,1,1,Import,862,Venezuela,VEN,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,57,,57,,205,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,662,Saint Lucia,LCA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,59522473,,59522473,,11334187,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,310470126,,310470126,,63946832,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,454181910,,454181910,,119740075,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1337590680,,1337590680,,352641100,,,0
+H1,2004,2004,2004,6,1,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,134,,134,,841,,,0
+H1,2004,2004,2004,6,1,2,Export,862,Venezuela,VEN,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,56181596581,,56181596581,,13539839250,,,0
+H1,2004,2004,2004,6,1,1,Import,862,Venezuela,VEN,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,104736531,,104736531,,1020199,,,0

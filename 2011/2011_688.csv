@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,6,1,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1497415070,,1497415070,,1193033817,,,0
+H3,2011,2011,2011,6,1,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,540240,,540240,,508006,,,0
+H3,2011,2011,2011,6,1,2,Export,688,Serbia,SRB,70,Bosnia Herzegovina,BIH,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,540240,,540240,,508006,,,0
+H3,2011,2011,2011,6,1,1,Import,688,Serbia,SRB,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3,,3,,150,,,0
+H3,2011,2011,2011,6,1,1,Import,688,Serbia,SRB,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,79881837,,79881837,,57722799,,,0
+H3,2011,2011,2011,6,1,1,Import,688,Serbia,SRB,642,Romania,ROU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,25629029,,25629029,,21361652,,,0
+H3,2011,2011,2011,6,1,1,Import,688,Serbia,SRB,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1309602939,,1309602939,,1038482091,,,0
+H3,2011,2011,2011,6,1,1,Import,688,Serbia,SRB,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,552,,,0
+H3,2011,2011,2011,6,1,1,Import,688,Serbia,SRB,760,Syria,SYR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,82301261,,82301261,,75466573,,,0

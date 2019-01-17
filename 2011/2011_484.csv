@@ -1,0 +1,17 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,6,1,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,397,,397,,1480,,,6
+H3,2011,2011,2011,6,1,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,66768422496,,66768422496,,49380593928,,,0
+H3,2011,2011,2011,6,1,1,Import,484,Mexico,MEX,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,123,,123,,457,,,6
+H3,2011,2011,2011,6,1,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1021685056,,1021685056,,743520206,,,0
+H3,2011,2011,2011,6,1,2,Export,484,Mexico,MEX,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1828417152,,1828417152,,1332054820,,,0
+H3,2011,2011,2011,6,1,1,Import,484,Mexico,MEX,170,Colombia,COL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,4,,,6
+H3,2011,2011,2011,6,1,2,Export,484,Mexico,MEX,214,Dominican Rep.,DOM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,553837760,,553837760,,457482702,,,0
+H3,2011,2011,2011,6,1,2,Export,484,Mexico,MEX,222,El Salvador,SLV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,98084016,,98084016,,69924082,,,0
+H3,2011,2011,2011,6,1,2,Export,484,Mexico,MEX,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,357505792,,357505792,,260573883,,,0
+H3,2011,2011,2011,6,1,2,Export,484,Mexico,MEX,388,Jamaica,JAM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,237944832,,237944832,,186008460,,,0
+H3,2011,2011,2011,6,1,2,Export,484,Mexico,MEX,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,369905088,,369905088,,265842741,,,0
+H3,2011,2011,2011,6,1,2,Export,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,270394880,,270394880,,193856115,,,0
+H3,2011,2011,2011,6,1,2,Export,484,Mexico,MEX,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1851121792,,1851121792,,1414853661,,,0
+H3,2011,2011,2011,6,1,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5532068352,,5532068352,,4167233877,,,0
+H3,2011,2011,2011,6,1,1,Import,484,Mexico,MEX,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,273,,273,,1019,,,0
+H3,2011,2011,2011,6,1,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,54647457776,,54647457776,,40289243381,,,0

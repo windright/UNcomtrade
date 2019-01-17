@@ -1,0 +1,18 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,6,1,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,47,,47,,3247,,,0
+H3,2010,2010,2010,6,1,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,17407615617,,17407615617,,8951940959,,,0
+H3,2010,2010,2010,6,1,2,Export,218,Ecuador,ECU,152,Chile,CHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1201423821,,1201423821,,630075458,,,0
+H3,2010,2010,2010,6,1,2,Export,218,Ecuador,ECU,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,468439821,,468439821,,230986313,,,0
+H3,2010,2010,2010,6,1,2,Export,218,Ecuador,ECU,222,El Salvador,SLV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,346109003,,346109003,,178470881,,,0
+H3,2010,2010,2010,6,1,2,Export,218,Ecuador,ECU,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,542600008,,542600008,,277840888,,,0
+H3,2010,2010,2010,6,1,2,Export,218,Ecuador,ECU,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,241285328,,241285328,,122420098,,,0
+H3,2010,2010,2010,6,1,2,Export,218,Ecuador,ECU,530,Neth. Antilles,ANT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,200771609,,200771609,,113150426,,,0
+H3,2010,2010,2010,6,1,2,Export,218,Ecuador,ECU,591,Panama,PAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3290985800,,3290985800,,1726432147,,,0
+H3,2010,2010,2010,6,1,2,Export,218,Ecuador,ECU,604,Peru,PER,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2068091708,,2068091708,,1065879795,,,0
+H3,2010,2010,2010,6,1,2,Export,218,Ecuador,ECU,662,Saint Lucia,LCA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,95707246,,95707246,,49352222,,,0
+H3,2010,2010,2010,6,1,2,Export,218,Ecuador,ECU,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,98578431,,98578431,,53839586,,,0
+H3,2010,2010,2010,6,1,2,Export,218,Ecuador,ECU,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,91551580,,91551580,,48612002,,,0
+H3,2010,2010,2010,6,1,1,Import,218,Ecuador,ECU,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,47,,47,,3247,,,0
+H3,2010,2010,2010,6,1,2,Export,218,Ecuador,ECU,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8467009296,,8467009296,,4306272862,,,0
+H3,2010,2010,2010,6,1,2,Export,218,Ecuador,ECU,858,Uruguay,URY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,50302945,,50302945,,24984203,,,0
+H3,2010,2010,2010,6,1,2,Export,218,Ecuador,ECU,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,244759021,,244759021,,123624078,,,0

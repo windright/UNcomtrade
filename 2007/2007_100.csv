@@ -1,0 +1,12 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2007,2007,2007,6,1,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7162494608,,7162494608,,3675459893,,,0
+H3,2007,2007,2007,6,1,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,49202,,49202,,23614,,,0
+H3,2007,2007,2007,6,1,1,Import,100,Bulgaria,BGR,268,Georgia,GEO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5280431,,5280431,,2828098,,,0
+H3,2007,2007,2007,6,1,1,Import,100,Bulgaria,BGR,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,239,,239,,400,,,0
+H3,2007,2007,2007,6,1,1,Import,100,Bulgaria,BGR,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,21870,,21870,,28202,,,0
+H3,2007,2007,2007,6,1,1,Import,100,Bulgaria,BGR,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,158,,158,,352,,,0
+H3,2007,2007,2007,6,1,2,Export,100,Bulgaria,BGR,568,"Other Europe, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,40,,40,,206,,,0
+H3,2007,2007,2007,6,1,1,Import,100,Bulgaria,BGR,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7157189312,,7157189312,,3672593993,,,0
+H3,2007,2007,2007,6,1,1,Import,100,Bulgaria,BGR,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,548,,548,,1511,,,0
+H3,2007,2007,2007,6,1,1,Import,100,Bulgaria,BGR,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2050,,2050,,7336,,,0
+H3,2007,2007,2007,6,1,2,Export,100,Bulgaria,BGR,839,Special Categories,,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,49162,,49162,,23408,,,0

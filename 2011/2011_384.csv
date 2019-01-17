@@ -1,0 +1,22 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,6,1,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2150843869,,2150843869,,1749372331,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1759107424,,1759107424,,1306010039,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,120,Cameroon,CMR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6,,6,,3,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,743564660,,743564660,,534509363,,,0
+H3,2011,2011,2011,6,1,1,Import,384,Côte d'Ivoire,CIV,170,Colombia,COL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,353509807,,353509807,,233449057,,,0
+H3,2011,2011,2011,6,1,1,Import,384,Côte d'Ivoire,CIV,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3,,3,,53,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,113,,113,,31,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10,,10,,6,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,413806110,,413806110,,291333705,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,288,Ghana,GHA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,89091055,,89091055,,67196849,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10357356,,10357356,,8547546,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,89380330,,89380330,,72395279,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,404,Kenya,KEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6,,6,,3,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,504,Morocco,MAR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7,,7,,3,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,562,Niger,NER,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8,,8,,4,,,0
+H3,2011,2011,2011,6,1,1,Import,384,Côte d'Ivoire,CIV,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1797334059,,1797334059,,1515923221,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,686,Senegal,SEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,11,,11,,8,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,82281300,,82281300,,65815652,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,448,,448,,6529,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,834,United Rep. of Tanzania,TZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7,,7,,2,,,0
+H3,2011,2011,2011,6,1,2,Export,384,Côte d'Ivoire,CIV,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,330625997,,330625997,,266205056,,,0

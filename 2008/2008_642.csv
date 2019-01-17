@@ -1,0 +1,18 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8419363874,,8419363874,,5952983227,,,0
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,245613099,,245613099,,121539315,,,0
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,40,Austria,AUT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6889,,6889,,13660,,,0
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,100,Bulgaria,BGR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,70,,70,,313,,,0
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,51,,,0
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4286,,4286,,28559,,,0
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,348,Hungary,HUN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3766,,3766,,6364,,,0
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1055,,1055,,3797,,,0
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5235219196,,5235219196,,3679088491,,,0
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16,,16,,2,,,0
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1901,,1901,,10303,,,0
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2937046894,,2937046894,,2150758958,,,0
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,14,,14,,50,,,0
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16,,16,,5,,,0
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,804,Ukraine,UKR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1466614,,1466614,,1532844,,,0
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,50,,50,,3,,,0
+H3,2008,2008,2008,6,1,1,Import,642,Romania,ROU,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,511,,,0

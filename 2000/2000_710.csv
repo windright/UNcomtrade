@@ -1,0 +1,32 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,18319949284,,18319949284,,3486746713,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,178120455,,178120455,,33025320,,,6
+H1,2000,2000,2000,6,1,1,Import,710,South Africa,ZAF,24,Angola,AGO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,47840100,,47840100,,8366692,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,24,Angola,AGO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,8034,,8034,,51102,,,0
+H1,2000,2000,2000,6,1,1,Import,710,South Africa,ZAF,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,34863868,,34863868,,10883508,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,176304912,,176304912,,32508901,,,0
+H1,2000,2000,2000,6,1,1,Import,710,South Africa,ZAF,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5360,,5360,,817,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,180,Dem. Rep. of the Congo,COD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2659,,2659,,3718,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,231,Ethiopia,ETH,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,20,,20,,14,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,32,,32,,33,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,288,Ghana,GHA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,75,,75,,115,,,0
+H1,2000,2000,2000,6,1,1,Import,710,South Africa,ZAF,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6166005760,,6166005760,,1156748728,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,404,Kenya,KEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,10158,,10158,,1883,,,6
+H1,2000,2000,2000,6,1,1,Import,710,South Africa,ZAF,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,747210688,,747210688,,130214649,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,454,Malawi,MWI,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,114284,,114284,,23079,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,480,Mauritius,MUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,16100,,16100,,11003,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,49,,49,,72,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,508,Mozambique,MOZ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1330397,,1330397,,308101,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,37,,37,,21,,,0
+H1,2000,2000,2000,6,1,1,Import,710,South Africa,ZAF,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,868416960,,868416960,,178376995,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,654,Saint Helena,SHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,630,,630,,1086,,,0
+H1,2000,2000,2000,6,1,1,Import,710,South Africa,ZAF,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,9910341632,,9910341632,,1902737276,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,41,,41,,176,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,716,Zimbabwe,ZWE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1644,,1644,,24311,,,0
+H1,2000,2000,2000,6,1,1,Import,710,South Africa,ZAF,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,545264896,,545264896,,99417997,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,18,,18,,15,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1606,,1606,,2664,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,837,Bunkers,,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2100,,2100,,906,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,66001,,66001,,9691,,,0
+H1,2000,2000,2000,6,1,1,Import,710,South Africa,ZAF,894,Zambia,ZMB,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,20,,20,,50,,,0
+H1,2000,2000,2000,6,1,2,Export,710,South Africa,ZAF,894,Zambia,ZMB,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,261658,,261658,,78428,,,0

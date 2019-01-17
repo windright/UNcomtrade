@@ -1,0 +1,20 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,6,1,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,14978869264,,14978869264,,6675826000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8922103,,8922103,,3829000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,104,Myanmar,MMR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,142138,,142138,,61000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,288,Ghana,GHA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1966637,,1966637,,844000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,300,Greece,GRC,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1426045,,1426045,,612000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,348,Hungary,HUN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,65244,,65244,,28000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,167770,,167770,,72000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,440,Lithuania,LTU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,53593,,53593,,23000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,470,Malta,MLT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,114177,,114177,,49000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,675740,,675740,,290000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4660,,4660,,2000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,608,Philippines,PHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,135148,,135148,,58000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3096755,,3096755,,1329000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,642,Romania,ROU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,349521,,349521,,150000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,46603,,46603,,20000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,111847,,111847,,48000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,295928,,295928,,127000,,,6
+H3,2010,2010,2010,6,1,2,Export,376,Israel,ISR,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,270296,,270296,,116000,,,6
+H3,2010,2010,2010,6,1,1,Import,376,Israel,ISR,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,14978869264,,14978869264,,6675826000,,,6

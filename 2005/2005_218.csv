@@ -1,0 +1,19 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,6,1,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,347,,347,,3475,,,6
+H2,2005,2005,2005,6,1,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,18404854662,,18404854662,,5396840051,,,0
+H2,2005,2005,2005,6,1,2,Export,218,Ecuador,ECU,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,236033007,,236033007,,68936063,,,0
+H2,2005,2005,2005,6,1,2,Export,218,Ecuador,ECU,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,102958101,,102958101,,28184761,,,0
+H2,2005,2005,2005,6,1,1,Import,218,Ecuador,ECU,152,Chile,CHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,260,,,6
+H2,2005,2005,2005,6,1,2,Export,218,Ecuador,ECU,152,Chile,CHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,615244754,,615244754,,223134098,,,0
+H2,2005,2005,2005,6,1,2,Export,218,Ecuador,ECU,188,Costa Rica,CRI,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,90143777,,90143777,,25455520,,,0
+H2,2005,2005,2005,6,1,2,Export,218,Ecuador,ECU,222,El Salvador,SLV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,192451576,,192451576,,53307619,,,0
+H2,2005,2005,2005,6,1,2,Export,218,Ecuador,ECU,533,Aruba,ABW,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,41958042,,41958042,,12390600,,,0
+H2,2005,2005,2005,6,1,2,Export,218,Ecuador,ECU,558,Nicaragua,NIC,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,177691748,,177691748,,52847988,,,0
+H2,2005,2005,2005,6,1,2,Export,218,Ecuador,ECU,591,Panama,PAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1986462755,,1986462755,,499204612,,,0
+H2,2005,2005,2005,6,1,1,Import,218,Ecuador,ECU,604,Peru,PER,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3,,3,,31,,,6
+H2,2005,2005,2005,6,1,2,Export,218,Ecuador,ECU,604,Peru,PER,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2432892588,,2432892588,,743099841,,,0
+H2,2005,2005,2005,6,1,2,Export,218,Ecuador,ECU,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,125800267,,125800267,,32196574,,,0
+H2,2005,2005,2005,6,1,2,Export,218,Ecuador,ECU,705,Slovenia,SVN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,13286713,,13286713,,3154855,,,0
+H2,2005,2005,2005,6,1,2,Export,218,Ecuador,ECU,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,105384896,,105384896,,29078689,,,0
+H2,2005,2005,2005,6,1,1,Import,218,Ecuador,ECU,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,340,,340,,3184,,,6
+H2,2005,2005,2005,6,1,2,Export,218,Ecuador,ECU,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12284546438,,12284546438,,3625848831,,,0

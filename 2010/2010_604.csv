@@ -1,0 +1,21 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,6,1,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4884505112,,4884505112,,2689561504,,,0
+H3,2010,2010,2010,6,1,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1034083697,,1034083697,,505068044,,,0
+H3,2010,2010,2010,6,1,1,Import,604,Peru,PER,24,Angola,AGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,369462000,,369462000,,227472319,,,0
+H3,2010,2010,2010,6,1,2,Export,604,Peru,PER,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,0,,,0
+H3,2010,2010,2010,6,1,1,Import,604,Peru,PER,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,326305300,,326305300,,181571104,,,0
+H3,2010,2010,2010,6,1,2,Export,604,Peru,PER,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,7,,7,,70,,,0
+H3,2010,2010,2010,6,1,1,Import,604,Peru,PER,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2188,,2188,,5544,,,0
+H3,2010,2010,2010,6,1,2,Export,604,Peru,PER,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,0,,,0
+H3,2010,2010,2010,6,1,2,Export,604,Peru,PER,152,Chile,CHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,294511200,,294511200,,148329452,,,0
+H3,2010,2010,2010,6,1,1,Import,604,Peru,PER,170,Colombia,COL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,379211500,,379211500,,211204597,,,0
+H3,2010,2010,2010,6,1,2,Export,604,Peru,PER,170,Colombia,COL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,5,,,0
+H3,2010,2010,2010,6,1,1,Import,604,Peru,PER,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2245870900,,2245870900,,1140491266,,,0
+H3,2010,2010,2010,6,1,2,Export,604,Peru,PER,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,85,,85,,336,,,0
+H3,2010,2010,2010,6,1,2,Export,604,Peru,PER,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,331,,331,,70,,,0
+H3,2010,2010,2010,6,1,2,Export,604,Peru,PER,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,0,,,0
+H3,2010,2010,2010,6,1,1,Import,604,Peru,PER,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1041851000,,1041851000,,649773503,,,0
+H3,2010,2010,2010,6,1,1,Import,604,Peru,PER,591,Panama,PAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,521801700,,521801700,,279041841,,,0
+H3,2010,2010,2010,6,1,1,Import,604,Peru,PER,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,524,,524,,1327,,,0
+H3,2010,2010,2010,6,1,2,Export,604,Peru,PER,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,30,,30,,5,,,0
+H3,2010,2010,2010,6,1,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,739572031,,739572031,,356738103,,,0

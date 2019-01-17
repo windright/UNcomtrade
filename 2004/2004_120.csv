@@ -1,0 +1,21 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2004,2004,2004,6,1,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1311181781,,1311181781,,366459171,,,0
+H1,2004,2004,2004,6,1,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4899562022,,4899562022,,1018674440,,,0
+H1,2004,2004,2004,6,1,2,Export,120,Cameroon,CMR,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2,,2,,10,,,0
+H1,2004,2004,2004,6,1,1,Import,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,119501000,,119501000,,31917450,,,0
+H1,2004,2004,2004,6,1,1,Import,120,Cameroon,CMR,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,40,,40,,107,,,0
+H1,2004,2004,2004,6,1,2,Export,120,Cameroon,CMR,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,634829171,,634829171,,138588154,,,0
+H1,2004,2004,2004,6,1,1,Import,120,Cameroon,CMR,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,21014057,,21014057,,5201007,,,0
+H1,2004,2004,2004,6,1,2,Export,120,Cameroon,CMR,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,469539108,,469539108,,86484745,,,0
+H1,2004,2004,2004,6,1,2,Export,120,Cameroon,CMR,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,80,,80,,303,,,0
+H1,2004,2004,2004,6,1,2,Export,120,Cameroon,CMR,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,156459013,,156459013,,29976262,,,0
+H1,2004,2004,2004,6,1,2,Export,120,Cameroon,CMR,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,68,,68,,122,,,0
+H1,2004,2004,2004,6,1,1,Import,120,Cameroon,CMR,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1025650467,,1025650467,,289885903,,,0
+H1,2004,2004,2004,6,1,1,Import,120,Cameroon,CMR,568,"Other Europe, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1,,1,,19,,,0
+H1,2004,2004,2004,6,1,2,Export,120,Cameroon,CMR,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,65162679,,65162679,,11377440,,,0
+H1,2004,2004,2004,6,1,2,Export,120,Cameroon,CMR,724,Spain,ESP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,898589626,,898589626,,172884082,,,0
+H1,2004,2004,2004,6,1,2,Export,120,Cameroon,CMR,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,293729875,,293729875,,59542021,,,0
+H1,2004,2004,2004,6,1,1,Import,120,Cameroon,CMR,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,971,,971,,22724,,,0
+H1,2004,2004,2004,6,1,2,Export,120,Cameroon,CMR,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,498633233,,498633233,,88495992,,,0
+H1,2004,2004,2004,6,1,1,Import,120,Cameroon,CMR,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,145015245,,145015245,,39431961,,,0
+H1,2004,2004,2004,6,1,2,Export,120,Cameroon,CMR,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1882619166,,1882619166,,431325310,,,0

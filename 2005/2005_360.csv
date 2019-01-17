@@ -1,0 +1,31 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,15649656949,,15649656949,,6796974904,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,21487971020,,21487971020,,8145844252,,,0
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,129298000,,129298000,,58170531,,,0
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,16,American Samoa,ASM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2,,2,,115,,,0
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,651227000,,651227000,,266778294,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2668825000,,2668825000,,1086196316,,,0
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2599105000,,2599105000,,1190066623,,,0
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1411033200,,1411033200,,611750336,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3927073000,,3927073000,,1483439321,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,62,,62,,145,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,22246000,,22246000,,7293088,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5887892321,,5887892321,,2253772634,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5469273000,,5469273000,,2015919202,,,0
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,434,Libya,LBY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,135032000,,135032000,,56202095,,,0
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1522102014,,1522102014,,686662382,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,230386078,,230386078,,86564855,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,350193000,,350193000,,123124434,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,37763,,37763,,140,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,238618000,,238618000,,91507490,,,0
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2113098000,,2113098000,,945273382,,,0
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,78275000,,78275000,,34616627,,,0
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5366000730,,5366000730,,2262949180,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,999803069,,999803069,,362909356,,,0
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,853888000,,853888000,,351721004,,,0
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,790598000,,790598000,,332784083,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,787483000,,787483000,,306570340,,,0
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3,,3,,252,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,62687000,,62687000,,21043728,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,10000,,10000,,5,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,843443727,,843443727,,307503198,,,0

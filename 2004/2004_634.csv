@@ -1,0 +1,23 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,32906815,,32906815,,8529110536,,,0
+H0,2004,2004,2004,6,1,3,Re-Export,634,Qatar,QAT,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,14552,,14552,,13008,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,44541,,44541,,12474455,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,48,Bahrain,BHR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6510,,6510,,5257,,,0
+H0,2004,2004,2004,6,1,3,Re-Export,634,Qatar,QAT,48,Bahrain,BHR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6510,,6510,,5257,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,207722,,207722,,61064684,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,75614,,75614,,20211246,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,17921960,,17921960,,4749043087,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,408,Dem. People's Rep. of Korea,PRK,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,140089,,140089,,34411572,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3499448,,3499448,,879226689,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,68957,,68957,,18612946,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,512,Oman,OMN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,792,,792,,2407,,,0
+H0,2004,2004,2004,6,1,3,Re-Export,634,Qatar,QAT,512,Oman,OMN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,792,,792,,2407,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,554,New Zealand,NZL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,214498,,214498,,52020546,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,586,Pakistan,PAK,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,417300,,417300,,104786792,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,608,Philippines,PHL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,619125,,619125,,164206591,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,699,India,IND,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1520076,,1520076,,379704627,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6206485,,6206485,,1562428104,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,764,Thailand,THA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1771959,,1771959,,443286518,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,7250,,7250,,5345,,,0
+H0,2004,2004,2004,6,1,3,Re-Export,634,Qatar,QAT,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,7250,,7250,,5345,,,0
+H0,2004,2004,2004,6,1,2,Export,634,Qatar,QAT,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,184489,,184489,,47619671,,,0

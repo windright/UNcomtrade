@@ -1,0 +1,42 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,9195969476,,9195969476,,5688221184,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16510424048,,16510424048,,9646130917,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,58639976,,58639976,,48124950,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,283130080,,283130080,,164673900,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5189686784,,5189686784,,3033825209,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,96,Brunei Darussalam,BRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,47232068,,47232068,,26907144,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,96,Brunei Darussalam,BRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2292128,,2292128,,1367099,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1382041472,,1382041472,,796558924,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,170,Colombia,COL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,93873424,,93873424,,47405433,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,178,Congo,COG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,134056576,,134056576,,99236592,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,339414528,,339414528,,186270652,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1041641984,,1041641984,,768541487,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,47188064,,47188064,,20234088,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,681690496,,681690496,,405523100,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,517458880,,517458880,,284732435,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,41297876,,41297876,,24870034,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,632578496,,632578496,,367011929,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1003309888,,1003309888,,597094535,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,416435840,,416435840,,233065907,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,338787136,,338787136,,269181980,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,59034416,,59034416,,28301014,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,554,New Zealand,NZL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,538664640,,538664640,,314406288,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,598,Papua New Guinea,PNG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,71742576,,71742576,,39320702,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,608,Philippines,PHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,946198528,,946198528,,552377734,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,160507632,,160507632,,95896792,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,98936304,,98936304,,54853345,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2236328704,,2236328704,,1239360194,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2320320768,,2320320768,,1324387497,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2272,,2272,,26719,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,930940800,,930940800,,561185694,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1333173504,,1333173504,,1044828182,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,297028992,,297028992,,176791673,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,81143856,,81143856,,48572962,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,37503280,,37503280,,22913603,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,764,Thailand,THA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2270570496,,2270570496,,1334827498,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1239254144,,1239254144,,699328046,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,76005992,,76005992,,36898204,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,65454492,,65454492,,26814217,,,0
+H3,2010,2010,2010,6,1,2,Export,458,Malaysia,MYS,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,146820288,,146820288,,90238419,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,418610176,,418610176,,183649443,,,0
+H3,2010,2010,2010,6,1,1,Import,458,Malaysia,MYS,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,127395968,,127395968,,84748476,,,0

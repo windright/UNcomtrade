@@ -1,0 +1,36 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2002,2002,2002,6,1,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,237946,,237946,,217167,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,86705624,,86705624,,16598258162,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,180133,,180133,,30261270,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5272916,,5272916,,1540967995,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,120,Cameroon,CMR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,601216,,601216,,100163825,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,124,Canada,CAN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1176889,,1176889,,229722107,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,152,Chile,CHL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,792266,,792266,,141197240,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,390261,,390261,,71836046,,,0
+H1,2002,2002,2002,6,1,1,Import,566,Nigeria,NGA,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,65505,,65505,,51181,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5388778,,5388778,,980565697,,,0
+H1,2002,2002,2002,6,1,1,Import,566,Nigeria,NGA,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,61520,,61520,,32124,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1920513,,1920513,,361173226,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,288,Ghana,GHA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1930218,,1930218,,354197506,,,0
+H1,2002,2002,2002,6,1,1,Import,566,Nigeria,NGA,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,22496,,22496,,14072,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5255394,,5255394,,963300141,,,0
+H1,2002,2002,2002,6,1,1,Import,566,Nigeria,NGA,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,877,,877,,7355,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3702993,,3702993,,654266600,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1554924,,1554924,,269983966,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3012560,,3012560,,550009901,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,260175,,260175,,41257704,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,129958,,129958,,22286276,,,0
+H1,2002,2002,2002,6,1,1,Import,566,Nigeria,NGA,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,15648,,15648,,5546,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,904873,,904873,,157211901,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1151095,,1151095,,209030679,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,540,New Caledonia,NCL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,129849,,129849,,25731278,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,604,Peru,PER,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,136528,,136528,,27772420,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2585617,,2585617,,491915271,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,686,Senegal,SEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,632631,,632631,,118574787,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,699,India,IND,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,11401181,,11401181,,2107143217,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,120439,,120439,,23866566,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2128613,,2128613,,388948662,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,724,Spain,ESP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5512830,,5512830,,1020486377,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,764,Thailand,THA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,583478,,583478,,109806816,,,0
+H1,2002,2002,2002,6,1,1,Import,566,Nigeria,NGA,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,71900,,71900,,106888,,,0
+H1,2002,2002,2002,6,1,2,Export,566,Nigeria,NGA,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,29849296,,29849296,,5606580688,,,0

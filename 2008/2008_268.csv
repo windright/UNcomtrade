@@ -1,0 +1,14 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2008,2008,2008,6,1,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,43009394,,43009394,,19534346,,,0
+H2,2008,2008,2008,6,1,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,35004938,,35004938,,24154738,,,0
+H2,2008,2008,2008,6,1,1,Import,268,Georgia,GEO,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,43009390,,43009390,,19533386,,,0
+H2,2008,2008,2008,6,1,2,Export,268,Georgia,GEO,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,43,,43,,48,,,0
+H2,2008,2008,2008,6,1,2,Export,268,Georgia,GEO,100,Bulgaria,BGR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,9679405,,9679405,,7526892,,,0
+H2,2008,2008,2008,6,1,2,Export,268,Georgia,GEO,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3,,3,,3,,,0
+H2,2008,2008,2008,6,1,2,Export,268,Georgia,GEO,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5,,5,,7,,,0
+H2,2008,2008,2008,6,1,2,Export,268,Georgia,GEO,292,Gibraltar,GIB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,509024,,509024,,239531,,,0
+H2,2008,2008,2008,6,1,2,Export,268,Georgia,GEO,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,27,,27,,22,,,0
+H2,2008,2008,2008,6,1,2,Export,268,Georgia,GEO,642,Romania,ROU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16757882,,16757882,,11621196,,,0
+H2,2008,2008,2008,6,1,2,Export,268,Georgia,GEO,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5,,5,,3,,,0
+H2,2008,2008,2008,6,1,1,Import,268,Georgia,GEO,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,960,,,0
+H2,2008,2008,2008,6,1,2,Export,268,Georgia,GEO,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8058544,,8058544,,4767035,,,0

@@ -1,0 +1,17 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2009,2009,2009,6,1,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,638,,638,,2408,,,0
+H3,2009,2009,2009,6,1,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,20433737563,,20433737563,,8053481495,,,0
+H3,2009,2009,2009,6,1,2,Export,170,Colombia,COL,52,Barbados,BRB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,33141297,,33141297,,14325878,,,0
+H3,2009,2009,2009,6,1,2,Export,170,Colombia,COL,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,994340193,,994340193,,404710443,,,0
+H3,2009,2009,2009,6,1,2,Export,170,Colombia,COL,196,Cyprus,CYP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,417348729,,417348729,,66658135,,,0
+H3,2009,2009,2009,6,1,2,Export,170,Colombia,COL,222,El Salvador,SLV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,53752020,,53752020,,32870200,,,0
+H3,2009,2009,2009,6,1,2,Export,170,Colombia,COL,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,832056750,,832056750,,350771572,,,0
+H3,2009,2009,2009,6,1,2,Export,170,Colombia,COL,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,61658856,,61658856,,32138496,,,0
+H3,2009,2009,2009,6,1,2,Export,170,Colombia,COL,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,796518647,,796518647,,341086358,,,0
+H3,2009,2009,2009,6,1,2,Export,170,Colombia,COL,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,798064911,,798064911,,338613267,,,0
+H3,2009,2009,2009,6,1,1,Import,170,Colombia,COL,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,162,,,0
+H3,2009,2009,2009,6,1,2,Export,170,Colombia,COL,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,290785845,,290785845,,120310428,,,0
+H3,2009,2009,2009,6,1,2,Export,170,Colombia,COL,838,Free Zones,,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,125720,,125720,,32536,,,0
+H3,2009,2009,2009,6,1,1,Import,170,Colombia,COL,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,29,,29,,1338,,,0
+H3,2009,2009,2009,6,1,2,Export,170,Colombia,COL,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16155944595,,16155944595,,6351964181,,,0
+H3,2009,2009,2009,6,1,1,Import,170,Colombia,COL,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,608,,608,,908,,,0

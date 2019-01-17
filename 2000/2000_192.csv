@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,192,Cuba,CUB,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1012410231,,1012410231,,279900996,,,0
+H1,2000,2000,2000,6,1,2,Export,192,Cuba,CUB,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,145195584,,145195584,,12364467,,,0
+H1,2000,2000,2000,6,1,1,Import,192,Cuba,CUB,44,Bahamas,BHS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,49121734,,49121734,,20767080,,,0
+H1,2000,2000,2000,6,1,1,Import,192,Cuba,CUB,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1,,1,,148,,,0
+H1,2000,2000,2000,6,1,1,Import,192,Cuba,CUB,170,Colombia,COL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,233526536,,233526536,,55217917,,,0
+H1,2000,2000,2000,6,1,2,Export,192,Cuba,CUB,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,33593636,,33593636,,2950890,,,0
+H1,2000,2000,2000,6,1,1,Import,192,Cuba,CUB,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,173,,173,,1115,,,0
+H1,2000,2000,2000,6,1,2,Export,192,Cuba,CUB,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,29989769,,29989769,,2151349,,,0
+H1,2000,2000,2000,6,1,2,Export,192,Cuba,CUB,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,81612179,,81612179,,7262228,,,0
+H1,2000,2000,2000,6,1,1,Import,192,Cuba,CUB,591,Panama,PAN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3,,3,,42,,,0
+H1,2000,2000,2000,6,1,1,Import,192,Cuba,CUB,724,Spain,ESP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1197,,1197,,5454,,,0
+H1,2000,2000,2000,6,1,1,Import,192,Cuba,CUB,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,729760587,,729760587,,203909240,,,0

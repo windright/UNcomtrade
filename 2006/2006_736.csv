@@ -1,0 +1,9 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2006,2006,2006,6,1,1,Import,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,472295,,472295,,528523,,,0
+H1,2006,2006,2006,6,1,1,Import,736,Fmr Sudan,SDN,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,255766,,255766,,105000,,,0
+H1,2006,2006,2006,6,1,1,Import,736,Fmr Sudan,SDN,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,77660,,77660,,212090,,,0
+H1,2006,2006,2006,6,1,1,Import,736,Fmr Sudan,SDN,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,156,,156,,1094,,,0
+H1,2006,2006,2006,6,1,1,Import,736,Fmr Sudan,SDN,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1067,,1067,,997,,,0
+H1,2006,2006,2006,6,1,1,Import,736,Fmr Sudan,SDN,699,India,IND,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,17540,,17540,,16507,,,0
+H1,2006,2006,2006,6,1,1,Import,736,Fmr Sudan,SDN,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,107626,,107626,,168438,,,0
+H1,2006,2006,2006,6,1,1,Import,736,Fmr Sudan,SDN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,12480,,12480,,24397,,,0

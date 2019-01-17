@@ -1,0 +1,15 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,17304053,,17304053,,1232932,,,0
+H1,2000,2000,2000,6,1,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,858,,858,,867,,,0
+H1,2000,2000,2000,6,1,1,Import,428,Latvia,LVA,233,Estonia,EST,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2941292,,2941292,,303945,,,0
+H1,2000,2000,2000,6,1,2,Export,428,Latvia,LVA,246,Finland,FIN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,20,,20,,30,,,0
+H1,2000,2000,2000,6,1,2,Export,428,Latvia,LVA,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,8,,8,,8,,,0
+H1,2000,2000,2000,6,1,2,Export,428,Latvia,LVA,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,45,,45,,44,,,0
+H1,2000,2000,2000,6,1,2,Export,428,Latvia,LVA,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3,,3,,5,,,0
+H1,2000,2000,2000,6,1,2,Export,428,Latvia,LVA,440,Lithuania,LTU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,510,,510,,483,,,0
+H1,2000,2000,2000,6,1,2,Export,428,Latvia,LVA,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,20,,20,,16,,,0
+H1,2000,2000,2000,6,1,2,Export,428,Latvia,LVA,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,187,,187,,200,,,0
+H1,2000,2000,2000,6,1,2,Export,428,Latvia,LVA,579,Norway,NOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,31,,31,,34,,,0
+H1,2000,2000,2000,6,1,2,Export,428,Latvia,LVA,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,21,,21,,18,,,0
+H1,2000,2000,2000,6,1,1,Import,428,Latvia,LVA,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,14362761,,14362761,,928987,,,0
+H1,2000,2000,2000,6,1,2,Export,428,Latvia,LVA,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,13,,13,,29,,,0

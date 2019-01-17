@@ -1,0 +1,66 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4146092,,4146092,,4961653,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,80481747754,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2455533,,2455533,,2683079,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,48,Bahrain,BHR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5015,,5015,,1417,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,192,Cuba,CUB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,339,,1260,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,192,Cuba,CUB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,339,,339,,1260,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,9979,,9979,,170399,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,317163104,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,500,,500,,580,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,1,,10,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,10,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,24,,24,,96,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12,,12,,168,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,28098,,16764,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,528,,528,,1907,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3555,,3555,,279,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,35000,,8750,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,35000,,35000,,8750,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,32957383000,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,400,Jordan,JOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,826940,,704266,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,404,Kenya,KEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,5200,,8800,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,404,Kenya,KEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5200,,5200,,8800,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,23852,,23852,,12354,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,31200,,62122,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,422,Lebanon,LBN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,109950,,146639,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,45326743900,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,512,Oman,OMN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,145500,,145500,,96009,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,512,Oman,OMN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,96850,,102943,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,12,,10,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12,,12,,10,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,568,"Other Europe, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,13789700,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,577,"Other Africa, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,1558236100,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,45,,100,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,45,,45,,100,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,586,Pakistan,PAK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,215,,215,,960,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,586,Pakistan,PAK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,511940,,137708,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,586,Pakistan,PAK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,511940,,511940,,137708,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,981179,,981179,,261156,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,3720,,7849,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3720,,3720,,7849,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,637,"North America and Central America, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,165476400,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2820656,,2820656,,4127916,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,270993,,250366,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1000,,1000,,1225,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,101972,,101972,,99590,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,116767,,43032,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,116767,,116767,,43032,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,1,,15,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,15,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,6,,25,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6,,6,,25,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,145,,145,,495,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,760,Syria,SYR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,90,,90,,721,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,760,Syria,SYR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,12225,,32417,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,760,Syria,SYR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,225,,225,,3597,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,806,,806,,20435,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2001,,2001,,9129,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,834,United Rep. of Tanzania,TZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,1065,,6392,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,834,United Rep. of Tanzania,TZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1065,,1065,,6392,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,50553,,50553,,158998,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,137897045,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,21,,21,,45,,,0
+H3,2008,2008,2008,6,1,1,Import,784,United Arab Emirates,ARE,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,38,,38,,952,,,0
+H3,2008,2008,2008,6,1,2,Export,784,United Arab Emirates,ARE,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,2487397,,3529036,,,0
+H3,2008,2008,2008,6,1,3,Re-Export,784,United Arab Emirates,ARE,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1779663,,1779663,,2462355,,,0

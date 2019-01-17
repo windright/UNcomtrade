@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,2002,2002,2002,6,1,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,963,,963,,2754,,,0
+H0,2002,2002,2002,6,1,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2228500000,,2228500000,,315318119,,,0
+H0,2002,2002,2002,6,1,1,Import,818,Egypt,EGY,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,963,,963,,2754,,,0
+H0,2002,2002,2002,6,1,2,Export,818,Egypt,EGY,300,Greece,GRC,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,78000000,,78000000,,11800221,,,0
+H0,2002,2002,2002,6,1,2,Export,818,Egypt,EGY,376,Israel,ISR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,235000000,,235000000,,26522345,,,0
+H0,2002,2002,2002,6,1,2,Export,818,Egypt,EGY,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,647400000,,647400000,,97310177,,,0
+H0,2002,2002,2002,6,1,2,Export,818,Egypt,EGY,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,94000000,,94000000,,12715929,,,0
+H0,2002,2002,2002,6,1,2,Export,818,Egypt,EGY,699,India,IND,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1095100000,,1095100000,,155906394,,,0
+H0,2002,2002,2002,6,1,2,Export,818,Egypt,EGY,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,79000000,,79000000,,11063053,,,0

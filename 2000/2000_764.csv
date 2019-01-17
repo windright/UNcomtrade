@@ -1,0 +1,38 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,27946039592,,27946039592,,6108432393,,,0
+H1,2000,2000,2000,6,1,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1629569761,,1629569761,,388495961,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,24,Angola,AGO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,130265000,,130265000,,23408722,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,285279776,,285279776,,70582300,,,0
+H1,2000,2000,2000,6,1,2,Export,764,Thailand,THA,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,355959072,,355959072,,94725562,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,96,Brunei Darussalam,BRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2178912256,,2178912256,,489318711,,,0
+H1,2000,2000,2000,6,1,2,Export,764,Thailand,THA,104,Myanmar,MMR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,180500,,180500,,50097,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,314116160,,314116160,,63518647,,,0
+H1,2000,2000,2000,6,1,2,Export,764,Thailand,THA,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,281944928,,281944928,,61624093,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,234015248,,234015248,,62020333,,,0
+H1,2000,2000,2000,6,1,2,Export,764,Thailand,THA,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,317419584,,317419584,,77360510,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1111991552,,1111991552,,231291090,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1172751744,,1172751744,,241169943,,,0
+H1,2000,2000,2000,6,1,2,Export,764,Thailand,THA,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,52481236,,52481236,,11789165,,,0
+H1,2000,2000,2000,6,1,2,Export,764,Thailand,THA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,38117928,,38117928,,12337872,,,0
+H1,2000,2000,2000,6,1,2,Export,764,Thailand,THA,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,33844712,,33844712,,6943131,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1470133760,,1470133760,,293108309,,,0
+H1,2000,2000,2000,6,1,2,Export,764,Thailand,THA,418,Lao People's Dem. Rep.,LAO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1261000,,1261000,,234854,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1309739648,,1309739648,,305024506,,,0
+H1,2000,2000,2000,6,1,2,Export,764,Thailand,THA,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,295,,295,,299,,,0
+H1,2000,2000,2000,6,1,2,Export,764,Thailand,THA,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,27681860,,27681860,,5586567,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,512,Oman,OMN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4388307456,,4388307456,,957880424,,,0
+H1,2000,2000,2000,6,1,2,Export,764,Thailand,THA,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,26727774,,26727774,,4796836,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,138064992,,138064992,,25089896,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,586,Pakistan,PAK,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,49141512,,49141512,,10640136,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,626,Timor-Leste,TLS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,49013068,,49013068,,11872668,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1144056320,,1144056320,,250025456,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3078521600,,3078521600,,681209508,,,0
+H1,2000,2000,2000,6,1,2,Export,764,Thailand,THA,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,347271360,,347271360,,80836068,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,128040728,,128040728,,29042966,,,0
+H1,2000,2000,2000,6,1,2,Export,764,Thailand,THA,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,30804172,,30804172,,6672874,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,130078000,,130078000,,22485923,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,7093973504,,7093973504,,1582448892,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,20,,20,,105,,,0
+H1,2000,2000,2000,6,1,2,Export,764,Thailand,THA,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,12,,12,,52,,,0
+H1,2000,2000,2000,6,1,2,Export,764,Thailand,THA,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,115875328,,115875328,,25537984,,,0
+H1,2000,2000,2000,6,1,1,Import,764,Thailand,THA,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3539637248,,3539637248,,758293858,,,0

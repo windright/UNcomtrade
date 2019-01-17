@@ -1,0 +1,19 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,6,1,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,10548,,,0
+H2,2003,2003,2003,6,1,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,92828448587,,92828448587,,16832097643,,,6
+H2,2003,2003,2003,6,1,2,Export,484,Mexico,MEX,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1364680474,,1364680474,,255836547,,,6
+H2,2003,2003,2003,6,1,2,Export,484,Mexico,MEX,214,Dominican Rep.,DOM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1103998264,,1103998264,,234448367,,,6
+H2,2003,2003,2003,6,1,2,Export,484,Mexico,MEX,222,El Salvador,SLV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,103957130,,103957130,,19516582,,,6
+H2,2003,2003,2003,6,1,2,Export,484,Mexico,MEX,376,Israel,ISR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,238857831,,238857831,,41011426,,,6
+H2,2003,2003,2003,6,1,2,Export,484,Mexico,MEX,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,60158624,,60158624,,11963213,,,6
+H2,2003,2003,2003,6,1,2,Export,484,Mexico,MEX,388,Jamaica,JAM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,330545967,,330545967,,68152676,,,6
+H2,2003,2003,2003,6,1,2,Export,484,Mexico,MEX,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,533128228,,533128228,,103400746,,,6
+H2,2003,2003,2003,6,1,2,Export,484,Mexico,MEX,530,Neth. Antilles,ANT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2933639045,,2933639045,,504830748,,,6
+H2,2003,2003,2003,6,1,2,Export,484,Mexico,MEX,533,Aruba,ABW,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2502481444,,2502481444,,438721473,,,6
+H2,2003,2003,2003,6,1,2,Export,484,Mexico,MEX,558,Nicaragua,NIC,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,104062972,,104062972,,21908837,,,6
+H2,2003,2003,2003,6,1,2,Export,484,Mexico,MEX,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,750979905,,750979905,,131351480,,,6
+H2,2003,2003,2003,6,1,2,Export,484,Mexico,MEX,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2622123433,,2622123433,,444459879,,,6
+H2,2003,2003,2003,6,1,2,Export,484,Mexico,MEX,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6899039437,,6899039437,,1169403885,,,6
+H2,2003,2003,2003,6,1,1,Import,484,Mexico,MEX,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,10548,,,0
+H2,2003,2003,2003,6,1,2,Export,484,Mexico,MEX,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,624593039,,624593039,,108441010,,,6
+H2,2003,2003,2003,6,1,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,72656202793,,72656202793,,13278650774,,,6

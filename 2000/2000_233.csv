@@ -1,0 +1,12 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,12721165,,12721165,,1881477,,,0
+H1,2000,2000,2000,6,1,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1295615,,1295615,,177424,,,0
+H1,2000,2000,2000,6,1,2,Export,233,Estonia,EST,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,40000,,40000,,13344,,,0
+H1,2000,2000,2000,6,1,1,Import,233,Estonia,EST,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,937836,,937836,,165998,,,0
+H1,2000,2000,2000,6,1,2,Export,233,Estonia,EST,428,Latvia,LVA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,957839,,957839,,127017,,,0
+H1,2000,2000,2000,6,1,2,Export,233,Estonia,EST,440,Lithuania,LTU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,237016,,237016,,26604,,,0
+H1,2000,2000,2000,6,1,2,Export,233,Estonia,EST,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2960,,2960,,846,,,0
+H1,2000,2000,2000,6,1,1,Import,233,Estonia,EST,568,"Other Europe, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,442,,442,,3353,,,0
+H1,2000,2000,2000,6,1,1,Import,233,Estonia,EST,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,11782865,,11782865,,1712047,,,0
+H1,2000,2000,2000,6,1,1,Import,233,Estonia,EST,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,22,,22,,78,,,0
+H1,2000,2000,2000,6,1,2,Export,233,Estonia,EST,804,Ukraine,UKR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,57800,,57800,,9612,,,0

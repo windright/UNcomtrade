@@ -1,0 +1,20 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,6,1,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,185917166,,185917166,,29706852,,,0
+H2,2002,2002,2002,6,1,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,15725291039,,15725291039,,2577725215,,,0
+H2,2002,2002,2002,6,1,1,Import,170,Colombia,COL,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,133738790,,133738790,,19809349,,,0
+H2,2002,2002,2002,6,1,2,Export,170,Colombia,COL,44,Bahamas,BHS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,102898089,,102898089,,18838960,,,0
+H2,2002,2002,2002,6,1,1,Import,170,Colombia,COL,68,Bolivia (Plurinational State of),BOL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,126,,126,,422,,,0
+H2,2002,2002,2002,6,1,1,Import,170,Colombia,COL,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,32,,,0
+H2,2002,2002,2002,6,1,2,Export,170,Colombia,COL,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,75722493,,75722493,,12266014,,,0
+H2,2002,2002,2002,6,1,2,Export,170,Colombia,COL,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,77040936,,77040936,,9488089,,,0
+H2,2002,2002,2002,6,1,1,Import,170,Colombia,COL,152,Chile,CHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6,,6,,202,,,0
+H2,2002,2002,2002,6,1,2,Export,170,Colombia,COL,192,Cuba,CUB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,203693490,,203693490,,35368092,,,0
+H2,2002,2002,2002,6,1,1,Import,170,Colombia,COL,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,51938000,,51938000,,9860268,,,0
+H2,2002,2002,2002,6,1,2,Export,170,Colombia,COL,591,Panama,PAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,427956102,,427956102,,69167336,,,0
+H2,2002,2002,2002,6,1,1,Import,170,Colombia,COL,604,Peru,PER,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,15,,15,,184,,,0
+H2,2002,2002,2002,6,1,2,Export,170,Colombia,COL,604,Peru,PER,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,113139579,,113139579,,19244739,,,0
+H2,2002,2002,2002,6,1,2,Export,170,Colombia,COL,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,346758741,,346758741,,57727314,,,0
+H2,2002,2002,2002,6,1,2,Export,170,Colombia,COL,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,276732939,,276732939,,42957448,,,0
+H2,2002,2002,2002,6,1,1,Import,170,Colombia,COL,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4685,,4685,,316,,,0
+H2,2002,2002,2002,6,1,2,Export,170,Colombia,COL,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,14101348670,,14101348670,,2312667223,,,0
+H2,2002,2002,2002,6,1,1,Import,170,Colombia,COL,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,235540,,235540,,36079,,,0

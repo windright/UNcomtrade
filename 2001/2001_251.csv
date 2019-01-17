@@ -1,0 +1,45 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,85259777242,,85259777242,,15435300417,,,6
+H1,2001,2001,2001,6,1,2,Export,251,France,FRA,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,55637544,,55637544,,7852788,,,6
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4138965500,,4138965500,,853614203,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,24,Angola,AGO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3684493000,,3684493000,,656671300,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,427258000,,427258000,,81355406,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,90520000,,90520000,,13914065,,,0
+H1,2001,2001,2001,6,1,2,Export,251,France,FRA,40,Austria,AUT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,72300,,72300,,236390,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,270500,,270500,,71653,,,0
+H1,2001,2001,2001,6,1,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,15083900,,15083900,,2749819,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,630427000,,630427000,,83052680,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,120,Cameroon,CMR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,109836000,,109836000,,19569256,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,178,Congo,COG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,309499000,,309499000,,45974183,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,693776500,,693776500,,122590656,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,201047000,,201047000,,28992486,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,233,Estonia,EST,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,128973000,,128973000,,26628842,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1234951000,,1234951000,,194498650,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2623547,,2623547,,208689,,,6
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3773151000,,3773151000,,636719597,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5207428000,,5207428000,,885508625,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,7900,,7900,,7165,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,800,,800,,3583,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1283010000,,1283010000,,238554331,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1238357000,,1238357000,,205246559,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,428,Latvia,LVA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,560432000,,560432000,,100537737,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,434,Libya,LBY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2957223000,,2957223000,,582783900,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,440,Lithuania,LTU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,100032000,,100032000,,16722852,,,0
+H1,2001,2001,2001,6,1,2,Export,251,France,FRA,442,Luxembourg,LUX,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,99000,,99000,,34026,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,37492000,,37492000,,6440685,,,0
+H1,2001,2001,2001,6,1,2,Export,251,France,FRA,504,Morocco,MAR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6344,,6344,,895,,,6
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,562,Niger,NER,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,120039000,,120039000,,23403573,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5120091000,,5120091000,,963482918,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,579,Norway,NOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,18946110000,,18946110000,,3566702744,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,7701023500,,7701023500,,1302866075,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,11358835000,,11358835000,,1914646044,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,724,Spain,ESP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,51195,,51195,,28661,,,6
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,158770000,,158770000,,26675416,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,760,Syria,SYR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2997665000,,2997665000,,533948982,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,267180000,,267180000,,44653982,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,788,Tunisia,TUN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,327515000,,327515000,,64459692,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,10727247200,,10727247200,,2032463733,,,0
+H1,2001,2001,2001,6,1,2,Export,251,France,FRA,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,40376000,,40376000,,4831658,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5100,,5100,,6270,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,604406500,,604406500,,136690122,,,0
+H1,2001,2001,2001,6,1,1,Import,251,France,FRA,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,121065000,,121065000,,25605103,,,0

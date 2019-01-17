@@ -1,0 +1,17 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2002,2002,2002,6,1,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2375246466,,2375246466,,418362266,,,0
+H1,2002,2002,2002,6,1,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,509389463,,509389463,,91142201,,,0
+H1,2002,2002,2002,6,1,1,Import,384,Côte d'Ivoire,CIV,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,86426146,,86426146,,19516708,,,0
+H1,2002,2002,2002,6,1,1,Import,384,Côte d'Ivoire,CIV,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,45907924,,45907924,,7505858,,,0
+H1,2002,2002,2002,6,1,1,Import,384,Côte d'Ivoire,CIV,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1554478,,1554478,,907928,,,0
+H1,2002,2002,2002,6,1,1,Import,384,Côte d'Ivoire,CIV,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,56064336,,56064336,,9142452,,,0
+H1,2002,2002,2002,6,1,1,Import,384,Côte d'Ivoire,CIV,288,Ghana,GHA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4209921,,4209921,,651492,,,0
+H1,2002,2002,2002,6,1,1,Import,384,Côte d'Ivoire,CIV,434,Libya,LBY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,122384024,,122384024,,22388655,,,0
+H1,2002,2002,2002,6,1,2,Export,384,Côte d'Ivoire,CIV,478,Mauritania,MRT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,20000,,20000,,2585,,,0
+H1,2002,2002,2002,6,1,2,Export,384,Côte d'Ivoire,CIV,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,50924160,,50924160,,9690734,,,0
+H1,2002,2002,2002,6,1,1,Import,384,Côte d'Ivoire,CIV,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2000578558,,2000578558,,347987753,,,0
+H1,2002,2002,2002,6,1,1,Import,384,Côte d'Ivoire,CIV,686,Senegal,SEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,180872,,180872,,108127,,,0
+H1,2002,2002,2002,6,1,2,Export,384,Côte d'Ivoire,CIV,724,Spain,ESP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,255167479,,255167479,,45493878,,,0
+H1,2002,2002,2002,6,1,2,Export,384,Côte d'Ivoire,CIV,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,50,,50,,151,,,0
+H1,2002,2002,2002,6,1,2,Export,384,Côte d'Ivoire,CIV,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,203277774,,203277774,,35954855,,,0
+H1,2002,2002,2002,6,1,1,Import,384,Côte d'Ivoire,CIV,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,57940207,,57940207,,10153292,,,0

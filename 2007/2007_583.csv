@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2007,2007,2007,6,1,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,462876,,462876,,219032,,,6
+H2,2007,2007,2007,6,1,4,Re-Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,245,,245,,116,,,6
+H2,2007,2007,2007,6,1,1,Import,583,FS Micronesia,FSM,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,845,,845,,400,,,6
+H2,2007,2007,2007,6,1,1,Import,583,FS Micronesia,FSM,316,Guam,GUM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,247250,,247250,,116998,,,6
+H2,2007,2007,2007,6,1,1,Import,583,FS Micronesia,FSM,583,FS Micronesia,FSM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,245,,245,,116,,,6
+H2,2007,2007,2007,6,1,4,Re-Import,583,FS Micronesia,FSM,583,FS Micronesia,FSM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,245,,245,,116,,,6
+H2,2007,2007,2007,6,1,1,Import,583,FS Micronesia,FSM,608,Philippines,PHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4687,,4687,,2218,,,6
+H2,2007,2007,2007,6,1,1,Import,583,FS Micronesia,FSM,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3764,,3764,,1781,,,6
+H2,2007,2007,2007,6,1,1,Import,583,FS Micronesia,FSM,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,206085,,206085,,97519,,,6

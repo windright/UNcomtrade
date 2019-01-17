@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,6,1,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10039835157,,10039835157,,3775524457,,,6
+H2,2005,2005,2005,6,1,1,Import,152,Chile,CHL,24,Angola,AGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3014049280,,3014049280,,1197146448,,,0
+H2,2005,2005,2005,6,1,1,Import,152,Chile,CHL,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3743873632,,3743873632,,1376688851,,,0
+H2,2005,2005,2005,6,1,1,Import,152,Chile,CHL,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1441290868,,1441290868,,532078392,,,0
+H2,2005,2005,2005,6,1,1,Import,152,Chile,CHL,170,Colombia,COL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,211295350,,211295350,,61592117,,,0
+H2,2005,2005,2005,6,1,1,Import,152,Chile,CHL,178,Congo,COG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,128585288,,128585288,,64428058,,,0
+H2,2005,2005,2005,6,1,1,Import,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,478471285,,478471285,,180384507,,,0
+H2,2005,2005,2005,6,1,1,Import,152,Chile,CHL,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1621485,,1621485,,444592,,,0
+H2,2005,2005,2005,6,1,1,Import,152,Chile,CHL,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,79096096,,79096096,,28686953,,,0
+H2,2005,2005,2005,6,1,1,Import,152,Chile,CHL,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,612290763,,612290763,,248960174,,,0
+H2,2005,2005,2005,6,1,1,Import,152,Chile,CHL,604,Peru,PER,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,329261075,,329261075,,85114108,,,0
+H2,2005,2005,2005,6,1,1,Import,152,Chile,CHL,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,35,,35,,255,,,6

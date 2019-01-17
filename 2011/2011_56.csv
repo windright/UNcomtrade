@@ -1,0 +1,36 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,33770120084,,33770120084,,27183906887,,,6
+H3,2011,2011,2011,6,1,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2260230251,,2260230251,,2068006959,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1614054594,,1614054594,,1479001412,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,24,Angola,AGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,187,,187,,151,,,6
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,18,,18,,607,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,68,Bolivia (Plurinational State of),BOL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,18540283,,18540283,,17266435,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,195,,195,,157,,,6
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,178,Congo,COG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,132,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,110826032,,110826032,,95561214,,,0
+H3,2011,2011,2011,6,1,2,Export,56,Belgium,BEL,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,535,,535,,6770,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,419,,419,,487,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5606,,5606,,4838,,,0
+H3,2011,2011,2011,6,1,2,Export,56,Belgium,BEL,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,820716,,820716,,941279,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,288,Ghana,GHA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,132,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,376,Israel,ISR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,9909063,,9909063,,6884446,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,176,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,29762859,,29762859,,25495539,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,215,,215,,186,,,0
+H3,2011,2011,2011,6,1,2,Export,56,Belgium,BEL,442,Luxembourg,LUX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10,,10,,109,,,0
+H3,2011,2011,2011,6,1,2,Export,56,Belgium,BEL,466,Mali,MLI,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,65,,65,,714,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,512,Oman,OMN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,464,,464,,373,,,6
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,27624523705,,27624523705,,22195803260,,,0
+H3,2011,2011,2011,6,1,2,Export,56,Belgium,BEL,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2259408886,,2259408886,,2067056862,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,337738882,,337738882,,308178170,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2835029057,,2835029057,,2207058495,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,688,Serbia,SRB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,14,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,526,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,41,,,0
+H3,2011,2011,2011,6,1,2,Export,56,Belgium,BEL,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,111,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6475,,6475,,3211,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,277,,277,,223,,,6
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,504753978,,504753978,,420761917,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10445,,10445,,8408,,,6
+H3,2011,2011,2011,6,1,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,38,,38,,1114,,,0
+H3,2011,2011,2011,6,1,1,Import,56,Belgium,BEL,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,684957320,,684957320,,427876340,,,0

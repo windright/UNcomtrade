@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,6,1,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",7,Volume in litres,,,7431044630,,6389548263,,1171534130,,,0
+H2,2002,2002,2002,6,1,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",7,Volume in litres,,,10,,9,,28,,,0
+H2,2002,2002,2002,6,1,1,Import,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",7,Volume in litres,,,93040000,,80000000,,16428445,,,0
+H2,2002,2002,2002,6,1,1,Import,504,Morocco,MAR,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",7,Volume in litres,,,1818148138,,1563326000,,283596992,,,0
+H2,2002,2002,2002,6,1,1,Import,504,Morocco,MAR,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",7,Volume in litres,,,1735391883,,1492168429,,273732901,,,0
+H2,2002,2002,2002,6,1,1,Import,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",7,Volume in litres,,,421482902,,362410062,,69175192,,,0
+H2,2002,2002,2002,6,1,1,Import,504,Morocco,MAR,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",7,Volume in litres,,,3362981672,,2891643742,,528600208,,,0
+H2,2002,2002,2002,6,1,1,Import,504,Morocco,MAR,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",7,Volume in litres,,,35,,30,,392,,,0
+H2,2002,2002,2002,6,1,2,Export,504,Morocco,MAR,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",7,Volume in litres,,,10,,9,,28,,,0

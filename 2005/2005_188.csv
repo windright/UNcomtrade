@@ -1,0 +1,12 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,6,1,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,580668200,,580668200,,204960197,,,0
+H2,2005,2005,2005,6,1,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2046,,2046,,1860,,,0
+H2,2005,2005,2005,6,1,1,Import,188,Costa Rica,CRI,152,Chile,CHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,41921038,,41921038,,14155796,,,0
+H2,2005,2005,2005,6,1,1,Import,188,Costa Rica,CRI,170,Colombia,COL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,77369664,,77369664,,30371387,,,0
+H2,2005,2005,2005,6,1,1,Import,188,Costa Rica,CRI,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,30196000,,30196000,,9504453,,,0
+H2,2005,2005,2005,6,1,2,Export,188,Costa Rica,CRI,558,Nicaragua,NIC,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,300,,300,,413,,,0
+H2,2005,2005,2005,6,1,1,Import,188,Costa Rica,CRI,591,Panama,PAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,28464910,,28464910,,10060822,,,0
+H2,2005,2005,2005,6,1,2,Export,188,Costa Rica,CRI,591,Panama,PAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1746,,1746,,1447,,,0
+H2,2005,2005,2005,6,1,1,Import,188,Costa Rica,CRI,616,Poland,POL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,146,,,0
+H2,2005,2005,2005,6,1,1,Import,188,Costa Rica,CRI,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,41246,,41246,,55241,,,0
+H2,2005,2005,2005,6,1,1,Import,188,Costa Rica,CRI,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,402675340,,402675340,,140812352,,,0

@@ -1,0 +1,31 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,60427829724,,60427829724,,10806162018,,,0
+H1,2001,2001,2001,6,1,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,85351338,,85351338,,14679571,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4746732576,,4746732576,,1119903004,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,725262976,,725262976,,99131565,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1261,,1261,,163922,,,0
+H1,2001,2001,2001,6,1,2,Export,528,Netherlands,NLD,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,47302708,,47302708,,7316496,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2530813,,2530813,,1028319,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,74877000,,74877000,,10218696,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1462157056,,1462157056,,257128124,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,34917280,,34917280,,8633222,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,233,Estonia,EST,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,57239485,,57239485,,14746704,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,99361088,,99361088,,12677525,,,0
+H1,2001,2001,2001,6,1,2,Export,528,Netherlands,NLD,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,19015432,,19015432,,3225600,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1157175040,,1157175040,,191402595,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,4718176256,,4718176256,,795777389,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1935,,1935,,7166,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6095985152,,6095985152,,955008288,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,434,Libya,LBY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,25276836,,25276836,,5857298,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1411758732,,1411758732,,269522593,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,579,Norway,NOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,10469442368,,10469442368,,2000742440,,,0
+H1,2001,2001,2001,6,1,2,Export,528,Netherlands,NLD,579,Norway,NOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,19033100,,19033100,,4136579,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6924467226,,6924467226,,1200658294,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,10991259648,,10991259648,,1885727467,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,760,Syria,SYR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,224912000,,224912000,,29902764,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,788,Tunisia,TUN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,17248752,,17248752,,4596980,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,10694980888,,10694980888,,1880090523,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2212,,2212,,2687,,,0
+H1,2001,2001,2001,6,1,2,Export,528,Netherlands,NLD,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,98,,98,,896,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,460240736,,460240736,,55713751,,,0
+H1,2001,2001,2001,6,1,1,Import,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,33822408,,33822408,,7520702,,,0

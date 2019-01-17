@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,1726608467,,,0
+H1,2001,2001,2001,6,1,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,1391168,,,0
+H1,2001,2001,2001,6,1,1,Import,152,Chile,CHL,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,1331611786,,,0
+H1,2001,2001,2001,6,1,1,Import,152,Chile,CHL,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,81458982,,,0
+H1,2001,2001,2001,6,1,1,Import,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,32821678,,,0
+H1,2001,2001,2001,6,1,1,Import,152,Chile,CHL,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,5657940,,,0
+H1,2001,2001,2001,6,1,1,Import,152,Chile,CHL,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,47001296,,,0
+H1,2001,2001,2001,6,1,1,Import,152,Chile,CHL,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,113917438,,,0
+H1,2001,2001,2001,6,1,1,Import,152,Chile,CHL,604,Peru,PER,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,71559119,,,0
+H1,2001,2001,2001,6,1,1,Import,152,Chile,CHL,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,847,,,0
+H1,2001,2001,2001,6,1,2,Export,152,Chile,CHL,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,1391168,,,0
+H1,2001,2001,2001,6,1,1,Import,152,Chile,CHL,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,42579381,,,0

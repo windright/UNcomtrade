@@ -1,0 +1,19 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2007,2007,2007,6,1,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,341,,341,,161,,,6
+H2,2007,2007,2007,6,1,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,5077107533,,,0
+H2,2007,2007,2007,6,1,2,Export,96,Brunei Darussalam,BRN,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,1051148768,,,0
+H2,2007,2007,2007,6,1,2,Export,96,Brunei Darussalam,BRN,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,200855851,,,0
+H2,2007,2007,2007,6,1,2,Export,96,Brunei Darussalam,BRN,360,Indonesia,IDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,1857375612,,,0
+H2,2007,2007,2007,6,1,2,Export,96,Brunei Darussalam,BRN,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,432259336,,,0
+H2,2007,2007,2007,6,1,2,Export,96,Brunei Darussalam,BRN,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,754017385,,,0
+H2,2007,2007,2007,6,1,1,Import,96,Brunei Darussalam,BRN,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,198,,198,,94,,,6
+H2,2007,2007,2007,6,1,2,Export,96,Brunei Darussalam,BRN,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,22575145,,,0
+H2,2007,2007,2007,6,1,1,Import,96,Brunei Darussalam,BRN,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,129,,129,,61,,,6
+H2,2007,2007,2007,6,1,2,Export,96,Brunei Darussalam,BRN,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,665,,,0
+H2,2007,2007,2007,6,1,2,Export,96,Brunei Darussalam,BRN,554,New Zealand,NZL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,165587226,,,0
+H2,2007,2007,2007,6,1,2,Export,96,Brunei Darussalam,BRN,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,181761411,,,0
+H2,2007,2007,2007,6,1,2,Export,96,Brunei Darussalam,BRN,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,22920030,,,0
+H2,2007,2007,2007,6,1,1,Import,96,Brunei Darussalam,BRN,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,14,,14,,7,,,6
+H2,2007,2007,2007,6,1,2,Export,96,Brunei Darussalam,BRN,764,Thailand,THA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,102410982,,,0
+H2,2007,2007,2007,6,1,2,Export,96,Brunei Darussalam,BRN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,150,,,0
+H2,2007,2007,2007,6,1,2,Export,96,Brunei Darussalam,BRN,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,286194973,,,0

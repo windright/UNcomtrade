@@ -1,0 +1,16 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2012,2012,2012,6,1,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3595946565,,3595946565,,2933268756,,,6
+H3,2012,2012,2012,6,1,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4100794913,,4100794913,,3022647392,,,6
+H3,2012,2012,2012,6,1,1,Import,818,Egypt,EGY,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,265178024,,265178024,,216309781,,,6
+H3,2012,2012,2012,6,1,2,Export,818,Egypt,EGY,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,44025190,,44025190,,32450447,,,6
+H3,2012,2012,2012,6,1,1,Import,818,Egypt,EGY,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,824034510,,824034510,,672177586,,,6
+H3,2012,2012,2012,6,1,2,Export,818,Egypt,EGY,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,829863215,,829863215,,611682353,,,6
+H3,2012,2012,2012,6,1,2,Export,818,Egypt,EGY,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,46936058,,46936058,,34596013,,,6
+H3,2012,2012,2012,6,1,1,Import,818,Egypt,EGY,400,Jordan,JOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,136730301,,136730301,,111533003,,,6
+H3,2012,2012,2012,6,1,1,Import,818,Egypt,EGY,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2055803572,,2055803572,,1676950500,,,6
+H3,2012,2012,2012,6,1,2,Export,818,Egypt,EGY,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,74694374,,74694374,,55056339,,,6
+H3,2012,2012,2012,6,1,1,Import,818,Egypt,EGY,512,Oman,OMN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,74302590,,74302590,,60609762,,,6
+H3,2012,2012,2012,6,1,2,Export,818,Egypt,EGY,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2147388358,,2147388358,,1582814542,,,6
+H3,2012,2012,2012,6,1,1,Import,818,Egypt,EGY,724,Spain,ESP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,239897568,,239897568,,195688125,,,6
+H3,2012,2012,2012,6,1,2,Export,818,Egypt,EGY,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,77108918,,77108918,,56836071,,,6
+H3,2012,2012,2012,6,1,2,Export,818,Egypt,EGY,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,880778799,,880778799,,649211628,,,6

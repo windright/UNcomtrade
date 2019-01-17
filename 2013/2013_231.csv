@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2013,2013,2013,6,1,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,101380,,101380,,222054,,,0
+H3,2013,2013,2013,6,1,1,Import,231,Ethiopia,ETH,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,646,,646,,5442,,,0
+H3,2013,2013,2013,6,1,1,Import,231,Ethiopia,ETH,480,Mauritius,MUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,20,,20,,3722,,,0
+H3,2013,2013,2013,6,1,1,Import,231,Ethiopia,ETH,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,59,,,0
+H3,2013,2013,2013,6,1,1,Import,231,Ethiopia,ETH,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,260,,260,,332,,,0
+H3,2013,2013,2013,6,1,1,Import,231,Ethiopia,ETH,729,Sudan,SDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,34,,,0
+H3,2013,2013,2013,6,1,1,Import,231,Ethiopia,ETH,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,8,,8,,179,,,0
+H3,2013,2013,2013,6,1,1,Import,231,Ethiopia,ETH,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,19,,,0
+H3,2013,2013,2013,6,1,1,Import,231,Ethiopia,ETH,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,100439,,100439,,212267,,,0

@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1549558,,1549558,,149950,,,0
+H1,2000,2000,2000,6,1,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,79331844,,79331844,,12703760,,,0
+H1,2000,2000,2000,6,1,2,Export,268,Georgia,GEO,51,Armenia,ARM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6564573,,6564573,,983005,,,0
+H1,2000,2000,2000,6,1,2,Export,268,Georgia,GEO,196,Cyprus,CYP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,7908945,,7908945,,979115,,,0
+H1,2000,2000,2000,6,1,2,Export,268,Georgia,GEO,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6,,6,,20,,,0
+H1,2000,2000,2000,6,1,1,Import,268,Georgia,GEO,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1549558,,1549558,,149950,,,0
+H1,2000,2000,2000,6,1,2,Export,268,Georgia,GEO,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,13733529,,13733529,,2536530,,,0
+H1,2000,2000,2000,6,1,2,Export,268,Georgia,GEO,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,44109946,,44109946,,7138144,,,0
+H1,2000,2000,2000,6,1,2,Export,268,Georgia,GEO,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,7014825,,7014825,,1066846,,,0
+H1,2000,2000,2000,6,1,2,Export,268,Georgia,GEO,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,20,,20,,100,,,0

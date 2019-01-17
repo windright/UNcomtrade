@@ -1,0 +1,30 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,16817234045,,16817234045,,4027366911,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,26517548229,,26517548229,,5621004057,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,700030201,,700030201,,173249414,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,383029421,,383029421,,94687047,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,736016117,,736016117,,180223727,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3150325000,,3150325000,,686539143,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,478073281,,478073281,,113168000,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1467467511,,1467467511,,360136448,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3499140000,,3499140000,,727182585,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,245721731,,245721731,,53679852,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,8741886000,,8741886000,,1877617520,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5355423819,,5355423819,,1131082837,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,109726000,,109726000,,30861662,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,434,Libya,LBY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,236444000,,236444000,,53532675,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1249800497,,1249800497,,299547702,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,141289000,,141289000,,28612426,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,860867210,,860867210,,169708334,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,76770000,,76770000,,14896540,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3589610656,,3589610656,,860327248,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,407834000,,407834000,,99240747,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,103105000,,103105000,,21856971,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,646,Rwanda,RWA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,252255000,,252255000,,65659162,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5152007014,,5152007014,,1206683832,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1583221000,,1583221000,,327276925,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1045351000,,1045351000,,258829337,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,640267616,,640267616,,148428444,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1335962200,,1335962200,,296020390,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1669559000,,1669559000,,340210386,,,0
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,123600000,,123600000,,29111614,,,0

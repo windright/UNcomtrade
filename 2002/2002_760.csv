@@ -1,0 +1,16 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2002,2002,2002,6,1,2,Export,760,Syria,SYR,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,24301727000,,24301727000,,17483554040,,,0
+H1,2002,2002,2002,6,1,2,Export,760,Syria,SYR,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,80033000,,80033000,,47136288,,,0
+H1,2002,2002,2002,6,1,2,Export,760,Syria,SYR,100,Bulgaria,BGR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,77354000,,77354000,,51508233,,,0
+H1,2002,2002,2002,6,1,2,Export,760,Syria,SYR,191,Croatia,HRV,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1046233000,,1046233000,,787927833,,,0
+H1,2002,2002,2002,6,1,2,Export,760,Syria,SYR,196,Cyprus,CYP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,618374000,,618374000,,445677762,,,0
+H1,2002,2002,2002,6,1,2,Export,760,Syria,SYR,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5136434000,,5136434000,,3708722010,,,0
+H1,2002,2002,2002,6,1,2,Export,760,Syria,SYR,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,935581000,,935581000,,634422825,,,0
+H1,2002,2002,2002,6,1,2,Export,760,Syria,SYR,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,10746678000,,10746678000,,7814390749,,,0
+H1,2002,2002,2002,6,1,2,Export,760,Syria,SYR,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,907743000,,907743000,,658742597,,,0
+H1,2002,2002,2002,6,1,2,Export,760,Syria,SYR,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,403298000,,403298000,,272038112,,,0
+H1,2002,2002,2002,6,1,2,Export,760,Syria,SYR,642,Romania,ROU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,83171000,,83171000,,70479398,,,0
+H1,2002,2002,2002,6,1,2,Export,760,Syria,SYR,724,Spain,ESP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1061137000,,1061137000,,805122426,,,0
+H1,2002,2002,2002,6,1,2,Export,760,Syria,SYR,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2330774000,,2330774000,,1603671301,,,0
+H1,2002,2002,2002,6,1,2,Export,760,Syria,SYR,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,701753000,,701753000,,451975322,,,0
+H1,2002,2002,2002,6,1,2,Export,760,Syria,SYR,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,173164000,,173164000,,131739183,,,0

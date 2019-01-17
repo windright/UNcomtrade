@@ -1,0 +1,12 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,6,1,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,355300,,,0
+H2,2003,2003,2003,6,1,4,Re-Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,441,,,0
+H2,2003,2003,2003,6,1,1,Import,583,FS Micronesia,FSM,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,86027,,,0
+H2,2003,2003,2003,6,1,1,Import,583,FS Micronesia,FSM,316,Guam,GUM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,94853,,,0
+H2,2003,2003,2003,6,1,1,Import,583,FS Micronesia,FSM,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,884,,,0
+H2,2003,2003,2003,6,1,1,Import,583,FS Micronesia,FSM,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,40094,,,0
+H2,2003,2003,2003,6,1,1,Import,583,FS Micronesia,FSM,580,N. Mariana Isds,MNP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,15531,,,0
+H2,2003,2003,2003,6,1,1,Import,583,FS Micronesia,FSM,583,FS Micronesia,FSM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,441,,,0
+H2,2003,2003,2003,6,1,4,Re-Import,583,FS Micronesia,FSM,583,FS Micronesia,FSM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,441,,,0
+H2,2003,2003,2003,6,1,1,Import,583,FS Micronesia,FSM,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,17629,,,0
+H2,2003,2003,2003,6,1,1,Import,583,FS Micronesia,FSM,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",1,No Quantity,,,,,,,99841,,,0

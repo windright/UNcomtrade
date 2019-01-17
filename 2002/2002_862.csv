@@ -1,0 +1,59 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2002,2002,2002,6,1,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,101201615,,101201615,,5877925,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,18322785000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,28,Antigua and Barbuda,ATG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,5228000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,1968000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,44,Bahamas,BHS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,174092000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,58209000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,60,Bermuda,BMU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,294000,,,0
+H1,2002,2002,2002,6,1,1,Import,862,Venezuela,VEN,68,Bolivia (Plurinational State of),BOL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,7,,7,,400,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,422558000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,84,Belize,BLZ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,834000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,124,Canada,CAN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,218784000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,152,Chile,CHL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,44209000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,156,China,CHN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,20296000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,170,Colombia,COL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,46897000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,188,Costa Rica,CRI,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,239428000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,212,Dominica,DMA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,213000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,214,Dominican Rep.,DOM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,599759000,,,0
+H1,2002,2002,2002,6,1,1,Import,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,722,,722,,11769,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,110518000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,222,El Salvador,SLV,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,17583000,,,0
+H1,2002,2002,2002,6,1,1,Import,862,Venezuela,VEN,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,306,,306,,4055,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,85552000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,94632000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,300,Greece,GRC,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,4260000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,308,Grenada,GRD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,22000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,320,Guatemala,GTM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,146651000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,332,Haiti,HTI,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,9984000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,340,Honduras,HND,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,49457000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,12180000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,10249000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,388,Jamaica,JAM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,88128000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,31733000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,422,Lebanon,LBN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,17463000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,76132000,,,0
+H1,2002,2002,2002,6,1,1,Import,862,Venezuela,VEN,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3438,,3438,,6027,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,52291000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,530,Neth. Antilles,ANT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,1460549000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,533,Aruba,ABW,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,3861000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,554,New Zealand,NZL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,3185000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,558,Nicaragua,NIC,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,111052000,,,0
+H1,2002,2002,2002,6,1,1,Import,862,Venezuela,VEN,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,101194200,,101194200,,5849341,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,1079000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,591,Panama,PAN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,136053000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,604,Peru,PER,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,86021000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,620,Portugal,PRT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,111406000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,699,India,IND,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,353022000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,103082000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,724,Spain,ESP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,395563000,,,0
+H1,2002,2002,2002,6,1,1,Import,862,Venezuela,VEN,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,40,,40,,6,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,176359000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,266360000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,9455000,,,0
+H1,2002,2002,2002,6,1,1,Import,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,113,,113,,12,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,168850000,,,0
+H1,2002,2002,2002,6,1,1,Import,862,Venezuela,VEN,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2789,,2789,,6315,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,11244652000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,858,Uruguay,URY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,66312000,,,0
+H1,2002,2002,2002,6,1,2,Export,862,Venezuela,VEN,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",1,No Quantity,,,,,,,986320000,,,0

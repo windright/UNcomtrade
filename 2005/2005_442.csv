@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2005,2005,2005,6,1,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,76670,,76670,,164648,,,0
+H2,2005,2005,2005,6,1,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,151,,151,,172,,,0
+H2,2005,2005,2005,6,1,1,Import,442,Luxembourg,LUX,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,75708,,75708,,150728,,,0
+H2,2005,2005,2005,6,1,1,Import,442,Luxembourg,LUX,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,151,,151,,2311,,,0
+H2,2005,2005,2005,6,1,2,Export,442,Luxembourg,LUX,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,141,,141,,123,,,0
+H2,2005,2005,2005,6,1,1,Import,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,707,,707,,7564,,,0
+H2,2005,2005,2005,6,1,2,Export,442,Luxembourg,LUX,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10,,10,,49,,,0
+H2,2005,2005,2005,6,1,1,Import,442,Luxembourg,LUX,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,26,,26,,363,,,0
+H2,2005,2005,2005,6,1,1,Import,442,Luxembourg,LUX,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,78,,78,,3682,,,0

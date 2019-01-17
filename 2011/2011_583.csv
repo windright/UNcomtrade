@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2011,2011,2011,6,1,1,Import,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1316475,,1316475,,758263,,,6
+H2,2011,2011,2011,6,1,1,Import,583,FS Micronesia,FSM,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,19543,,19543,,11256,,,6
+H2,2011,2011,2011,6,1,1,Import,583,FS Micronesia,FSM,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10,,10,,6,,,6
+H2,2011,2011,2011,6,1,1,Import,583,FS Micronesia,FSM,316,Guam,GUM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,342836,,342836,,197467,,,6
+H2,2011,2011,2011,6,1,1,Import,583,FS Micronesia,FSM,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,30166,,30166,,17375,,,6
+H2,2011,2011,2011,6,1,1,Import,583,FS Micronesia,FSM,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,723,,723,,416,,,6
+H2,2011,2011,2011,6,1,1,Import,583,FS Micronesia,FSM,580,N. Mariana Isds,MNP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3999,,3999,,2303,,,6
+H2,2011,2011,2011,6,1,1,Import,583,FS Micronesia,FSM,584,Marshall Isds,MHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,16541,,16541,,9527,,,6
+H2,2011,2011,2011,6,1,1,Import,583,FS Micronesia,FSM,608,Philippines,PHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5287,,5287,,3045,,,6
+H2,2011,2011,2011,6,1,1,Import,583,FS Micronesia,FSM,686,Senegal,SEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,225283,,225283,,129758,,,6
+H2,2011,2011,2011,6,1,1,Import,583,FS Micronesia,FSM,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,496996,,496996,,286260,,,6
+H2,2011,2011,2011,6,1,1,Import,583,FS Micronesia,FSM,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,175092,,175092,,100849,,,6

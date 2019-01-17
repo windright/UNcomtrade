@@ -1,0 +1,14 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,364,Iran,IRN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3637,,3637,,70146,,,0
+H1,2000,2000,2000,6,1,2,Export,364,Iran,IRN,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,123843798032,,123843798032,,24799697630,,,0
+H1,2000,2000,2000,6,1,2,Export,364,Iran,IRN,251,France,FRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5108395168,,5108395168,,1022955187,,,0
+H1,2000,2000,2000,6,1,1,Import,364,Iran,IRN,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1500,,1500,,67016,,,0
+H1,2000,2000,2000,6,1,2,Export,364,Iran,IRN,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,909373848,,909373848,,182101945,,,0
+H1,2000,2000,2000,6,1,2,Export,364,Iran,IRN,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,10420529832,,10420529832,,2086709170,,,0
+H1,2000,2000,2000,6,1,2,Export,364,Iran,IRN,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,24374200680,,24374200680,,4880929174,,,0
+H1,2000,2000,2000,6,1,1,Import,364,Iran,IRN,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2137,,2137,,3130,,,0
+H1,2000,2000,2000,6,1,2,Export,364,Iran,IRN,473,"LAIA, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2981553600,,2981553600,,597055556,,,0
+H1,2000,2000,2000,6,1,2,Export,364,Iran,IRN,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,33835664104,,33835664104,,6775585473,,,0
+H1,2000,2000,2000,6,1,2,Export,364,Iran,IRN,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3225047144,,3225047144,,645815094,,,0
+H1,2000,2000,2000,6,1,2,Export,364,Iran,IRN,568,"Other Europe, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,33050521656,,33050521656,,6618360843,,,0
+H1,2000,2000,2000,6,1,2,Export,364,Iran,IRN,577,"Other Africa, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,9938512000,,9938512000,,1990185188,,,0

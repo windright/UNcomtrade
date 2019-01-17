@@ -1,0 +1,19 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,6,1,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6687802,,6687802,,787744920,,,0
+H3,2011,2011,2011,6,1,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3957348529,,3957348529,,2861952915,,,0
+H3,2011,2011,2011,6,1,1,Import,288,Ghana,GHA,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,306,,306,,2136,,,0
+H3,2011,2011,2011,6,1,2,Export,288,Ghana,GHA,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,132703000,,132703000,,121092073,,,0
+H3,2011,2011,2011,6,1,2,Export,288,Ghana,GHA,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,264416700,,264416700,,113463925,,,0
+H3,2011,2011,2011,6,1,2,Export,288,Ghana,GHA,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2280410446,,2280410446,,1586067583,,,0
+H3,2011,2011,2011,6,1,2,Export,288,Ghana,GHA,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,768897319,,768897319,,851111485,,,0
+H3,2011,2011,2011,6,1,1,Import,288,Ghana,GHA,422,Lebanon,LBN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,26,,26,,154,,,0
+H3,2011,2011,2011,6,1,2,Export,288,Ghana,GHA,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,66,,66,,54028,,,0
+H3,2011,2011,2011,6,1,2,Export,288,Ghana,GHA,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,87344552,,87344552,,61674755,,,0
+H3,2011,2011,2011,6,1,1,Import,288,Ghana,GHA,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6686176,,6686176,,787723988,,,0
+H3,2011,2011,2011,6,1,2,Export,288,Ghana,GHA,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,130676,,130676,,12837674,,,0
+H3,2011,2011,2011,6,1,2,Export,288,Ghana,GHA,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,94,,94,,251,,,0
+H3,2011,2011,2011,6,1,2,Export,288,Ghana,GHA,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,44,,44,,101,,,0
+H3,2011,2011,2011,6,1,2,Export,288,Ghana,GHA,752,Sweden,SWE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,11980581,,11980581,,10177280,,,0
+H3,2011,2011,2011,6,1,1,Import,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1293,,1293,,18641,,,0
+H3,2011,2011,2011,6,1,2,Export,288,Ghana,GHA,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,132892470,,132892470,,94411573,,,0
+H3,2011,2011,2011,6,1,2,Export,288,Ghana,GHA,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,278572581,,278572581,,11062187,,,0

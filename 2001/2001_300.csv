@@ -1,0 +1,19 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,20112238290,,20112238290,,3352882420,,,0
+H1,2001,2001,2001,6,1,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,596613372,,596613372,,94315304,,,0
+H1,2001,2001,2001,6,1,1,Import,300,Greece,GRC,31,Azerbaijan,AZE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,39772332,,39772332,,5911597,,,0
+H1,2001,2001,2001,6,1,1,Import,300,Greece,GRC,268,Georgia,GEO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,47357,,47357,,9322,,,0
+H1,2001,2001,2001,6,1,1,Import,300,Greece,GRC,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,59902,,59902,,67486,,,0
+H1,2001,2001,2001,6,1,1,Import,300,Greece,GRC,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5284683562,,5284683562,,943323630,,,0
+H1,2001,2001,2001,6,1,1,Import,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1403604746,,1403604746,,229691618,,,0
+H1,2001,2001,2001,6,1,1,Import,300,Greece,GRC,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,235020748,,235020748,,40997017,,,0
+H1,2001,2001,2001,6,1,1,Import,300,Greece,GRC,434,Libya,LBY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1190955984,,1190955984,,223966385,,,0
+H1,2001,2001,2001,6,1,1,Import,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5286185614,,5286185614,,850354993,,,0
+H1,2001,2001,2001,6,1,2,Export,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,212199,,212199,,13907,,,0
+H1,2001,2001,2001,6,1,1,Import,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6509717440,,6509717440,,1028926724,,,0
+H1,2001,2001,2001,6,1,1,Import,300,Greece,GRC,724,Spain,ESP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,18745,,18745,,18889,,,0
+H1,2001,2001,2001,6,1,1,Import,300,Greece,GRC,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,76244773,,76244773,,15003899,,,0
+H1,2001,2001,2001,6,1,2,Export,300,Greece,GRC,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,2035,,2035,,106,,,0
+H1,2001,2001,2001,6,1,2,Export,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,5351309,,5351309,,1012729,,,0
+H1,2001,2001,2001,6,1,2,Export,300,Greece,GRC,807,TFYR of Macedonia,MKD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,591047829,,591047829,,93288562,,,0
+H1,2001,2001,2001,6,1,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,85927087,,85927087,,14610859,,,0

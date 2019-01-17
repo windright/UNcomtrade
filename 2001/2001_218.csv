@@ -1,0 +1,18 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1210,,1210,,1270,,,0
+H1,2001,2001,2001,6,1,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,12574475110,,12574475110,,1722331501,,,0
+H1,2001,2001,2001,6,1,2,Export,218,Ecuador,ECU,152,Chile,CHL,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,203636366,,203636366,,27347118,,,0
+H1,2001,2001,2001,6,1,2,Export,218,Ecuador,ECU,222,El Salvador,SLV,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,429773006,,429773006,,60294721,,,0
+H1,2001,2001,2001,6,1,1,Import,218,Ecuador,ECU,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,7,,7,,7,,,0
+H1,2001,2001,2001,6,1,2,Export,218,Ecuador,ECU,388,Jamaica,JAM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,48348951,,48348951,,8008307,,,0
+H1,2001,2001,2001,6,1,2,Export,218,Ecuador,ECU,392,Japan,JPN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,274410212,,274410212,,36407965,,,0
+H1,2001,2001,2001,6,1,2,Export,218,Ecuador,ECU,410,Rep. of Korea,KOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1696446433,,1696446433,,237559168,,,0
+H1,2001,2001,2001,6,1,2,Export,218,Ecuador,ECU,490,"Other Asia, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,39967552,,39967552,,6645821,,,0
+H1,2001,2001,2001,6,1,2,Export,218,Ecuador,ECU,591,Panama,PAN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1725566015,,1725566015,,231865762,,,0
+H1,2001,2001,2001,6,1,2,Export,218,Ecuador,ECU,604,Peru,PER,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1888011887,,1888011887,,262987608,,,0
+H1,2001,2001,2001,6,1,2,Export,218,Ecuador,ECU,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,11188812,,11188812,,1082330,,,0
+H1,2001,2001,2001,6,1,2,Export,218,Ecuador,ECU,764,Thailand,THA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,52867133,,52867133,,7943292,,,0
+H1,2001,2001,2001,6,1,1,Import,218,Ecuador,ECU,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1203,,1203,,1263,,,0
+H1,2001,2001,2001,6,1,2,Export,218,Ecuador,ECU,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,6064613989,,6064613989,,821654185,,,0
+H1,2001,2001,2001,6,1,2,Export,218,Ecuador,ECU,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3916084,,3916084,,611212,,,0
+H1,2001,2001,2001,6,1,2,Export,218,Ecuador,ECU,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,135728670,,135728670,,19924012,,,0

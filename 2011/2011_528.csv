@@ -1,0 +1,72 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,55108848095,,55108848095,,45423479790,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,81621201,,81621201,,62782814,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,12,Algeria,DZA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2277487862,,2277487862,,2079156620,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1169509000,,1169509000,,879603615,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12,,12,,462,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,36,Australia,AUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,595,,595,,63,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2263714484,,2263714484,,2091886847,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,56,Belgium,BEL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4561553,,4561553,,5814382,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,254078000,,254078000,,173260790,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,103453295,,103453295,,83699038,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,38,,38,,821,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,124,Canada,CAN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,1,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,156,China,CHN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10,,10,,147,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,95641000,,95641000,,73835649,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,178,Congo,COG,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,252005008,,252005008,,195188546,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,120270000,,120270000,,97636652,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,58,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,404955000,,404955000,,307325732,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,19,,19,,296,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,218,Ecuador,ECU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,1,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,865255153,,865255153,,781104896,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,324,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,251,France,FRA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12,,12,,422,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,260,Fr. South Antarctic Terr.,ATF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5,,5,,356,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,266,Gabon,GAB,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,20,,20,,1473,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,15456319,,15456319,,12962075,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,276,Germany,DEU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5797000,,5797000,,4017455,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,300,Greece,GRC,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,29,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,348,Hungary,HUN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,426123,,426123,,738875,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,364,Iran,IRN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,664222000,,664222000,,474192099,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3346950000,,3346950000,,2587016575,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,112130000,,112130000,,88811123,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,224,,224,,3825,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,392,Japan,JPN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,20,,20,,47,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2057179922,,2057179922,,1823832675,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,398,Kazakhstan,KAZ,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,1,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,414,Kuwait,KWT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3849232000,,3849232000,,2972390782,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,434,Libya,LBY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,533458108,,533458108,,485428233,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5,,5,,249,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,458,Malaysia,MYS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,170,,170,,63,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,470,Malta,MLT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,139,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,1,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,512,Oman,OMN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,9,,9,,590,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4191442155,,4191442155,,3515606629,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,70835217,,70835217,,52208734,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,6182490211,,6182490211,,5292775113,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,579,Norway,NOR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,22,,22,,28,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,586,Pakistan,PAK,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,12,,12,,181,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,608,Philippines,PHL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10,,10,,344,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,634,Qatar,QAT,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,898841001,,898841001,,829527860,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,15608968931,,15608968931,,12795253732,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,5433166000,,5433166000,,4245481085,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,686,Senegal,SEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,15,,15,,256,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,699,India,IND,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,231,,231,,487,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,702,Singapore,SGP,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,21,,21,,519,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,710,South Africa,ZAF,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,45,,45,,543,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,736,Fmr Sudan,SDN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,59,,59,,198,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,760,Syria,SYR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,667462000,,667462000,,473609107,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,768,Togo,TGO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,17,,17,,77,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,161478000,,161478000,,128104656,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,784,United Arab Emirates,ARE,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,126148080,,126148080,,95952464,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,788,Tunisia,TUN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,180055944,,180055944,,165162012,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,26,,26,,85,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,795,Turkmenistan,TKM,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2,,2,,1,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,86,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,4,,4,,7,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3273704852,,3273704852,,2674556164,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,2514,,2514,,21296,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,205,,205,,223,,,0
+H3,2011,2011,2011,6,1,2,Export,528,Netherlands,NLD,862,Venezuela,VEN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,1,,1,,1354,,,0
+H3,2011,2011,2011,6,1,1,Import,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,90731,,90731,,87335,,,0

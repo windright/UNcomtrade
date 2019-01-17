@@ -1,0 +1,19 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,12256648031,,12256648031,,2432398169,,,6
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,24,Angola,AGO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,274524404,,274524404,,49997946,,,0
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,208,Denmark,DNK,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,338136240,,338136240,,69452930,,,0
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,276,Germany,DEU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,15,,15,,660,,,0
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1681593751,,1681593751,,344262803,,,0
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,368,Iraq,IRQ,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,807788532,,807788532,,161394542,,,0
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,381,Italy,ITA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,755,,755,,5682,,,0
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,484,Mexico,MEX,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,941874751,,941874751,,150657689,,,0
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,18,,18,,124,,,0
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3989594627,,3989594627,,791756657,,,6
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,579,Norway,NOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,534137241,,534137241,,125373026,,,0
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,285359324,,285359324,,56565760,,,0
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,682,Saudi Arabia,SAU,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1825308271,,1825308271,,370211146,,,0
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,724,Spain,ESP,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,37,,37,,74,,,0
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,760,Syria,SYR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,143254898,,143254898,,22439497,,,0
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,818,Egypt,EGY,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,489623193,,489623193,,91259164,,,0
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,826,United Kingdom,GBR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,918981434,,918981434,,198783323,,,0
+H1,2000,2000,2000,6,1,1,Import,620,Portugal,PRT,899,"Areas, nes",,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,26470540,,26470540,,237149,,,0

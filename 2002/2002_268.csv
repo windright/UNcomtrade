@@ -1,0 +1,9 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2002,2002,2002,6,1,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3609990,,3609990,,384817,,,0
+H1,2002,2002,2002,6,1,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,50933042,,50933042,,6528448,,,0
+H1,2002,2002,2002,6,1,2,Export,268,Georgia,GEO,292,Gibraltar,GIB,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,12692508,,12692508,,1779893,,,0
+H1,2002,2002,2002,6,1,1,Import,268,Georgia,GEO,364,Iran,IRN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,201330,,201330,,38253,,,0
+H1,2002,2002,2002,6,1,1,Import,268,Georgia,GEO,643,Russian Federation,RUS,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,383894,,383894,,32721,,,0
+H1,2002,2002,2002,6,1,2,Export,268,Georgia,GEO,757,Switzerland,CHE,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,18421648,,18421648,,2527938,,,0
+H1,2002,2002,2002,6,1,2,Export,268,Georgia,GEO,792,Turkey,TUR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,19818886,,19818886,,2220617,,,0
+H1,2002,2002,2002,6,1,1,Import,268,Georgia,GEO,795,Turkmenistan,TKM,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,3024766,,3024766,,313843,,,0

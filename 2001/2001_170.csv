@@ -1,0 +1,14 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,320232486,,320232486,,53557462,,,0
+H1,2001,2001,2001,6,1,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,15945431188,,15945431188,,2590536002,,,0
+H1,2001,2001,2001,6,1,1,Import,170,Colombia,COL,32,Argentina,ARG,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,118414713,,118414713,,15450020,,,0
+H1,2001,2001,2001,6,1,2,Export,170,Colombia,COL,76,Brazil,BRA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,102880302,,102880302,,16455249,,,0
+H1,2001,2001,2001,6,1,2,Export,170,Colombia,COL,188,Costa Rica,CRI,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,44826180,,44826180,,7622280,,,0
+H1,2001,2001,2001,6,1,2,Export,170,Colombia,COL,530,Neth. Antilles,ANT,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,95535447,,95535447,,10126757,,,0
+H1,2001,2001,2001,6,1,1,Import,170,Colombia,COL,533,Aruba,ABW,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,48519731,,48519731,,10109795,,,0
+H1,2001,2001,2001,6,1,1,Import,170,Colombia,COL,566,Nigeria,NGA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,59705416,,59705416,,8227340,,,0
+H1,2001,2001,2001,6,1,1,Import,170,Colombia,COL,579,Norway,NOR,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,93592626,,93592626,,19770307,,,0
+H1,2001,2001,2001,6,1,2,Export,170,Colombia,COL,591,Panama,PAN,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,558394201,,558394201,,76530813,,,0
+H1,2001,2001,2001,6,1,2,Export,170,Colombia,COL,604,Peru,PER,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,61201392,,61201392,,9196030,,,0
+H1,2001,2001,2001,6,1,2,Export,170,Colombia,COL,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,1003621920,,1003621920,,154689707,,,0
+H1,2001,2001,2001,6,1,2,Export,170,Colombia,COL,842,USA,USA,,,,,,,,270900,"Petroleum oils, oils from bituminous minerals, crude",8,Weight in kilograms,,,14078971746,,14078971746,,2315915166,,,0

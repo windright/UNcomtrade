@@ -1,0 +1,54 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,55478186030,,21419911364,,,6
+H4,2017,2017,2017,6,1,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,181997090,,68170194,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,12,Algeria,DZA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,257957149,,99596249,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,36,Australia,AUS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,688427213,,265799063,,,6
+H4,2017,2017,2017,6,1,2,Export,702,Singapore,SGP,36,Australia,AUS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,181909052,,68137218,,,6
+H4,2017,2017,2017,6,1,2,Export,702,Singapore,SGP,50,Bangladesh,BGD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,71,,71,,26,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,68,Bolivia (Plurinational State of),BOL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,91580809,,35358993,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,76,Brazil,BRA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,248,,248,,96,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,96,Brunei Darussalam,BRN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,682564112,,263535342,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,104,Myanmar,MMR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,51955287,,20059733,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,156,China,CHN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,202592820,,202592820,,78220298,,,6
+H4,2017,2017,2017,6,1,2,Export,702,Singapore,SGP,156,China,CHN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,4311,,1614,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,170,Colombia,COL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,125355212,,48399158,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,178,Congo,COG,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,0,,0,,1,,,0
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,226,Equatorial Guinea,GNQ,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,564002123,,217759021,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,276,Germany,DEU,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,6670,,6670,,2575,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,288,Ghana,GHA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,535,,206,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,360,Indonesia,IDN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,1714091853,,661804182,,,6
+H4,2017,2017,2017,6,1,2,Export,702,Singapore,SGP,360,Indonesia,IDN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,4239,,1587,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,368,Iraq,IRQ,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,976917501,,377184039,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,392,Japan,JPN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,44731,,44731,,17270,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,398,Kazakhstan,KAZ,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,203616524,,78615546,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,410,Rep. of Korea,KOR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,21164177,,8171406,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,414,Kuwait,KWT,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,6322908551,,2441250343,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,434,Libya,LBY,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,617197297,,238297470,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,458,Malaysia,MYS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,2452368284,,946849834,,,6
+H4,2017,2017,2017,6,1,2,Export,702,Singapore,SGP,458,Malaysia,MYS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,62270,,62270,,23324,,,6
+H4,2017,2017,2017,6,1,2,Export,702,Singapore,SGP,462,Maldives,MDV,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,13641,,5109,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,484,Mexico,MEX,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,18735877,,7233849,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,490,"Other Asia, nes",,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,5,,5,,2,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,512,Oman,OMN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,180749707,,69786757,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,554,New Zealand,NZL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,245947562,,94959395,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,566,Nigeria,NGA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,66036364,,25496382,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,579,Norway,NOR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,73,,28,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,586,Pakistan,PAK,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,591,,591,,228,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,598,Papua New Guinea,PNG,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,392302993,,151466656,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,608,Philippines,PHL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,51711076,,19965444,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,626,Timor-Leste,TLS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,186680357,,72076558,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,634,Qatar,QAT,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,11240960864,,4340091170,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,643,Russian Federation,RUS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,1432301455,,553006008,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,682,Saudi Arabia,SAU,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,10364804692,,4001810687,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,699,India,IND,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,847026,,327033,,,6
+H4,2017,2017,2017,6,1,2,Export,702,Singapore,SGP,699,India,IND,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,69,,26,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,704,Viet Nam,VNM,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,744533719,,287461566,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,764,Thailand,THA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,200433831,,77386721,,,6
+H4,2017,2017,2017,6,1,2,Export,702,Singapore,SGP,764,Thailand,THA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,3270,,1224,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,784,United Arab Emirates,ARE,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,15238972951,,5883708052,,,6
+H4,2017,2017,2017,6,1,2,Export,702,Singapore,SGP,784,United Arab Emirates,ARE,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,13,,13,,5,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,788,Tunisia,TUN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,45179910,,17443787,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,792,Turkey,TUR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,18,,18,,7,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,826,United Kingdom,GBR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,5662,,2186,,,6
+H4,2017,2017,2017,6,1,1,Import,702,Singapore,SGP,842,USA,USA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,95230185,,95230185,,36768003,,,6
+H4,2017,2017,2017,6,1,2,Export,702,Singapore,SGP,842,USA,USA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,150,,150,,56,,,6

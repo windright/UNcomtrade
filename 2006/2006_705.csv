@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2006,2006,2006,6,1,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,128304,,128304,,100448,,,0
+H2,2006,2006,2006,6,1,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,469999,,469999,,212206,,,0
+H2,2006,2006,2006,6,1,1,Import,705,Slovenia,SVN,348,Hungary,HUN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,50000,,50000,,33465,,,0
+H2,2006,2006,2006,6,1,2,Export,705,Slovenia,SVN,348,Hungary,HUN,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,469999,,469999,,212206,,,0
+H2,2006,2006,2006,6,1,1,Import,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,33,,33,,184,,,0
+H2,2006,2006,2006,6,1,1,Import,705,Slovenia,SVN,528,Netherlands,NLD,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,54,,54,,1510,,,0
+H2,2006,2006,2006,6,1,1,Import,705,Slovenia,SVN,568,"Other Europe, nes",,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,3207,,3207,,2525,,,0
+H2,2006,2006,2006,6,1,1,Import,705,Slovenia,SVN,616,Poland,POL,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,75000,,75000,,62239,,,0
+H2,2006,2006,2006,6,1,1,Import,705,Slovenia,SVN,842,USA,USA,,,,,,,,270900,"Petroleum oils & oils obt. from bituminous mins., crude",8,Weight in kilograms,,,10,,10,,526,,,0

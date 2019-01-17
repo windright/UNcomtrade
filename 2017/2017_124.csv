@@ -1,0 +1,50 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,39144312,,,,12768537010,,,0
+H5,2017,2017,2017,6,1,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,0,,54037754034,,,6
+H5,2017,2017,2017,6,1,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,18,,0,,15104,,,0
+H5,2017,2017,2017,6,1,4,Re-Import,124,Canada,CAN,0,World,WLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,0,,,,55,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,12,Algeria,DZA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,1892828,,,,634306592,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,24,Angola,AGO,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,386172,,,,130283375,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,31,Azerbaijan,AZE,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,3057495,,,,1017078400,,,0
+H5,2017,2017,2017,6,1,2,Export,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,100544240,,100544240,,37660604,,,6
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,56,Belgium,BEL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,0,,,,0,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,0,,,,12,,,0
+H5,2017,2017,2017,6,1,2,Export,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,3147,,3147,,1179,,,6
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,124,Canada,CAN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,0,,,,55,,,0
+H5,2017,2017,2017,6,1,4,Re-Import,124,Canada,CAN,124,Canada,CAN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,0,,,,55,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,156,China,CHN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,0,,,,4,,,0
+H5,2017,2017,2017,6,1,2,Export,124,Canada,CAN,156,China,CHN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",1,No Quantity,,,0,,0,,201331326,,,6
+H5,2017,2017,2017,6,1,3,Re-Export,124,Canada,CAN,156,China,CHN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,17,,0,,4041,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,493892,,,,156241120,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,178,Congo,COG,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,0,,,,41,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,233,Estonia,EST,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,0,,,,1,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,1,,,,84,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,276,Germany,DEU,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,0,,,,7,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,288,Ghana,GHA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,1,,,,181,,,0
+H5,2017,2017,2017,6,1,2,Export,124,Canada,CAN,288,Ghana,GHA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,197,,197,,73,,,6
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,164891,,,,54384777,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,372,Ireland,IRL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,0,,,,33,,,0
+H5,2017,2017,2017,6,1,2,Export,124,Canada,CAN,381,Italy,ITA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,586109430,,586109430,,219537540,,,6
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,213750,,,,76577618,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,398,Kazakhstan,KAZ,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,327813,,,,103974096,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,0,,,,46,,,0
+H5,2017,2017,2017,6,1,2,Export,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,1,,0,,11062,,,0
+H5,2017,2017,2017,6,1,3,Re-Export,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,1,,0,,11062,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,0,,,,20,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,25,,,,206,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,512,Oman,OMN,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,1,,,,158,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,0,,,,1,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,2184733,,,,758473506,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,579,Norway,NOR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,2232273,,,,760735112,,,0
+H5,2017,2017,2017,6,1,2,Export,124,Canada,CAN,616,Poland,POL,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,89109077,,89109077,,33377363,,,6
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,343883,,,,110573702,,,0
+H5,2017,2017,2017,6,1,2,Export,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,4477,,4477,,1676,,,6
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,5922992,,,,1914711944,,,0
+H5,2017,2017,2017,6,1,2,Export,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,442,,442,,165,,,6
+H5,2017,2017,2017,6,1,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,129082019,,129082019,,48349928,,,6
+H5,2017,2017,2017,6,1,2,Export,124,Canada,CAN,724,Spain,ESP,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,143284591,,143284591,,53669750,,,6
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,0,,,,63,,,0
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,1173095,,,,405798894,,,0
+H5,2017,2017,2017,6,1,2,Export,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,641313532,,641313532,,240215202,,,6
+H5,2017,2017,2017,6,1,1,Import,124,Canada,CAN,842,USA,USA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",12,Volume in cubic meters,,,20750467,,,,6645396947,,,0
+H5,2017,2017,2017,6,1,2,Export,124,Canada,CAN,842,USA,USA,,,,,,,,270900,"Oils; petroleum oils and oils obtained from bituminous minerals, crude",8,Weight in kilograms,,,142040083623,,142040083623,,53203598159,,,6
